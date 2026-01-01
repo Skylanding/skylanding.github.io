@@ -41,7 +41,7 @@
 
 <div class="pub-item">
   <strong>Unlocking Implicit Self-Reflection in Preference Optimization for LLM Alignment</strong><br/>
-  <span class="meta">2025年8月 – 至今</span>
+  <span class="meta">2025.8 – 2025.11</span> · <a href="https://arxiv.org/abs/2512.23126" target="_blank" rel="noopener">Paper</a></span>
   <div>利用偏好对中的隐式偏好信息建立自我改进机制，推广现有偏好优化方法的理论基础，以增强LLM对齐。</div>
   <div class="chips">
     <span class="chip">DPO</span><span class="chip">SimPO</span><span class="chip">偏好学习</span>
@@ -50,7 +50,7 @@
 
 <div class="pub-item">
   <strong>Aligning LLMs with Finite State Machine Logic for Multi-turn Verilog Code Generation</strong><br/>
-  <span class="meta">2025年9月 – 至今</span>
+  <span class="meta">2025.8 – 2025.11</span>
   <div>使LLM通过结构化对齐学习有限状态机的状态转换逻辑，构建用于Verilog代码合成的多轮生成范式。</div>
   <div class="chips">
     <span class="chip">RLVR</span><span class="chip">LLM代码生成</span><span class="chip">Verilog 状态机</span>
@@ -59,7 +59,7 @@
 
 <div class="pub-item">
   <strong>CRAFT-LORA: Content-Style Personalization via Rank-Constrained Adaptation</strong><br/>
-  <span class="meta">2025年4月 – 2025年7月</span>
+  <span class="meta">2025.4 – 2025.7</span>
   <div>通过秩空间约束微调增强内容-风格LoRA分解，并通过提示映射和非对称CFG实现风格-内容LoRA融合，以实现个性化图像生成。</div>
   <div class="chips">
     <span class="chip">生成式AI</span><span class="chip">个性化生图</span><span class="chip">LoRA</span>
@@ -68,7 +68,7 @@
 
 <div class="pub-item">
   <strong>Prada: Black-Box LLM Adaptation with Private Data on Devices</strong><br/>
-  <span class="meta">2025年1月 – 2025年4月</span> · <a href="https://arxiv.org/abs/2503.14932" target="_blank" rel="noopener">Paper</a></span>
+  <span class="meta">2025.1 – 2025.4</span> · <a href="https://arxiv.org/abs/2503.14932" target="_blank" rel="noopener">Paper</a></span>
   <div>通过概率差分方法在边缘设备系统上实现高效的黑盒LLM自适应，同时强有力地保护数据隐私。</div>
   <div class="chips">
     <span class="chip">黑盒LLM</span><span class="chip">边缘AI</span><span class="chip">隐私保护</span>
