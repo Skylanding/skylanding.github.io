@@ -40,7 +40,7 @@ My research interests focus on **Generative AI**, **Reinforcement Learning (RL)*
 
 <div class="pub-item">
   <strong>Unlocking Implicit Self-Reflection in Preference Optimization for LLM Alignment</strong><br/>
-  <span class="meta">Aug. 2025 – Present</span>
+  <span class="meta">Aug. 2025 – Nov. 2025</span> · <a href="https://arxiv.org/abs/2512.23126" target="_blank" rel="noopener">Paper</a></span>
   <div>Leveraging implicit preference information within preference pairs to establish a self-improvement mechanism, generalizing the theoretical foundation of existing preference optimization methods to enhance LLM alignment.</div>
   <div class="chips">
     <span class="chip">DPO</span><span class="chip">SimPO</span><span class="chip">Preference Learning</span>
@@ -49,7 +49,7 @@ My research interests focus on **Generative AI**, **Reinforcement Learning (RL)*
 
 <div class="pub-item">
   <strong>Aligning LLMs with Finite State Machine Logic for Multi-turn Verilog Code Generation</strong><br/>
-  <span class="meta">Sept. 2025 – Present</span>
+  <span class="meta">Sept. 2025 – Nov. 2025</span>
   <div>Enabling LLMs to learn state transition logic of finite state machines through structured alignment, constructing a multi-turn generation paradigm for Verilog code synthesis.</div>
   <div class="chips">
     <span class="chip">RLVR</span><span class="chip">Code Generation</span><span class="chip">Verilog FSM</span>
