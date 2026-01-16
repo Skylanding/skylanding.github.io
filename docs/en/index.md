@@ -66,6 +66,18 @@ My research interests focus on **Generative AI**, **Reinforcement Learning (RL)*
 </div>
 
 <div class="pub-item">
+  <strong>KG-SAM: Injecting Anatomical Knowledge into Segment Anything Models via Conditional Random Fields</strong><br/>
+  <div class="authors">
+    <b>Yu Li</b>, Da Chang, Xi Xiao
+  </div>
+  <span class="meta"><span class="text-blue"><i>ICASSP 2026</i></span> · <a href="https://arxiv.org/abs/2509.21750" target="_blank" rel="noopener">Paper</a> · <a href="" target="_blank" rel="noopener">Code</a></span>
+  <div>A knowledge-guided framework for medical image segmentation that integrates a medical knowledge graph for anatomical priors, an energy-based CRF for boundary refinement, and an uncertainty-aware fusion module, achieving 82.69% Dice on multi-site prostate segmentation.</div>
+  <div class="chips">
+    <span class="chip">Medical Segmentation</span><span class="chip">SAM</span><span class="chip">Knowledge Graph</span><span class="chip">CRF</span>
+  </div>
+</div>
+
+<div class="pub-item">
   <strong>Prada: Black-Box LLM Adaptation with Private Data on Devices</strong><br/>
   <span class="meta">Jan. 2025 – Apr. 2025</span> · <a href="https://arxiv.org/abs/2503.14932" target="_blank" rel="noopener">Paper</a></span>
   <div>Achieving efficient black-box LLM adaptation on edge device systems through probability differential methods while robustly preserving data privacy.</div>
@@ -79,7 +91,7 @@ My research interests focus on **Generative AI**, **Reinforcement Learning (RL)*
   <div class="authors">
     Da Chang, Peng Xue, <b>Yu Li</b> , Yongxiang Liu, Pengxiang Xu, Shixun Zhang
   </div>
-  <span class="meta"><span class="text-blue"><i>AAAI 2026</i></span> · <a href="https://arxiv.org/pdf/2511.00051" target="_blank" rel="noopener">PDF</a> · <a href="https://github.com/MaeChd/SORA" target="_blank" rel="noopener">Code</a></span>
+  <span class="meta"><span class="text-blue"><i>AAAI 2026</i></span> · <a href="https://arxiv.org/pdf/2511.00051" target="_blank" rel="noopener">Paper</a> · <a href="https://github.com/MaeChd/SORA" target="_blank" rel="noopener">Code</a></span>
   <div>Analyze the properties of DoRA and LoRA, and unify the “calibration + rotation” weight conditioning strategy to enhance the performance and training-inference efficiency of PEFT.</div>
   <div class="chips">
     <span class="chip">LLMs PEFT</span><span class="chip">Weight Conditioning</span>

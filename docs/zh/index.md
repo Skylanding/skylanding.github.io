@@ -41,10 +41,10 @@
 
 <div class="pub-item">
   <strong>Unlocking Implicit Self-Reflection in Preference Optimization for LLM Alignment</strong><br/>
-  <span class="meta">2025.8 – 2025.11</span> · <a href="https://arxiv.org/abs/2512.23126" target="_blank" rel="noopener">Paper</a></span>
+  <span class="meta">2025.8 – 2025.11</span> · <a href="https://arxiv.org/abs/2512.23126" target="_blank" rel="noopener">论文</a></span>
   <div>利用偏好对中的隐式偏好信息建立自我改进机制，推广现有偏好优化方法的理论基础，以增强LLM对齐。</div>
   <div class="chips">
-    <span class="chip">DPO</span><span class="chip">SimPO</span><span class="chip">偏好学习</span>
+    <span class="chip">直接偏好优化</span><span class="chip">简单偏好优化</span><span class="chip">强化学习</span>
   </div>
 </div>
 
@@ -53,7 +53,7 @@
   <span class="meta">2025.8 – 2025.11</span>
   <div>使LLM通过结构化对齐学习有限状态机的状态转换逻辑，构建用于Verilog代码合成的多轮生成范式。</div>
   <div class="chips">
-    <span class="chip">RLVR</span><span class="chip">LLM代码生成</span><span class="chip">Verilog 状态机</span>
+    <span class="chip">RLVR</span><span class="chip">代码生成</span><span class="chip">Verilog 状态机</span>
   </div>
 </div>
 
@@ -63,6 +63,18 @@
   <div>通过秩空间约束微调增强内容-风格LoRA分解，并通过提示映射和非对称CFG实现风格-内容LoRA融合，以实现个性化图像生成。</div>
   <div class="chips">
     <span class="chip">生成式AI</span><span class="chip">个性化生图</span><span class="chip">LoRA</span>
+  </div>
+</div>
+
+<div class="pub-item">
+  <strong>KG-SAM: Injecting Anatomical Knowledge into Segment Anything Models via Conditional Random Fields</strong><br/>
+  <div class="authors">
+    <b>Yu Li</b>, Da Chang, Xi Xiao
+  </div>
+  <span class="meta"><span class="text-blue"><i>ICASSP 2026</i></span> · <a href="https://arxiv.org/abs/2509.21750" target="_blank" rel="noopener">论文</a> · <a href="" target="_blank" rel="noopener">代码</a></span>
+  <div>面向医学图像分割的知识引导框架，融合医学知识图谱编码解剖先验、基于能量的CRF优化边界精度，以及不确定性感知融合模块提升临床可靠性，在多中心前列腺分割任务上达到82.69% Dice。</div>
+  <div class="chips">
+    <span class="chip">医学分割</span><span class="chip">SAM</span><span class="chip">知识图谱</span><span class="chip">CRF</span>
   </div>
 </div>
 
