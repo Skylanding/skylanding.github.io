@@ -40,7 +40,7 @@ My research interests focus on **Generative AI**, **Reinforcement Learning (RL)*
 
 <div class="pub-item">
   <strong>Unlocking Implicit Self-Reflection in Preference Optimization for LLM Alignment</strong><br/>
-  <span class="meta">Aug. 2025 – Nov. 2025</span> · <a href="https://arxiv.org/abs/2512.23126" target="_blank" rel="noopener">Paper</a></span>
+  <span class="meta">Aug. 2025 – Nov. 2025</span> · <a href="https://arxiv.org/abs/2512.23126" target="_blank" rel="noopener">Paper</a> · <a href="https://github.com/Skylanding/InsPO" target="_blank" rel="noopener">Code</a></span>
   <div>Leveraging implicit preference information within preference pairs to establish a self-improvement mechanism, generalizing the theoretical foundation of existing preference optimization methods to enhance LLM alignment.</div>
   <div class="chips">
     <span class="chip">DPO</span><span class="chip">SimPO</span><span class="chip">Preference Learning</span>
