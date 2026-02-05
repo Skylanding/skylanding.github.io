@@ -42,7 +42,7 @@
 
 <div class="pub-item">
   <strong>Unlocking Implicit Self-Reflection in Preference Optimization for LLM Alignment</strong><br/>
-  <span class="meta">2025.8 – 2025.11</span> · <a href="https://arxiv.org/abs/2512.23126" target="_blank" rel="noopener">论文</a></span>
+  <span class="meta">2025.8 – 2025.11</span> · <a href="https://arxiv.org/abs/2512.23126" target="_blank" rel="noopener">论文</a> · <a href="https://github.com/Skylanding/InsPO" target="_blank" rel="noopener">代码</a></span>
   <div>利用偏好对中的隐式偏好信息建立自我改进机制，推广现有偏好优化方法的理论基础，以增强LLM对齐。</div>
   <div class="chips">
     <span class="chip">直接偏好优化</span><span class="chip">简单偏好优化</span><span class="chip">强化学习</span>
