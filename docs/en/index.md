@@ -27,6 +27,7 @@ My research interests focus on **Generative AI**, **Reinforcement Learning (RL)*
 ---
 
 ## News
+- **[01/2026]** I passed my PhD qualifying exam in my first semester and am now a PhD candidate 🎓.
 - **[01/2026]** Our work *KG-SAM: Injecting Anatomical Knowledge into Segment Anything Models via Conditional Random Fields* was accepted at ICASSP 2026 🎉.
 - **[11/2025]** Our work *Calibrating and Rotating: A Unified Framework for Weight Conditioning in PEFT* was accepted at AAAI 2026 🎉.
 - **[08/2025]** I started my ECE PhD journey at GWU, supervised by Prof.Tian Lan 🎓.
