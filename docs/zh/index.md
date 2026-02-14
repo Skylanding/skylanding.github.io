@@ -28,7 +28,7 @@
 ---
 
 ## 近期动态 (News)
-- **[02/2026]** 一篇论文被 ICCN@INFOCOM 2026 接收，东京见。
+- **[02/2026]** ACDZero被 ICCN@INFOCOM 2026 接收，东京见。
 - **[01/2026]** 我在第一学期就通过了博士资格考试！现在已成为博士候选人（PhD Candidate）🎓.
 - **[01/2026]** 论文 *KG-SAM: Injecting Anatomical Knowledge into Segment Anything Models via Conditional Random Fields* 被 ICASSP 2026 接收 🎉.
 - **[11/2025]** 论文 *Calibrating and Rotating: A Unified Framework for Weight Conditioning in PEFT* 被 AAAI 2026 接收 🎉.
