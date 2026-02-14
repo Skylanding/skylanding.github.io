@@ -32,8 +32,6 @@
 - **[01/2026]** 我在第一学期就通过了博士资格考试！现在已成为博士候选人（PhD Candidate）🎓.
 - **[01/2026]** 论文 *KG-SAM: Injecting Anatomical Knowledge into Segment Anything Models via Conditional Random Fields* 被 ICASSP 2026 接收 🎉.
 - **[11/2025]** 论文 *Calibrating and Rotating: A Unified Framework for Weight Conditioning in PEFT* 被 AAAI 2026 接收 🎉.
-- **[05/2025]** 从珞珈山毕业，再见了我的母校 👋.
-
 ---
 
 ## 论文发表 (Publications)
@@ -74,6 +72,18 @@
 ### 会议论文 (Conferences)
 
 <div class="pub-list">
+
+<div class="pub-item">
+  <strong>ACDZero: MCTS Agent for Mastering Automated Cyber Defense</strong><br/>
+  <div class="authors">
+    <b>Yu Li</b>, Sizhe Tang, Rongqian Chen, Fei Xu Yu, Guangyu Jiang, Mahdi Imani, Nathaniel D. Bastian, Tian Lan
+  </div>
+  <span class="meta"><span class="text-blue"><i>ICCN@INFOCOM 2026</i></span> · <a href="https://arxiv.org/abs/2601.02196" target="_blank" rel="noopener">论文</a> · <a href="https://github.com/Skylanding/ACDZero" target="_blank" rel="noopener">代码</a></span>
+  <div>结合图表示学习的 MCTS 规划方法，用于样本高效的自动化网络防御。</div>
+  <div class="chips">
+    <span class="chip">网络防御</span><span class="chip">MCTS</span><span class="chip">GNN</span>
+  </div>
+</div>
 
 <div class="pub-item">
   <strong>KG-SAM: Injecting Anatomical Knowledge into Segment Anything Models via Conditional Random Fields</strong><br/>

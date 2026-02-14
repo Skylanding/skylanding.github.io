@@ -30,8 +30,6 @@ My research interests focus on **Generative AI**, **Reinforcement Learning (RL)*
 - **[01/2026]** I passed my PhD qualifying exam in my first semester and am now a PhD candidate 🎓.
 - **[01/2026]** Our work *KG-SAM: Injecting Anatomical Knowledge into Segment Anything Models via Conditional Random Fields* was accepted by ICASSP 2026 🎉.
 - **[11/2025]** Our work *Calibrating and Rotating: A Unified Framework for Weight Conditioning in PEFT* was accepted by AAAI 2026 🎉.
-- **[05/2025]** Graduated from Wuhan University, goodbye to my home university 👋.
-
 ---
 
 ## Publications
@@ -73,6 +71,19 @@ My research interests focus on **Generative AI**, **Reinforcement Learning (RL)*
 ### Conferences
 
 <div class="pub-list">
+
+
+<div class="pub-item">
+  <strong>ACDZero: MCTS Agent for Mastering Automated Cyber Defense</strong><br/>
+  <div class="authors">
+    <b>Yu Li</b>, Sizhe Tang, Rongqian Chen, Fei Xu Yu, Guangyu Jiang, Mahdi Imani, Nathaniel D. Bastian, Tian Lan
+  </div>
+  <span class="meta"><span class="text-blue"><i>ICCN@INFOCOM 2026</i></span> · <a href="https://arxiv.org/abs/2601.02196" target="_blank" rel="noopener">Paper</a> · <a href="https://github.com/Skylanding/ACDZero" target="_blank" rel="noopener">Code</a></span>
+  <div>Graph-embedding-guided MCTS planning for sample-efficient automated cyber defense.</div>
+  <div class="chips">
+    <span class="chip">Cyber Defense</span><span class="chip">MCTS</span><span class="chip">GNN</span>
+  </div>
+</div>
 
 <div class="pub-item">
   <strong>KG-SAM: Injecting Anatomical Knowledge into Segment Anything Models via Conditional Random Fields</strong><br/>
