@@ -200,11 +200,10 @@
 
 ---
 
-## 技能 (Skills)
+## 学术服务 (Academic Services)
 
-- **语言:** 英语 (托福 105), 中文 (母语), 日语 (N5)
-- **编程:** Python, C/C++, Matlab, Verilog
-- **工具 & 平台:** Ubuntu, Docker, Pytorch, Tensorflow, Git, Cadence
+- **会议审稿人:** ICML’26, CVPR’26, ICLR’26, AAAI’26, ICASSP’26
+- **期刊审稿人:** Neurocomputing, Frontiers in Oncology, IEEE Transactions on Networking
 
 
 这个网站模版是从我<a href="https://maechd.github.io/">最好的朋友</a>那里偷来的。

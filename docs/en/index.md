@@ -200,11 +200,10 @@ My research interests focus on **Generative AI**, **Reinforcement Learning (RL)*
 
 ---
 
-## Skills
+## Academic Services
 
-- **Languages:** English (TOEFL 105), Chinese (Native), Japanese (N5)
-- **Programming:** Python, C/C++, Matlab, Verilog
-- **Tools & Platforms:** Ubuntu, Docker, Pytorch, Tensorflow, Git, Cadence
+- **Conference Reviewer:** ICML’26, CVPR’26, ICLR’26, AAAI’26, ICASSP’26
+- **Journal Reviewer:** Neurocomputing, Frontiers in Oncology, IEEE Transactions on Networking
 
 
 
