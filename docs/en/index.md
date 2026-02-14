@@ -175,7 +175,7 @@ My research interests focus on **Generative AI**, **Reinforcement Learning (RL)*
   <div class="authors">
     Research Topic: Generative AI
   </div>
-  <span class="meta">Advisor: Prof. Chi Zhang · Jun. 2025 – Jul. 2025</span>
+  <span class="meta">Advisor: Prof. Chi Zhang · Mar. 2025 – Jul. 2025</span>
 </div>
 
 <div class="pub-item">

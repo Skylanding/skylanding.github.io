@@ -175,7 +175,7 @@
   <div class="authors">
     研究课题: 生成式AI
   </div>
-  <span class="meta">导师: Prof. Chi Zhang · 2025年6月 – 2025年7月</span>
+  <span class="meta">导师: Prof. Chi Zhang · 2025年3月 – 2025年7月</span>
 </div>
 
 <div class="pub-item">
