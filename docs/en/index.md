@@ -26,10 +26,10 @@ My research interests focus on **Generative AI**, **Reinforcement Learning (RL)*
 ---
 
 ## News
-- **[02/2026]** One paper was accepted at ICCN@INFOCOM2026, see you in Tokyo.
+- **[02/2026]** ACDZero was accepted by ICCN@INFOCOM2026, see you in Tokyo.
 - **[01/2026]** I passed my PhD qualifying exam in my first semester and am now a PhD candidate 🎓.
-- **[01/2026]** Our work *KG-SAM: Injecting Anatomical Knowledge into Segment Anything Models via Conditional Random Fields* was accepted at ICASSP 2026 🎉.
-- **[11/2025]** Our work *Calibrating and Rotating: A Unified Framework for Weight Conditioning in PEFT* was accepted at AAAI 2026 🎉.
+- **[01/2026]** Our work *KG-SAM: Injecting Anatomical Knowledge into Segment Anything Models via Conditional Random Fields* was accepted by ICASSP 2026 🎉.
+- **[11/2025]** Our work *Calibrating and Rotating: A Unified Framework for Weight Conditioning in PEFT* was accepted by AAAI 2026 🎉.
 - **[05/2025]** Graduated from Wuhan University, goodbye to my home university 👋.
 
 ---
