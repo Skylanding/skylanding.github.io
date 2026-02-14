@@ -15,7 +15,7 @@
 
 ![Yu Li](../img/YuLi_mid.jpg){ .avatar-left }
 
-我目前是<a href="https://www.ece.gwu.edu/">乔治·华盛顿大学</a>ECE系的一年级博士生，导师是 <a href="https://www.tianlan.org/">Tian Lan</a> 教授。我本科毕业于<a href="https://en.whu.edu.cn/">武汉大学</a><a href="https://hyxt.whu.edu.cn/">弘毅学堂</a>。
+我目前是<a href="https://www.ece.gwu.edu/">乔治·华盛顿大学</a> ECE 系博士生，导师是 <a href="https://www2.seas.gwu.edu/~tlan/">Tian Lan</a> 教授，并与 <a href="https://sites.google.com/view/statsqizl/">Zhengling Qi</a> 教授合作。我本科毕业于<a href="https://en.whu.edu.cn/">武汉大学</a><a href="https://hyxt.whu.edu.cn/">弘毅学堂</a>。
 
 我的研究兴趣主要集中在**生成式AI (Generative AI)**、**强化学习 (RL)** 以及大语言模型的**后训练 (Post-training)** 方法。我非常欢迎合作和交流。
 
@@ -28,22 +28,24 @@
 ---
 
 ## 近期动态 (News)
+- **[02/2026]** 一篇论文被 ICCN@INFOCOM 2026 接收，东京见。
 - **[01/2026]** 我在第一学期就通过了博士资格考试！现在已成为博士候选人（PhD Candidate）🎓.
 - **[01/2026]** 论文 *KG-SAM: Injecting Anatomical Knowledge into Segment Anything Models via Conditional Random Fields* 被 ICASSP 2026 接收 🎉.
 - **[11/2025]** 论文 *Calibrating and Rotating: A Unified Framework for Weight Conditioning in PEFT* 被 AAAI 2026 接收 🎉.
-- **[08/2025]** 我在乔治·华盛顿大学开始了我的博士生涯，导师是 Tian Lan 教授 🎓.
-- **[05/2025]** 从珞珈山毕业，再见了，我精彩的的本科生活 👋.
+- **[05/2025]** 从珞珈山毕业，再见了我的母校 👋.
 
 ---
 
-## 精选项目 (Selected Projects)
+## 论文发表 (Publications)
+
+### 预印本 / 在投 (Preprint / Under Review)
 
 <div class="pub-list">
 
 <div class="pub-item">
   <strong>Unlocking Implicit Self-Reflection in Preference Optimization for LLM Alignment</strong><br/>
   <span class="meta">2025.8 – 2025.11</span> · <a href="https://arxiv.org/abs/2512.23126" target="_blank" rel="noopener">论文</a> · <a href="https://github.com/Skylanding/InsPO" target="_blank" rel="noopener">代码</a></span>
-  <div>利用偏好对中的隐式偏好信息建立自我改进机制，推广现有偏好优化方法的理论基础，以增强LLM对齐。</div>
+  <div>从偏好对中挖掘隐式“自我反思”信号，提升偏好优化与 LLM 对齐效果。</div>
   <div class="chips">
     <span class="chip">直接偏好优化</span><span class="chip">简单偏好优化</span><span class="chip">强化学习</span>
   </div>
@@ -52,7 +54,7 @@
 <div class="pub-item">
   <strong>Aligning LLMs with Finite State Machine Logic for Multi-turn Verilog Code Generation</strong><br/>
   <span class="meta">2025.8 – 2025.11</span>
-  <div>使LLM通过结构化对齐学习有限状态机的状态转换逻辑，构建用于Verilog代码合成的多轮生成范式。</div>
+  <div>通过结构化对齐让 LLM 学习有限状态机转移逻辑，实现多轮 Verilog 生成。</div>
   <div class="chips">
     <span class="chip">RLVR</span><span class="chip">代码生成</span><span class="chip">Verilog 状态机</span>
   </div>
@@ -61,11 +63,17 @@
 <div class="pub-item">
   <strong>CRAFT-LORA: Content-Style Personalization via Rank-Constrained Adaptation</strong><br/>
   <span class="meta">2025.4 – 2025.7</span>
-  <div>通过秩空间约束微调增强内容-风格LoRA分解，并通过提示映射和非对称CFG实现风格-内容LoRA融合，以实现个性化图像生成。</div>
+  <div>秩约束 LoRA 适配，实现内容-风格解耦与个性化图像生成。</div>
   <div class="chips">
     <span class="chip">生成式AI</span><span class="chip">个性化生图</span><span class="chip">LoRA</span>
   </div>
 </div>
+
+</div>
+
+### 会议论文 (Conferences)
+
+<div class="pub-list">
 
 <div class="pub-item">
   <strong>KG-SAM: Injecting Anatomical Knowledge into Segment Anything Models via Conditional Random Fields</strong><br/>
@@ -73,18 +81,9 @@
     <b>Yu Li</b>, Da Chang, Xi Xiao
   </div>
   <span class="meta"><span class="text-blue"><i>ICASSP 2026</i></span> · <a href="https://arxiv.org/abs/2509.21750" target="_blank" rel="noopener">论文</a> · <a href="" target="_blank" rel="noopener">代码</a></span>
-  <div>面向医学图像分割的知识引导框架，融合医学知识图谱编码解剖先验、基于能量的CRF优化边界精度，以及不确定性感知融合模块提升临床可靠性，在多中心前列腺分割任务上达到82.69% Dice。</div>
+  <div>融合知识图谱解剖先验与 CRF 边界优化的知识引导 SAM 医学分割框架。</div>
   <div class="chips">
     <span class="chip">医学分割</span><span class="chip">SAM</span><span class="chip">知识图谱</span><span class="chip">CRF</span>
-  </div>
-</div>
-
-<div class="pub-item">
-  <strong>Prada: Black-Box LLM Adaptation with Private Data on Devices</strong><br/>
-  <span class="meta">2025.1 – 2025.4</span> · <a href="https://arxiv.org/abs/2503.14932" target="_blank" rel="noopener">论文</a></span>
-  <div>通过概率差分方法在边缘设备系统上实现高效的黑盒LLM自适应，同时强有力地保护数据隐私。</div>
-  <div class="chips">
-    <span class="chip">黑盒LLM</span><span class="chip">边缘AI</span><span class="chip">隐私保护</span>
   </div>
 </div>
 
@@ -93,8 +92,8 @@
   <div class="authors">
     Da Chang, Peng Xue, <b>Yu Li</b>, Yongxiang Liu, Pengxiang Xu, Shixun Zhang
   </div>
-  <span class="meta"><span class="text-blue"><i>AAAI 2026</i></span> · <a href="https://arxiv.org/pdf/2511.00051" target="_blank" rel="noopener">论文</a> ·<a href="https://github.com/MaeChd/SORA" target="_blank" rel="noopener">代码</a></span>
-  <div>分析DoRA与LoRA的性质，并统一“校准 + 旋转”的权重条件化策略，提升 PEFT 的性能与训练推理效率。</div>
+  <span class="meta"><span class="text-blue"><i>AAAI 2026</i></span> · <a href="https://arxiv.org/pdf/2511.00051" target="_blank" rel="noopener">论文</a> · <a href="https://github.com/MaeChd/SORA" target="_blank" rel="noopener">代码</a></span>
+  <div>统一“校准 + 旋转”的权重条件化策略，提升 PEFT 性能与训练/推理效率。</div>
   <div class="chips">
     <span class="chip">LLMs PEFT</span><span class="chip">权重条件化</span>
   </div>
@@ -109,19 +108,25 @@
   <span class="meta">(*:Equal contribution)</span>
   </div>
   <span class="meta"><span class="text-blue"><i>ICONIP 2024</i></span></span> · <a href="https://arxiv.org/pdf/2404.12734" target="_blank" rel="noopener">论文</a> · <a href="https://github.com/MaeChd/DLoRA-TrOCR" target="_blank" rel="noopener">代码</a></span>
-  <div>基于TrOCR的OCR，采用高效PEFT处理混合文本；实用的流程和评估。</div>
+  <div>基于 TrOCR + PEFT 的混合文本识别方法与实用评估流程。</div>
   <div class="chips">
     <span class="chip">OCR</span><span class="chip">LoRA</span>
   </div>
 </div>
+
+</div>
+
+### 期刊论文 (Journals)
+
+<div class="pub-list">
 
 <div class="pub-item">
   <strong>Dual branch SAM-Transformer Fusion Network for Accurate Breast Ultrasound Image Segmentation</strong><br/>
   <div class="authors">
     <b>Y. Li</b>, J. Huang et al.
   </div>
-  <span class="meta"><span class="text-blue"><i>Medical Physics, Q1</i></span>, 2025 · <a href="https://aapm.onlinelibrary.wiley.com/doi/10.1002/mp.17751" target="_blank" rel="noopener">论文</a> · <a href="https://github.com/Skylanding/DSATNet" target="_blank" rel="noopener">代码</a></span>
-  <div>我们利用SAM丰富的语义分割信息，并将其细粒度注意力能力应用于Transformer的特征提取模块，在超声图像分割中实现了SOTA的IoU分数。</div>
+  <span class="meta"><span class="text-blue"><i>Medical Physics, JCR Q1</i></span>, 2025 · <a href="https://aapm.onlinelibrary.wiley.com/doi/10.1002/mp.17751" target="_blank" rel="noopener">论文</a> · <a href="https://github.com/Skylanding/DSATNet" target="_blank" rel="noopener">代码</a></span>
+  <div>双分支 SAM–Transformer 融合网络，用于高精度乳腺超声分割。</div>
   <div class="chips">
     <span class="chip">超声分割</span><span class="chip">SAM</span><span class="chip">Transformer</span>
   </div>
@@ -132,8 +137,8 @@
   <div class="authors">
     <b>Y. Li</b>, D. Chang et al.
   </div>
-  <span class="meta"><span class="text-blue"><i> International Journal of Computer Assisted Radiology and Surgery, Q2</i></span>, 2025 · <a href="https://link.springer.com/article/10.1007/s11548-025-03333-0" target="_blank" rel="noopener">论文</a> · <a href="https://github.com/Skylanding" target="_blank" rel="noopener">代码</a></span>
-  <div>针对内窥镜医疗场景，我们使用扩散模型进行深度估计。我们构建了一个教师模型，设置了知识蒸馏、光学外观和ddim损失，并引入了教师的判别先验，显著提高了结果的准确性和置信度。</div>
+  <span class="meta"><span class="text-blue"><i> International Journal of Computer Assisted Radiology and Surgery, JCR Q2</i></span>, 2025 · <a href="https://link.springer.com/article/10.1007/s11548-025-03333-0" target="_blank" rel="noopener">论文</a> · <a href="https://github.com/Skylanding/SfM-Diffusion" target="_blank" rel="noopener">代码</a></span>
+  <div>面向内窥镜场景的自监督单目深度估计：扩散模型结合教师引导蒸馏。</div>
   <div class="chips">
     <span class="chip">深度估计</span><span class="chip">扩散模型</span><span class="chip">知识蒸馏</span>
   </div>
@@ -177,17 +182,17 @@
 
 ## 荣誉奖项 (Honors and Awards)
 
-- **英诺国际交流奖学金**, 武汉大学, **2024**
-- **英诺卓越奖学金 (Top 3%)**, 武汉大学, **2023, 2024**
-- **学术优秀奖学金 (Top 5%)**, 弘毅学堂, **2022, 2023, 2024**
-- **甲等奖学金 (Top 5%)**, 武汉大学, **2022, 2023, 2024**
+- 英诺国际交流奖学金，武汉大学，2024
+- 英诺卓越奖学金（Top 3%），武汉大学，2023，2024
+- 学术优秀奖学金（Top 5%），弘毅学堂，2022，2023，2024
+- 甲等奖学金（Top 5%），武汉大学，2022，2023，2024
 - 专利: 一种节能计算方法, <a href="https://patents.google.com/patent/CN116085952B/en">CN116085952</a>.
 
 ---
 
 ## 技能 (Skills)
 
-- **语言:** 英语 (托福 110), 中文 (母语), 日语 (N5)
+- **语言:** 英语 (托福 105), 中文 (母语), 日语 (N5)
 - **编程:** Python, C/C++, Matlab, Verilog
 - **工具 & 平台:** Ubuntu, Docker, Pytorch, Tensorflow, Git, Cadence
 

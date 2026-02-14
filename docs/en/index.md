@@ -2,7 +2,7 @@
 
   <strong>George Washington University</strong>, Washington, D.C. *2025.9– Present*
   <div class="authors">
-    Ph.D. in Electrical and Computer Engineering
+    Ph.D. in Electrical and Computer Engineering (GPA:4.0/4.0)
   </div>
 
   <strong>Wuhan University</strong>, Hongyi Honor College, China *2021.9-2025.5*
@@ -14,35 +14,36 @@
 
 ![Yu Li](../img/YuLi_mid.jpg){ .avatar-left }
 
-I am currently a first-year Ph.D. student in the ECE Department at <a href="https://www.ece.gwu.edu/">George Washington University</a>, supervised by Prof. Tian Lan. I obtained my B.Eng. degree from the <a href="https://hyxt.whu.edu.cn/">Hongyi Honor College</a> of <a href="https://en.whu.edu.cn/">Wuhan University</a>.
+I am currently a first-year Ph.D. candidatein the ECE Department at George Washington University supervised by <a href="https://www2.seas.gwu.edu/~tlan/">Prof. Tian Lan</a> and work with <a href="https://sites.google.com/view/statsqizl/">Prof.Zhengling Qi</a>. I obtained my B.Eng. degree from <a href="https://hyxt.whu.edu.cn/">Hongyi Honor College</a> of Wuhan University.
 
 My research interests focus on **Generative AI**, **Reinforcement Learning (RL)**, and **Post-training** methods for LLMs. I am always open to communication and collaboration.
 
-- 📄 **[CV (PDF)](../file/CV_Yu_Li.pdf)**
+- 📄 **[CV](../file/CV_Yu_Li.pdf)**
 - 🧪 **[GitHub](https://github.com/skylanding)**
 - 🎓 **[Google Scholar](https://scholar.google.com/citations?user=EjGk0dwAAAAJ&hl=en)**
 - 💼 **[LinkedIn](https://www.linkedin.com/in/yu-li-a089a6282/)**
-- ✉️ **yul@gwu.edu**
 
 ---
 
 ## News
+- **[02/2026]** One paper was accepted at ICCN@INFOCOM2026, see you in Tokyo.
 - **[01/2026]** I passed my PhD qualifying exam in my first semester and am now a PhD candidate 🎓.
 - **[01/2026]** Our work *KG-SAM: Injecting Anatomical Knowledge into Segment Anything Models via Conditional Random Fields* was accepted at ICASSP 2026 🎉.
 - **[11/2025]** Our work *Calibrating and Rotating: A Unified Framework for Weight Conditioning in PEFT* was accepted at AAAI 2026 🎉.
-- **[08/2025]** I started my ECE PhD journey at GWU, supervised by Prof.Tian Lan 🎓.
-- **[05/2025]** Graduated from Wuhan University, goodbye to my wonderful undergraduate life 👋.
+- **[05/2025]** Graduated from Wuhan University, goodbye to my home university 👋.
 
 ---
 
-## Selected Projects
+## Publications
+
+### Preprint / Under Review
 
 <div class="pub-list">
 
 <div class="pub-item">
   <strong>Unlocking Implicit Self-Reflection in Preference Optimization for LLM Alignment</strong><br/>
   <span class="meta">Aug. 2025 – Nov. 2025</span> · <a href="https://arxiv.org/abs/2512.23126" target="_blank" rel="noopener">Paper</a> · <a href="https://github.com/Skylanding/InsPO" target="_blank" rel="noopener">Code</a></span>
-  <div>Leveraging implicit preference information within preference pairs to establish a self-improvement mechanism, generalizing the theoretical foundation of existing preference optimization methods to enhance LLM alignment.</div>
+  <div>Preference optimization that leverages implicit self-reflection signals in pairwise data to improve LLM alignment.</div>
   <div class="chips">
     <span class="chip">DPO</span><span class="chip">SimPO</span><span class="chip">Preference Learning</span>
   </div>
@@ -51,7 +52,7 @@ My research interests focus on **Generative AI**, **Reinforcement Learning (RL)*
 <div class="pub-item">
   <strong>Aligning LLMs with Finite State Machine Logic for Multi-turn Verilog Code Generation</strong><br/>
   <span class="meta">Sept. 2025 – Nov. 2025</span>
-  <div>Enabling LLMs to learn state transition logic of finite state machines through structured alignment, constructing a multi-turn generation paradigm for Verilog code synthesis.</div>
+  <div>Structured alignment to teach LLMs finite-state transition logic for multi-turn Verilog generation.</div>
   <div class="chips">
     <span class="chip">RLVR</span><span class="chip">Code Generation</span><span class="chip">Verilog FSM</span>
   </div>
@@ -60,11 +61,18 @@ My research interests focus on **Generative AI**, **Reinforcement Learning (RL)*
 <div class="pub-item">
   <strong>CRAFT-LORA: Content-Style Personalization via Rank-Constrained Adaptation</strong><br/>
   <span class="meta">Apr. 2025 – Jul. 2025</span>
-  <div>Enhancing content-style LoRA decomposition through rank-space constrained fine-tuning, and achieving personalized image generation via prompt mapping and asymmetric CFG for style-content LoRA fusion.</div>
+  <div>Rank-constrained LoRA adaptation for content–style personalization in image generation.</div>
   <div class="chips">
     <span class="chip">Generative AI</span><span class="chip">Personalization</span><span class="chip">LoRA</span>
   </div>
 </div>
+
+
+</div>
+
+### Conferences
+
+<div class="pub-list">
 
 <div class="pub-item">
   <strong>KG-SAM: Injecting Anatomical Knowledge into Segment Anything Models via Conditional Random Fields</strong><br/>
@@ -72,18 +80,9 @@ My research interests focus on **Generative AI**, **Reinforcement Learning (RL)*
     <b>Yu Li</b>, Da Chang, Xi Xiao
   </div>
   <span class="meta"><span class="text-blue"><i>ICASSP 2026</i></span> · <a href="https://arxiv.org/abs/2509.21750" target="_blank" rel="noopener">Paper</a> · <a href="" target="_blank" rel="noopener">Code</a></span>
-  <div>A knowledge-guided framework for medical image segmentation that integrates a medical knowledge graph for anatomical priors, an energy-based CRF for boundary refinement, and an uncertainty-aware fusion module, achieving 82.69% Dice on multi-site prostate segmentation.</div>
+  <div>Knowledge-guided SAM with anatomical priors and CRF refinement for robust medical image segmentation.</div>
   <div class="chips">
     <span class="chip">Medical Segmentation</span><span class="chip">SAM</span><span class="chip">Knowledge Graph</span><span class="chip">CRF</span>
-  </div>
-</div>
-
-<div class="pub-item">
-  <strong>Prada: Black-Box LLM Adaptation with Private Data on Devices</strong><br/>
-  <span class="meta">Jan. 2025 – Apr. 2025</span> · <a href="https://arxiv.org/abs/2503.14932" target="_blank" rel="noopener">Paper</a></span>
-  <div>Achieving efficient black-box LLM adaptation on edge device systems through probability differential methods while robustly preserving data privacy.</div>
-  <div class="chips">
-    <span class="chip">Black-Box LLM</span><span class="chip">Edge AI</span><span class="chip">Privacy</span>
   </div>
 </div>
 
@@ -93,7 +92,7 @@ My research interests focus on **Generative AI**, **Reinforcement Learning (RL)*
     Da Chang, Peng Xue, <b>Yu Li</b> , Yongxiang Liu, Pengxiang Xu, Shixun Zhang
   </div>
   <span class="meta"><span class="text-blue"><i>AAAI 2026</i></span> · <a href="https://arxiv.org/pdf/2511.00051" target="_blank" rel="noopener">Paper</a> · <a href="https://github.com/MaeChd/SORA" target="_blank" rel="noopener">Code</a></span>
-  <div>Analyze the properties of DoRA and LoRA, and unify the “calibration + rotation” weight conditioning strategy to enhance the performance and training-inference efficiency of PEFT.</div>
+  <div>A unified calibration+rotation weight-conditioning framework that improves PEFT performance and efficiency.</div>
   <div class="chips">
     <span class="chip">LLMs PEFT</span><span class="chip">Weight Conditioning</span>
   </div>
@@ -108,11 +107,17 @@ My research interests focus on **Generative AI**, **Reinforcement Learning (RL)*
   <span class="meta">(*:Equal contribution)</span>
   </div>
   <span class="meta"><span class="text-blue"><i>ICONIP 2024</i></span></span> · <a href="https://arxiv.org/pdf/2404.12734" target="_blank" rel="noopener">Paper</a> · <a href="https://github.com/MaeChd/DLoRA-TrOCR" target="_blank" rel="noopener">Code</a></span>
-  <div>TrOCR-based OCR with efficient PEFT for mixed text; practical pipeline and evaluation.</div>
+  <div>TrOCR-based mixed-text OCR with efficient PEFT and an end-to-end evaluation pipeline.</div>
   <div class="chips">
     <span class="chip">OCR</span><span class="chip">LoRA</span>
   </div>
 </div>
+
+</div>
+
+### Journals
+
+<div class="pub-list">
 
 <div class="pub-item">
   <strong>Dual branch SAM-Transformer Fusion Network for Accurate Breast Ultrasound Image Segmentation</strong><br/>
@@ -120,7 +125,7 @@ My research interests focus on **Generative AI**, **Reinforcement Learning (RL)*
     <b>Y. Li</b>, J. Huang et al.
   </div>
   <span class="meta"><span class="text-blue"><i>Medical Physics, JCR Q1</i></span>, 2025 · <a href="https://aapm.onlinelibrary.wiley.com/doi/10.1002/mp.17751" target="_blank" rel="noopener">Paper</a> · <a href="https://github.com/Skylanding/DSATNet" target="_blank" rel="noopener">Code</a></span>
-  <div>We leveraged the rich semantic segmentation information of SAM and applied its fine-grained attention capability to the feature extraction module of Transformer, achieving SOTA IoU scores in ultrasound image segmentation.</div>
+  <div>Dual-branch SAM–Transformer fusion for accurate breast ultrasound image segmentation.</div>
   <div class="chips">
     <span class="chip">Ultrasound Segmentation</span><span class="chip">SAM</span><span class="chip">Transformer</span>
   </div>
@@ -132,7 +137,7 @@ My research interests focus on **Generative AI**, **Reinforcement Learning (RL)*
     <b>Y. Li</b>, D. Chang et al.
   </div>
   <span class="meta"><span class="text-blue"><i> International Journal of Computer Assisted Radiology and Surgery, JCR Q2</i></span>, 2025 · <a href="https://link.springer.com/article/10.1007/s11548-025-03333-0" target="_blank" rel="noopener">Paper</a> · <a href="https://github.com/Skylanding/SfM-Diffusion" target="_blank" rel="noopener">Code</a></span>
-  <div>For endoscope medical scenarios, we use the diffusion model for depth estimation. We build a teacher model, set knowledge distillation, optical appearance and ddim losses, and introduce the teacher's discriminative prior, which significantly enhances the accuracy and confidence of the results.</div>
+  <div>Self-supervised monocular depth estimation for endoscopy using diffusion models with teacher-guided distillation.</div>
   <div class="chips">
     <span class="chip">Depth Estimation</span><span class="chip">Diffusion Model</span><span class="chip">Distillation</span>
   </div>
@@ -186,7 +191,7 @@ My research interests focus on **Generative AI**, **Reinforcement Learning (RL)*
 
 ## Skills
 
-- **Languages:** English (TOEFL 110), Chinese (Native), Japanese (N5)
+- **Languages:** English (TOEFL 105), Chinese (Native), Japanese (N5)
 - **Programming:** Python, C/C++, Matlab, Verilog
 - **Tools & Platforms:** Ubuntu, Docker, Pytorch, Tensorflow, Git, Cadence
 
