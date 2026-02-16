@@ -1,7 +1,7 @@
 # 李煜 (Yu Li)
 
  
-  <strong>乔治·华盛顿大学 (George Washington University)</strong>, 华盛顿特区. *2025.9至今*
+  <strong>乔治·华盛顿大学 (George Washington University)</strong>, 华盛顿特区. *2025.9-2029.5(预计)*
   <div class="authors">
     电子与计算机工程系 (ECE) 博士
   </div>
@@ -19,16 +19,15 @@
 
 我的研究兴趣主要集中在**生成式AI (Generative AI)**、**强化学习 (RL)** 以及大语言模型的**后训练 (Post-training)** 方法。我非常欢迎合作和交流。
 
-- 📄 **[简历（PDF）](../file/CV_Yu_Li.pdf)**
+- 📄 **[简历](../file/CV_Yu_Li.pdf)**
 - 🧪 **[GitHub](https://github.com/skylanding)**
-- 🎓 **[谷歌学术 (Google Scholar)](https://scholar.google.com/citations?user=EjGk0dwAAAAJ&hl=en)**
-- 💼 **[领英 (LinkedIn)](https://www.linkedin.com/in/yu-li-a089a6282/)**
-- ✉️ **yul@gwu.edu**
+- 🎓 **[谷歌学术](https://scholar.google.com/citations?user=EjGk0dwAAAAJ&hl=en)**
+- 💼 **[领英](https://www.linkedin.com/in/yu-li-a089a6282/)**
 
 ---
 
 ## 近期动态 (News)
-- **[02/2026]** ACDZero被 ICCN@INFOCOM 2026 接收，东京见。
+- **[02/2026]** ACDZero被 ICCN@INFOCOM 2026 接收，5月东京见.
 - **[01/2026]** 我在第一学期就通过了博士资格考试！现在已成为博士候选人（PhD Candidate）🎓.
 - **[01/2026]** 论文 *KG-SAM: Injecting Anatomical Knowledge into Segment Anything Models via Conditional Random Fields* 被 ICASSP 2026 接收 🎉.
 - **[11/2025]** 论文 *Calibrating and Rotating: A Unified Framework for Weight Conditioning in PEFT* 被 AAAI 2026 接收 🎉.
