@@ -10,13 +10,13 @@
     B.Eng. in Microelectronics Science and Technology (GPA: 3.87/4.0)
   </div>
 
-**Research Topics: Reinforcement Learning • Post-Training • Generative AI**
 
 ![Yu Li](../img/YuLi_mid.jpg){ .avatar-left }
 
-I am currently a first-year Ph.D. candidatein the ECE Department at George Washington University supervised by <a href="https://www2.seas.gwu.edu/~tlan/">Prof. Tian Lan</a> and work with <a href="https://sites.google.com/view/statsqizl/">Prof.Zhengling Qi</a>. I obtained my B.Eng. degree from <a href="https://hyxt.whu.edu.cn/">Hongyi Honor College</a> of Wuhan University.
+I am currently a first-year Ph.D. candidate at George Washington University supervised by <a href="https://www2.seas.gwu.edu/~tlan/">Prof. Tian Lan</a> and work with <a href="https://sites.google.com/view/statsqizl/">Prof.Zhengling Qi</a>. 
+I obtained my B.Eng. degree from <a href="https://hyxt.whu.edu.cn/">Hongyi Honor College</a> of Wuhan University.
 
-My research interests focus on **Generative AI**, **Reinforcement Learning (RL)**, and **Post-training** methods for LLMs. I am always open to communication and collaboration.
+**Research Topics: Reinforcement Learning • Post-Training • Generative AI**
 
 - 📄 **[CV](../file/CV_Yu_Li.pdf)**
 - 🧪 **[GitHub](https://github.com/skylanding)**
