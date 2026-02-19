@@ -102,7 +102,7 @@ I obtained my B.Eng. degree from <a href="https://hyxt.whu.edu.cn/">Hongyi Honor
   <div class="authors">
     Da Chang, Peng Xue, <b>Yu Li</b> , Yongxiang Liu, Pengxiang Xu, Shixun Zhang
   </div>
-  <span class="meta"><span class="text-blue"><i>AAAI 2026</i></span> · <a href="https://arxiv.org/pdf/2511.00051" target="_blank" rel="noopener">Paper</a> · <a href="https://github.com/MaeChd/SORA" target="_blank" rel="noopener">Code</a></span>
+  <span class="meta"><span class="text-blue"><i>AAAI 2026</i></span> · <a href="https://arxiv.org/abs/2511.00051" target="_blank" rel="noopener">Paper</a> · <a href="https://github.com/MaeChd/SORA" target="_blank" rel="noopener">Code</a></span>
   <div>A unified calibration+rotation weight-conditioning framework that improves PEFT performance and efficiency.</div>
   <div class="chips">
     <span class="chip">LLMs PEFT</span><span class="chip">Weight Conditioning</span>
@@ -117,7 +117,7 @@ I obtained my B.Eng. degree from <a href="https://hyxt.whu.edu.cn/">Hongyi Honor
   <div>
   <span class="meta">(*:Equal contribution)</span>
   </div>
-  <span class="meta"><span class="text-blue"><i>ICONIP 2024</i></span></span> · <a href="https://arxiv.org/pdf/2404.12734" target="_blank" rel="noopener">Paper</a> · <a href="https://github.com/MaeChd/DLoRA-TrOCR" target="_blank" rel="noopener">Code</a></span>
+  <span class="meta"><span class="text-blue"><i>ICONIP 2024</i></span></span> · <a href="https://arxiv.org/abs/2404.12734" target="_blank" rel="noopener">Paper</a> · <a href="https://github.com/MaeChd/DLoRA-TrOCR" target="_blank" rel="noopener">Code</a></span>
   <div>TrOCR-based mixed-text OCR with efficient PEFT and an end-to-end evaluation pipeline.</div>
   <div class="chips">
     <span class="chip">OCR</span><span class="chip">LoRA</span>
