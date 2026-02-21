@@ -65,6 +65,9 @@
 
 <div class="pub-item">
   <strong>CRAFT-LORA: Content-Style Personalization via Rank-Constrained Adaptation</strong><br/>
+  <div class="authors">
+    <b>Yu Li</b>, Yujun Cai, Chi Zhang
+  </div>
   <span class="meta"><span class="text-blue"><i>CVPR 2026</i></span></span>
   <div>秩约束 LoRA 适配，实现内容-风格解耦与个性化图像生成。</div>
   <div class="chips">

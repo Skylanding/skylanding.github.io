@@ -66,6 +66,9 @@ I obtained my B.Eng. degree from <a href="https://hyxt.whu.edu.cn/">Hongyi Honor
 
 <div class="pub-item">
   <strong>CRAFT-LORA: Content-Style Personalization via Rank-Constrained Adaptation</strong><br/>
+  <div class="authors">
+    <b>Yu Li</b>, Yujun Cai, Chi Zhang
+  </div>
   <span class="meta"><span class="text-blue"><i>CVPR 2026</i></span></span>
   <div>Rank-constrained LoRA adaptation for content–style personalization in image generation.</div>
   <div class="chips">
