@@ -26,8 +26,8 @@ I obtained my B.Eng. degree from <a href="https://hyxt.whu.edu.cn/">Hongyi Honor
 ---
 
 ## News
-- **[02/2026]** CRAFT-LORA is accepted to CVPR 2026 🎉. See you in Denver in June 
-- **[02/2026]** ACDZero is accepted to ICCN@INFOCOM2026 🎉. See you in Tokyo in May.
+- **[02/2026]** CRAFT-LORA is accepted to CVPR 2026 🎉. See you in Denver in June!
+- **[02/2026]** ACDZero is accepted to ICCN@INFOCOM2026 🎉. See you in Tokyo in May!
 - **[01/2026]** I passed my PhD qualifying exam in my first semester and am now a PhD candidate 🎓.
 - **[01/2026]** KG-SAM is accepted to ICASSP 2026 🎉.
 - **[11/2025]** SoRA is accepted to AAAI 2026 🎉.
