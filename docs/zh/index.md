@@ -78,7 +78,10 @@
 <div class="pub-item">
   <strong>ACDZero: MCTS Agent for Mastering Automated Cyber Defense</strong><br/>
   <div class="authors">
-    <b>Yu Li</b>, Sizhe Tang, Rongqian Chen, Fei Xu Yu, Guangyu Jiang, Mahdi Imani, Nathaniel D. Bastian, Tian Lan
+    <b>Yu Li*</b>, Sizhe Tang*, Rongqian Chen, Fei Xu Yu, Guangyu Jiang, Mahdi Imani, Nathaniel D. Bastian, Tian Lan
+  </div>
+  <div>
+  <span class="meta">(*:Equal contribution)</span>
   </div>
   <span class="meta"><span class="text-blue"><i>ICCN@INFOCOM 2026</i></span> · <a href="https://arxiv.org/abs/2601.02196" target="_blank" rel="noopener">论文</a> · <a href="https://github.com/Skylanding/ACDZero" target="_blank" rel="noopener">代码</a></span>
   <div>结合图表示学习的 MCTS 规划方法，用于样本高效的自动化网络防御。</div>

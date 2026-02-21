@@ -79,7 +79,10 @@ I obtained my B.Eng. degree from <a href="https://hyxt.whu.edu.cn/">Hongyi Honor
 <div class="pub-item">
   <strong>ACDZero: MCTS Agent for Mastering Automated Cyber Defense</strong><br/>
   <div class="authors">
-    <b>Yu Li</b>, Sizhe Tang, Rongqian Chen, Fei Xu Yu, Guangyu Jiang, Mahdi Imani, Nathaniel D. Bastian, Tian Lan
+    <b>Yu Li*</b>, Sizhe Tang*, Rongqian Chen, Fei Xu Yu, Guangyu Jiang, Mahdi Imani, Nathaniel D. Bastian, Tian Lan
+  </div>
+  <div>
+  <span class="meta">(*:Equal contribution)</span>
   </div>
   <span class="meta"><span class="text-blue"><i>ICCN@INFOCOM 2026</i></span> · <a href="https://arxiv.org/abs/2601.02196" target="_blank" rel="noopener">Paper</a> · <a href="https://github.com/Skylanding/ACDZero" target="_blank" rel="noopener">Code</a></span>
   <div>Graph-embedding-guided MCTS planning for sample-efficient automated cyber defense.</div>
