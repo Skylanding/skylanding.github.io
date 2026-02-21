@@ -26,10 +26,11 @@ I obtained my B.Eng. degree from <a href="https://hyxt.whu.edu.cn/">Hongyi Honor
 ---
 
 ## News
-- **[02/2026]** ACDZero is accepted by ICCN@INFOCOM2026, see you in Tokyo in May 🌸.
+- **[02/2026]** Our work *CRAFT-LORA: Content-Style Personalization via Rank-Constrained Adaptation* is accepted to CVPR 2026 🎉.
+- **[02/2026]** ACDZero is accepted to ICCN@INFOCOM2026, see you in Tokyo in May 🌸.
 - **[01/2026]** I passed my PhD qualifying exam in my first semester and am now a PhD candidate 🎓.
-- **[01/2026]** Our work *KG-SAM: Injecting Anatomical Knowledge into Segment Anything Models via Conditional Random Fields* is accepted by ICASSP 2026 🎉.
-- **[11/2025]** Our work *Calibrating and Rotating: A Unified Framework for Weight Conditioning in PEFT* is accepted by AAAI 2026 🎉.
+- **[01/2026]** Our work *KG-SAM: Injecting Anatomical Knowledge into Segment Anything Models via Conditional Random Fields* is accepted to ICASSP 2026 🎉.
+- **[11/2025]** Our work *Calibrating and Rotating: A Unified Framework for Weight Conditioning in PEFT* is accepted to AAAI 2026 🎉.
 ---
 
 ## Publications

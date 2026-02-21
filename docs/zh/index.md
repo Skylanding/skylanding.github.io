@@ -26,6 +26,7 @@
 ---
 
 ## 近期动态 (News)
+- **[02/2026]** 论文 *CRAFT-LORA: Content-Style Personalization via Rank-Constrained Adaptation* 被 CVPR 2026 接收 🎉.
 - **[02/2026]** ACDZero被 ICCN@INFOCOM 2026 接收，5月东京见 🌸.
 - **[01/2026]** 我在第一学期就通过了博士资格考试！现在已成为博士候选人（PhD Candidate）🎓.
 - **[01/2026]** 论文 *KG-SAM: Injecting Anatomical Knowledge into Segment Anything Models via Conditional Random Fields* 被 ICASSP 2026 接收 🎉.
