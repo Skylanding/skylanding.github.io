@@ -26,8 +26,8 @@ I obtained my B.Eng. degree from <a href="https://hyxt.whu.edu.cn/">Hongyi Honor
 ---
 
 ## News
-- **[02/2026]** CRAFT-LORA is accepted to CVPR 2026 🎉.
-- **[02/2026]** ACDZero is accepted to ICCN@INFOCOM2026, see you in Tokyo in May 🌸.
+- **[02/2026]** CRAFT-LORA is accepted to CVPR 2026 🎉. See you in Denver in June 
+- **[02/2026]** ACDZero is accepted to ICCN@INFOCOM2026 🎉. See you in Tokyo in May.
 - **[01/2026]** I passed my PhD qualifying exam in my first semester and am now a PhD candidate 🎓.
 - **[01/2026]** KG-SAM is accepted to ICASSP 2026 🎉.
 - **[11/2025]** SoRA is accepted to AAAI 2026 🎉.
@@ -57,22 +57,21 @@ I obtained my B.Eng. degree from <a href="https://hyxt.whu.edu.cn/">Hongyi Honor
   </div>
 </div>
 
-<div class="pub-item">
-  <strong>CRAFT-LORA: Content-Style Personalization via Rank-Constrained Adaptation</strong><br/>
-  <span class="meta">Apr. 2025 – Jul. 2025</span>
-  <div>Rank-constrained LoRA adaptation for content–style personalization in image generation.</div>
-  <div class="chips">
-    <span class="chip">Generative AI</span><span class="chip">Personalization</span><span class="chip">LoRA</span>
-  </div>
-</div>
-
-
 </div>
 
 ### Conferences
 
 <div class="pub-list">
 
+
+<div class="pub-item">
+  <strong>CRAFT-LORA: Content-Style Personalization via Rank-Constrained Adaptation</strong><br/>
+  <span class="meta"><span class="text-blue"><i>CVPR 2026</i></span></span>
+  <div>Rank-constrained LoRA adaptation for content–style personalization in image generation.</div>
+  <div class="chips">
+    <span class="chip">Generative AI</span><span class="chip">Personalization</span><span class="chip">LoRA</span>
+  </div>
+</div>
 
 <div class="pub-item">
   <strong>ACDZero: MCTS Agent for Mastering Automated Cyber Defense</strong><br/>

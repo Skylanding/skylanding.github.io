@@ -26,8 +26,8 @@
 ---
 
 ## 近期动态 (News)
-- **[02/2026]** CRAFT-LORA 被 CVPR 2026 接收 🎉.
-- **[02/2026]** ACDZero 被 ICCN@INFOCOM 2026 接收，5月东京见 🌸.
+- **[02/2026]** CRAFT-LORA 被 CVPR 2026 接收 🎉. 6月丹佛见！
+- **[02/2026]** ACDZero 被 ICCN@INFOCOM 2026 接收 🎉. 5月东京见!
 - **[01/2026]** 我在第一学期就通过了博士资格考试！现在已成为博士候选人（PhD Candidate）🎓.
 - **[01/2026]** KG-SAM 被 ICASSP 2026 接收 🎉.
 - **[11/2025]** SoRA 被 AAAI 2026 接收 🎉.
@@ -57,20 +57,20 @@
   </div>
 </div>
 
-<div class="pub-item">
-  <strong>CRAFT-LORA: Content-Style Personalization via Rank-Constrained Adaptation</strong><br/>
-  <span class="meta">2025.4 – 2025.7</span>
-  <div>秩约束 LoRA 适配，实现内容-风格解耦与个性化图像生成。</div>
-  <div class="chips">
-    <span class="chip">生成式AI</span><span class="chip">个性化生图</span><span class="chip">LoRA</span>
-  </div>
-</div>
-
 </div>
 
 ### 会议论文 (Conferences)
 
 <div class="pub-list">
+
+<div class="pub-item">
+  <strong>CRAFT-LORA: Content-Style Personalization via Rank-Constrained Adaptation</strong><br/>
+  <span class="meta"><span class="text-blue"><i>CVPR 2026</i></span></span>
+  <div>秩约束 LoRA 适配，实现内容-风格解耦与个性化图像生成。</div>
+  <div class="chips">
+    <span class="chip">生成式AI</span><span class="chip">个性化生图</span><span class="chip">LoRA</span>
+  </div>
+</div>
 
 <div class="pub-item">
   <strong>ACDZero: MCTS Agent for Mastering Automated Cyber Defense</strong><br/>
