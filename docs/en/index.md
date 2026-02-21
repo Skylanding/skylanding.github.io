@@ -203,7 +203,7 @@ I obtained my B.Eng. degree from <a href="https://hyxt.whu.edu.cn/">Hongyi Honor
 ## Academic Services
 
 - **Conference Reviewer:** ICML’26, CVPR’26, ICLR’26, AAAI’26, ICASSP’26
-- **Journal Reviewer:** Neurocomputing, Frontiers in Oncology, IEEE Transactions on Networking
+- **Journal Reviewer:** Neurocomputing, Frontiers in Oncology, IEEE Transactions on Networking, Frontiers in Medicine
 
 
 
