@@ -13,8 +13,8 @@
 
 ![Yu Li](../img/YuLi_mid.jpg){ .avatar-left }
 
-I am currently a first-year Ph.D. candidate at George Washington University supervised by <a href="https://www2.seas.gwu.edu/~tlan/">Prof. Tian Lan</a> and work with <a href="https://sites.google.com/view/statsqizl/">Prof.Zhengling Qi</a>. 
-I obtained my B.Eng. degree from <a href="https://hyxt.whu.edu.cn/">Hongyi Honor College</a> of Wuhan University.
+I am currently a first year Ph.D. candidate at GWU supervised by <a href="https://www2.seas.gwu.edu/~tlan/">Prof. Tian Lan</a> and work with <a href="https://sites.google.com/view/statsqizl/">Prof.Zhengling Qi</a>. 
+
 
 **Research Topics: Reinforcement Learning • Post-Training • Generative AI**
 
@@ -62,7 +62,6 @@ I obtained my B.Eng. degree from <a href="https://hyxt.whu.edu.cn/">Hongyi Honor
 ### Conferences
 
 <div class="pub-list">
-
 
 <div class="pub-item">
   <strong>CRAFT-LORA: Content-Style Personalization via Rank-Constrained Adaptation</strong><br/>
