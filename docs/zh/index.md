@@ -68,7 +68,7 @@
   <div class="authors">
     <b>Yu Li</b>, Yujun Cai, Chi Zhang
   </div>
-  <span class="meta"><span class="text-blue"><i>CVPR 2026</i></span></span>
+  <span class="meta"><span class="text-blue"><i>CVPR 2026</i></span></span> · <a href="https://arxiv.org/abs/2602.18936" target="_blank" rel="noopener">论文</a> 
   <div>秩约束 LoRA 适配，实现内容-风格解耦与个性化图像生成。</div>
   <div class="chips">
     <span class="chip">生成式AI</span><span class="chip">个性化生图</span><span class="chip">LoRA</span>
