@@ -68,7 +68,7 @@ I am currently a first year Ph.D. candidate at GWU supervised by <a href="https:
   <div class="authors">
     <b>Yu Li</b>, Yujun Cai, Chi Zhang
   </div>
-  <span class="meta"><span class="text-blue"><i>CVPR 2026</i></span></span> · <a href="https://arxiv.org/abs/2601.02196" target="_blank" rel="noopener">Paper</a> 
+  <span class="meta"><span class="text-blue"><i>CVPR 2026</i></span></span> · <a href="https://arxiv.org/abs/2602.18936" target="_blank" rel="noopener">Paper</a> 
   <div>Rank-constrained LoRA adaptation for content–style personalization in image generation.</div>
   <div class="chips">
     <span class="chip">Generative AI</span><span class="chip">Personalization</span><span class="chip">LoRA</span>
