@@ -15,6 +15,13 @@
         <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/blog/"/>
     </url>
     <url>
+        <loc>Noneblog/New_Beginning/</loc>
+        <lastmod>2026-02-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneblog/New_Beginning/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/blog/New_Beginning/"/>
+    </url>
+    <url>
         <loc>Nonezh/</loc>
         <lastmod>2026-02-28</lastmod>
         <changefreq>daily</changefreq>
@@ -27,5 +34,12 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/blog/"/>
         <xhtml:link rel="alternate" hreflang="en" href="Noneblog/"/>
+    </url>
+    <url>
+        <loc>Nonezh/blog/New_Beginning/</loc>
+        <lastmod>2026-02-28</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/blog/New_Beginning/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneblog/New_Beginning/"/>
     </url>
 </urlset>

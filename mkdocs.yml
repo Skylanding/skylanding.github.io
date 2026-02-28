@@ -11,15 +11,18 @@ plugins:
   - search:
       lang: [en, zh]
   - i18n:
-      # 不要写 default_language
       languages:
         - locale: en
           name: English
-          default: true      # 用这个来指定默认语言
+          default: true
         - locale: zh
           name: 简体中文
       docs_structure: folder
       reconfigure_material: true
+  - git-revision-date-localized:
+      enable_creation_date: true
+      type: date
+      fallback_to_build_date: true
 
 markdown_extensions:
   - attr_list
@@ -27,10 +30,12 @@ markdown_extensions:
   - pymdownx.mark       # ← 新增，可用 ==text== 语法
 
 
+hooks:
+  - hooks/blog_index.py
+
 nav:
-  - Home: index.md   # i18n 插件会自动在 docs/en/ 与 docs/zh/ 下找 index.md
-  - Blog:
-      - Overview: blog/index.md
+  - Home: index.md
+  - Blog: blog/index.md
 
 # （可选）访客地图需要的 Leaflet 资源
 extra_css:
@@ -39,4 +44,5 @@ extra_css:
 
 extra_javascript:
   - https://unpkg.com/leaflet@1.9.4/dist/leaflet.js
-  - assets/map.js  
+  - assets/map.js
+  - assets/reading-time.js

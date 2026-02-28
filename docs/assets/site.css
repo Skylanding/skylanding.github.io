@@ -89,3 +89,20 @@
 }
 /* 如需限制最大宽度（可选，按需开启） */
 .md-typeset .vis-center img { max-width: 720px; }
+
+/* 博客文章元信息行 */
+.post-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px 0;
+  font-size: .85em;
+  opacity: .7;
+  margin: -.5rem 0 1rem;
+}
+
+/* 自动阅读时间标签 */
+.reading-time {
+  font-size: .85em;
+  opacity: .65;
+  margin: -.25rem 0 1rem;
+}
