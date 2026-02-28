@@ -15,11 +15,11 @@
         <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/blog/"/>
     </url>
     <url>
-        <loc>Noneblog/New_Beginning/</loc>
+        <loc>Noneblog/0228_26/</loc>
         <lastmod>2026-02-28</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneblog/New_Beginning/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/blog/New_Beginning/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneblog/0228_26/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/blog/0228_26/"/>
     </url>
     <url>
         <loc>Nonezh/</loc>
@@ -36,10 +36,10 @@
         <xhtml:link rel="alternate" hreflang="en" href="Noneblog/"/>
     </url>
     <url>
-        <loc>Nonezh/blog/New_Beginning/</loc>
+        <loc>Nonezh/blog/0228_26/</loc>
         <lastmod>2026-02-28</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/blog/New_Beginning/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="Noneblog/New_Beginning/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="Nonezh/blog/0228_26/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="Noneblog/0228_26/"/>
     </url>
 </urlset>
