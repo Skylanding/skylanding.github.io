@@ -1,4 +1,8 @@
 document.addEventListener("DOMContentLoaded", function () {
+  var path = location.pathname;
+  if (path.indexOf("/blog/") === -1) return;
+  if (path.match(/\/blog\/?$/) || path.match(/\/blog\/index/)) return;
+
   var article = document.querySelector(".md-content__inner");
   if (!article) return;
 
