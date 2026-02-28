@@ -29,6 +29,8 @@ markdown_extensions:
 
 nav:
   - Home: index.md   # i18n 插件会自动在 docs/en/ 与 docs/zh/ 下找 index.md
+  - Blog:
+      - Overview: blog/index.md
 
 # （可选）访客地图需要的 Leaflet 资源
 extra_css:
