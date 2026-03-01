@@ -106,3 +106,8 @@
   opacity: .65;
   margin: -.25rem 0 1rem;
 }
+
+/* 只显示创建时间，隐藏最后编辑时间 */
+.md-source-file__fact:not(.md-source-file__fact--created) {
+  display: none;
+}
