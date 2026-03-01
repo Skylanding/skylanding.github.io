@@ -1,6 +1,6 @@
 # Blog
 
-I want to use some spare time to document my PhD life, research notes, and personal reflections.
+Some essays, some thoughts, and some insights.
 
 ## Posts
 
