@@ -29,7 +29,7 @@ I am currently a first year Ph.D. candidate at GWU supervised by <a href="https:
 - **[02/2026]** CRAFT-LORA is accepted to CVPR 2026 🎉. See you in Denver.
 - **[02/2026]** ACDZero is accepted to ICCN@INFOCOM2026 🎉. See you in Tokyo.
 - **[01/2026]** I passed my PhD qualifying exam in my first semester and am now a PhD candidate 🎓.
-- **[01/2026]** KG-SAM is accepted to ICASSP 2026 🎉.
+- **[01/2026]** KG-SAM is accepted to ICASSP 2026 (Oral)🎉.
 - **[11/2025]** SoRA is accepted to AAAI 2026 🎉.
 ---
 
