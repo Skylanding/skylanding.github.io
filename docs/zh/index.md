@@ -26,10 +26,11 @@
 ---
 
 ## 近期动态 (News)
+- **[03/2026]** InsPO 被 AI with Recursive Self-Improvement@ICLR 2026 接收 🎉. 4月里约见！
 - **[02/2026]** CRAFT-LORA 被 CVPR 2026 接收 🎉. 6月丹佛见！
 - **[02/2026]** ACDZero 被 ICCN@INFOCOM 2026 接收 🎉. 5月东京见!
 - **[01/2026]** 我在第一学期就通过了博士资格考试！现在已成为博士候选人（PhD Candidate）🎓.
-- **[01/2026]** KG-SAM 被 ICASSP 2026 接收（口头报告） 🎉.
+- **[01/2026]** KG-SAM 被 ICASSP 2026 接收为 Oral Paper 🎉.
 - **[11/2025]** SoRA 被 AAAI 2026 接收 🎉.
 ---
 
