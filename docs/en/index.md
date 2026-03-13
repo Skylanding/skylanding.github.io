@@ -26,7 +26,7 @@ I am currently a first year Ph.D. candidate at GWU supervised by <a href="https:
 ---
 
 ## News
-- **[03/2026]** InsPO is accepted to AI with Recursive Self-Improvement@ICLR 2026 🎉. See you in Rio in April!
+- **[03/2026]** InsPO is accepted to AI with Recursive Self-Improvement@ICLR 2026 🎉. See you in Rio!
 - **[02/2026]** CRAFT-LORA is accepted to CVPR 2026 🎉. See you in Denver.
 - **[02/2026]** ACDZero is accepted to ICCN@INFOCOM2026 🎉. See you in Tokyo.
 - **[01/2026]** I passed my PhD qualifying exam in my first semester and am now a PhD candidate 🎓.
@@ -94,9 +94,9 @@ I am currently a first year Ph.D. candidate at GWU supervised by <a href="https:
 <div class="pub-item">
   <strong>KG-SAM: Injecting Anatomical Knowledge into Segment Anything Models via Conditional Random Fields</strong><br/>
   <div class="authors">
-    <b>Yu Li</b>, Da Chang, Xi Xiao
+    <b>Yu Li</b>, Chang Da, Xi Xiao
   </div>
-  <span class="meta"><span class="text-blue"><i>ICASSP 2026</i></span> · <a href="https://arxiv.org/abs/2509.21750" target="_blank" rel="noopener">Paper</a> · <a href="" target="_blank" rel="noopener">Code</a></span>
+  <span class="meta"><span class="text-blue"><i>ICASSP 2026</i></span> · <span class="text-orange"><b>Oral</b></span> · <a href="https://arxiv.org/abs/2509.21750" target="_blank" rel="noopener">Paper</a> · <a href="" target="_blank" rel="noopener">Code</a></span>
   <div>Knowledge-guided SAM with anatomical priors and CRF refinement for robust medical image segmentation.</div>
   <div class="chips">
     <span class="chip">Medical Segmentation</span><span class="chip">SAM</span><span class="chip">Knowledge Graph</span><span class="chip">CRF</span>
@@ -106,7 +106,7 @@ I am currently a first year Ph.D. candidate at GWU supervised by <a href="https:
 <div class="pub-item">
   <strong>Calibrating and Rotating: A Unified Framework for Weight Conditioning in PEFT</strong><br/>
   <div class="authors">
-    Da Chang, Peng Xue, <b>Yu Li</b> , Yongxiang Liu, Pengxiang Xu, Shixun Zhang
+    Chang Da, Peng Xue, <b>Yu Li</b>, Yongxiang Liu, Pengxiang Xu, Shixun Zhang
   </div>
   <span class="meta"><span class="text-blue"><i>AAAI 2026</i></span> · <a href="https://arxiv.org/abs/2511.00051" target="_blank" rel="noopener">Paper</a> · <a href="https://github.com/MaeChd/SORA" target="_blank" rel="noopener">Code</a></span>
   <div>A unified calibration+rotation weight-conditioning framework that improves PEFT performance and efficiency.</div>

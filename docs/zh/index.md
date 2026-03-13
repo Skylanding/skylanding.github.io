@@ -94,9 +94,9 @@
 <div class="pub-item">
   <strong>KG-SAM: Injecting Anatomical Knowledge into Segment Anything Models via Conditional Random Fields</strong><br/>
   <div class="authors">
-    <b>Yu Li</b>, Da Chang, Xi Xiao
+    <b>Yu Li</b>, Chang Da, Xi Xiao
   </div>
-  <span class="meta"><span class="text-blue"><i>ICASSP 2026</i></span> · <a href="https://arxiv.org/abs/2509.21750" target="_blank" rel="noopener">论文</a> · <a href="" target="_blank" rel="noopener">代码</a></span>
+  <span class="meta"><span class="text-blue"><i>ICASSP 2026</i></span> · <span class="text-orange"><b>Oral</b></span> · <a href="https://arxiv.org/abs/2509.21750" target="_blank" rel="noopener">论文</a> · <a href="" target="_blank" rel="noopener">代码</a></span>
   <div>融合知识图谱解剖先验与 CRF 边界优化的知识引导 SAM 医学分割框架。</div>
   <div class="chips">
     <span class="chip">医学分割</span><span class="chip">SAM</span><span class="chip">知识图谱</span><span class="chip">CRF</span>
@@ -106,7 +106,7 @@
 <div class="pub-item">
   <strong>Calibrating and Rotating: A Unified Framework for Weight Conditioning in PEFT</strong><br/>
   <div class="authors">
-    Da Chang, Peng Xue, <b>Yu Li</b>, Yongxiang Liu, Pengxiang Xu, Shixun Zhang
+    Chang Da, Peng Xue, <b>Yu Li</b>, Yongxiang Liu, Pengxiang Xu, Shixun Zhang
   </div>
   <span class="meta"><span class="text-blue"><i>AAAI 2026</i></span> · <a href="https://arxiv.org/abs/2511.00051" target="_blank" rel="noopener">论文</a> · <a href="https://github.com/MaeChd/SORA" target="_blank" rel="noopener">代码</a></span>
   <div>统一“校准 + 旋转”的权重条件化策略，提升 PEFT 性能与训练/推理效率。</div>
