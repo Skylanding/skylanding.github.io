@@ -16,7 +16,7 @@
 
 我目前是<a href="https://www.ece.gwu.edu/">乔治·华盛顿大学</a> 一年级博士候选人，导师是 <a href="https://www2.seas.gwu.edu/~tlan/">Tian Lan</a> 教授，并与 <a href="https://sites.google.com/view/statsqizl/">Zhengling Qi</a> 教授合作。
 
-**研究方向: 强化学习 • 后训练策略优化 • 生成式AI**
+**研究方向: LLM 后训练 • 智能体策略学习 • 生成式AI**
 
 - 📄 **[简历](../file/CV_Yu_Li.pdf)**
 - 🧪 **[GitHub](https://github.com/skylanding)**
@@ -41,20 +41,62 @@
 <div class="pub-list">
 
 <div class="pub-item">
-  <strong>Unlocking Implicit Self-Reflection in Preference Optimization for LLM Alignment</strong><br/>
-  <span class="meta">2025.8 – 2025.11</span> · <a href="https://arxiv.org/abs/2512.23126" target="_blank" rel="noopener">论文</a> · <a href="https://github.com/Skylanding/InsPO" target="_blank" rel="noopener">代码</a></span>
-  <div>从偏好对中挖掘隐式“自我反思”信号，提升偏好优化与 LLM 对齐效果。</div>
+  <strong>ARISE: Agent Reasoning with Intrinsic Skill Evolution in Hierarchical Reinforcement Learning</strong><br/>
+  <div class="authors">
+    <b>Yu Li</b>, Rui Miao, Zhengling Qi, Tian Lan
+  </div>
+  <span class="meta">在投</span>
+  <div>基于内在技能进化的层次化强化学习框架，提升智能体推理能力。</div>
   <div class="chips">
-    <span class="chip">直接偏好优化</span><span class="chip">简单偏好优化</span><span class="chip">强化学习</span>
+    <span class="chip">层次化 RL</span><span class="chip">智能体</span><span class="chip">技能学习</span>
   </div>
 </div>
 
 <div class="pub-item">
-  <strong>Aligning LLMs with Finite State Machine Logic for Multi-turn Verilog Code Generation</strong><br/>
-  <span class="meta">2025.8 – 2025.11</span>
-  <div>通过结构化对齐让 LLM 学习有限状态机转移逻辑，实现多轮 Verilog 生成。</div>
+  <strong>Right Meets Wrong: Bilateral Context Conditioning with Reward-Confidence Correction for GRPO</strong><br/>
+  <div class="authors">
+    <b>Yu Li</b>, Tian Lan, Zhengling Qi
+  </div>
+  <span class="meta">投稿至 ICML 2026</span>
+  <div>双边上下文条件化与奖励置信度校正，改进 GRPO 训练效果。</div>
   <div class="chips">
-    <span class="chip">RLVR</span><span class="chip">代码生成</span><span class="chip">Verilog 状态机</span>
+    <span class="chip">GRPO</span><span class="chip">RLHF</span><span class="chip">后训练</span>
+  </div>
+</div>
+
+<div class="pub-item">
+  <strong>InsPO: Unlocking Intrinsic Self-Reflection for LLM Preference Optimization</strong><br/>
+  <div class="authors">
+    <b>Yu Li</b>, Tian Lan, Zhengling Qi
+  </div>
+  <span class="meta">投稿至 ICML 2026 · <span class="text-blue"><i>AI with Recursive Self-Improvement@ICLR 2026</i></span> (Poster)</span> · <a href="https://arxiv.org/abs/2512.23126" target="_blank" rel="noopener">论文</a> · <a href="https://github.com/Skylanding/InsPO" target="_blank" rel="noopener">代码</a></span>
+  <div>从偏好对中挖掘内在"自我反思"信号，提升偏好优化与 LLM 对齐效果。</div>
+  <div class="chips">
+    <span class="chip">直接偏好优化</span><span class="chip">简单偏好优化</span><span class="chip">偏好学习</span>
+  </div>
+</div>
+
+<div class="pub-item">
+  <strong>Reason in Chains, Learn in Trees: Self-Rectification and Grafting for Multi-turn Agent Policy Optimization</strong><br/>
+  <div class="authors">
+    <b>Yu Li</b>, Sizhe Tang, Tian Lan
+  </div>
+  <span class="meta">投稿至 ACL 2026</span>
+  <div>自我纠正与树状嫁接方法，用于多轮智能体策略优化。</div>
+  <div class="chips">
+    <span class="chip">智能体</span><span class="chip">多轮对话</span><span class="chip">策略优化</span>
+  </div>
+</div>
+
+<div class="pub-item">
+  <strong>MultiRefine-V: Multi-Turn Reinforcement Learning for Enhancing Verilog Code Synthesis</strong><br/>
+  <div class="authors">
+    Qiufeng Li, <b>Yu Li</b>, Shu Hong, Tian Lan, Weidong Cao
+  </div>
+  <span class="meta">在投</span>
+  <div>多轮强化学习提升 Verilog 代码合成质量。</div>
+  <div class="chips">
+    <span class="chip">RLVR</span><span class="chip">代码生成</span><span class="chip">Verilog</span>
   </div>
 </div>
 
@@ -65,7 +107,7 @@
 <div class="pub-list">
 
 <div class="pub-item">
-  <strong>CRAFT-LORA: Content-Style Personalization via Rank-Constrained Adaptation</strong><br/>
+  <strong>CRAFT-LoRA: Content-Style Personalization via Rank-Constrained Adaptation and Training-Free Fusion</strong><br/>
   <div class="authors">
     <b>Yu Li</b>, Yujun Cai, Chi Zhang
   </div>
@@ -109,7 +151,7 @@
     Chang Da, Peng Xue, <b>Yu Li</b>, Yongxiang Liu, Pengxiang Xu, Shixun Zhang
   </div>
   <span class="meta"><span class="text-blue"><i>AAAI 2026</i></span> · <a href="https://arxiv.org/abs/2511.00051" target="_blank" rel="noopener">论文</a> · <a href="https://github.com/MaeChd/SORA" target="_blank" rel="noopener">代码</a></span>
-  <div>统一“校准 + 旋转”的权重条件化策略，提升 PEFT 性能与训练/推理效率。</div>
+  <div>统一"校准 + 旋转"的权重条件化策略，提升 PEFT 性能与训练/推理效率。</div>
   <div class="chips">
     <span class="chip">LLMs PEFT</span><span class="chip">权重条件化</span>
   </div>
@@ -208,7 +250,7 @@
 
 ## 学术服务 (Academic Services)
 
-- **会议审稿人:** ICML’26, CVPR’26, ICLR’26, AAAI’26, ICASSP’26
+- **会议审稿人:** ICML'26, CVPR'26, ICLR'26, AAAI'26, ICASSP'26
 - **期刊审稿人:** Neurocomputing, Frontiers in Oncology, IEEE Transactions on Networking, Frontiers in Medicine
 
 

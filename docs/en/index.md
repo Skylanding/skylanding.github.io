@@ -16,7 +16,7 @@
 I am currently a first year Ph.D. candidate at GWU supervised by <a href="https://www2.seas.gwu.edu/~tlan/">Prof. Tian Lan</a> and work with <a href="https://sites.google.com/view/statsqizl/">Prof.Zhengling Qi</a>. 
 
 
-**Research Topics: Reinforcement Learning • Post-Training • Generative AI**
+**Research Topics: LLM Post-Training • Agent Policy Learning • Generative AI**
 
 - 📄 **[CV](../file/CV_Yu_Li.pdf)**
 - 🧪 **[GitHub](https://github.com/skylanding)**
@@ -41,20 +41,62 @@ I am currently a first year Ph.D. candidate at GWU supervised by <a href="https:
 <div class="pub-list">
 
 <div class="pub-item">
-  <strong>Unlocking Implicit Self-Reflection in Preference Optimization for LLM Alignment</strong><br/>
-  <span class="meta">Aug. 2025 – Nov. 2025</span> · <a href="https://arxiv.org/abs/2512.23126" target="_blank" rel="noopener">Paper</a> · <a href="https://github.com/Skylanding/InsPO" target="_blank" rel="noopener">Code</a></span>
-  <div>Preference optimization that leverages implicit self-reflection signals in pairwise data to improve LLM alignment.</div>
+  <strong>ARISE: Agent Reasoning with Intrinsic Skill Evolution in Hierarchical Reinforcement Learning</strong><br/>
+  <div class="authors">
+    <b>Yu Li</b>, Rui Miao, Zhengling Qi, Tian Lan
+  </div>
+  <span class="meta">Under review at COLM 2026</span>
+  <div>Hierarchical RL framework with intrinsic skill evolution for scalable agent reasoning.</div>
+  <div class="chips">
+    <span class="chip">Hierarchical RL</span><span class="chip">Agent</span><span class="chip">Skill Learning</span>
+  </div>
+</div>
+
+<div class="pub-item">
+  <strong>Right Meets Wrong: Bilateral Context Conditioning with Reward-Confidence Correction for GRPO</strong><br/>
+  <div class="authors">
+    <b>Yu Li</b>, Tian Lan, Zhengling Qi
+  </div>
+  <span class="meta">Under review at ICML 2026</span>
+  <div>Bilateral context conditioning and reward-confidence correction to improve GRPO training.</div>
+  <div class="chips">
+    <span class="chip">GRPO</span><span class="chip">RLHF</span><span class="chip">Post-training</span>
+  </div>
+</div>
+
+<div class="pub-item">
+  <strong>InsPO: Unlocking Intrinsic Self-Reflection for LLM Preference Optimization</strong><br/>
+  <div class="authors">
+    <b>Yu Li</b>, Tian Lan, Zhengling Qi
+  </div>
+  <span class="meta">Under review at ICML 2026 · <span class="text-blue"><i>AI with Recursive Self-Improvement@ICLR 2026</i></span> (Poster)</span> · <a href="https://arxiv.org/abs/2512.23126" target="_blank" rel="noopener">Paper</a> · <a href="https://github.com/Skylanding/InsPO" target="_blank" rel="noopener">Code</a></span>
+  <div>Preference optimization that leverages intrinsic self-reflection signals in pairwise data to improve LLM alignment.</div>
   <div class="chips">
     <span class="chip">DPO</span><span class="chip">SimPO</span><span class="chip">Preference Learning</span>
   </div>
 </div>
 
 <div class="pub-item">
-  <strong>Aligning LLMs with Finite State Machine Logic for Multi-turn Verilog Code Generation</strong><br/>
-  <span class="meta">Sept. 2025 – Nov. 2025</span>
-  <div>Structured alignment to teach LLMs finite-state transition logic for multi-turn Verilog generation.</div>
+  <strong>Reason in Chains, Learn in Trees: Self-Rectification and Grafting for Multi-turn Agent Policy Optimization</strong><br/>
+  <div class="authors">
+    <b>Yu Li</b>, Sizhe Tang, Tian Lan
+  </div>
+  <span class="meta">Under review at ACL 2026</span>
+  <div>Self-rectification and tree-based grafting for multi-turn agent policy optimization.</div>
   <div class="chips">
-    <span class="chip">RLVR</span><span class="chip">Code Generation</span><span class="chip">Verilog FSM</span>
+    <span class="chip">Agent</span><span class="chip">Multi-turn</span><span class="chip">Policy Optimization</span>
+  </div>
+</div>
+
+<div class="pub-item">
+  <strong>MultiRefine-V: Multi-Turn Reinforcement Learning for Enhancing Verilog Code Synthesis</strong><br/>
+  <div class="authors">
+    Qiufeng Li, <b>Yu Li</b>, Shu Hong, Tian Lan, Weidong Cao
+  </div>
+  <span class="meta">Under review</span>
+  <div>Multi-turn RL for enhancing Verilog code synthesis quality.</div>
+  <div class="chips">
+    <span class="chip">RLVR</span><span class="chip">Code Generation</span><span class="chip">Verilog</span>
   </div>
 </div>
 
@@ -65,7 +107,7 @@ I am currently a first year Ph.D. candidate at GWU supervised by <a href="https:
 <div class="pub-list">
 
 <div class="pub-item">
-  <strong>CRAFT-LORA: Content-Style Personalization via Rank-Constrained Adaptation</strong><br/>
+  <strong>CRAFT-LoRA: Content-Style Personalization via Rank-Constrained Adaptation and Training-Free Fusion</strong><br/>
   <div class="authors">
     <b>Yu Li</b>, Yujun Cai, Chi Zhang
   </div>
