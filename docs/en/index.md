@@ -45,7 +45,7 @@ I am currently a first year Ph.D. candidate at GWU supervised by <a href="https:
   <div class="authors">
     <b>Yu Li</b>, Rui Miao, Zhengling Qi, Tian Lan
   </div>
-  <span class="meta">Under review at COLM 2026</span>
+  <span class="meta">Under review at COLM 2026</span> · <a href="https://github.com/Skylanding/ARISE" target="_blank" rel="noopener">Code</a>
   <div>Hierarchical RL framework with intrinsic skill evolution for scalable agent reasoning.</div>
   <div class="chips">
     <span class="chip">Hierarchical RL</span><span class="chip">Agent</span><span class="chip">Skill Learning</span>
@@ -57,7 +57,7 @@ I am currently a first year Ph.D. candidate at GWU supervised by <a href="https:
   <div class="authors">
     <b>Yu Li</b>, Tian Lan, Zhengling Qi
   </div>
-  <span class="meta">Under review at ICML 2026</span>
+  <span class="meta">Under review at ICML 2026</span> · <a href="https://github.com/Skylanding/BiCC" target="_blank" rel="noopener">Code</a>
   <div>Bilateral context conditioning and reward-confidence correction to improve GRPO training.</div>
   <div class="chips">
     <span class="chip">GRPO</span><span class="chip">RLHF</span><span class="chip">Post-training</span>

@@ -45,7 +45,7 @@
   <div class="authors">
     <b>Yu Li</b>, Rui Miao, Zhengling Qi, Tian Lan
   </div>
-  <span class="meta">在投</span>
+  <span class="meta">在投</span> · <a href="https://github.com/Skylanding/ARISE" target="_blank" rel="noopener">代码</a>
   <div>基于内在技能进化的层次化强化学习框架，提升智能体推理能力。</div>
   <div class="chips">
     <span class="chip">层次化 RL</span><span class="chip">智能体</span><span class="chip">技能学习</span>
@@ -57,7 +57,7 @@
   <div class="authors">
     <b>Yu Li</b>, Tian Lan, Zhengling Qi
   </div>
-  <span class="meta">投稿至 ICML 2026</span>
+  <span class="meta">投稿至 ICML 2026</span> · <a href="https://github.com/Skylanding/BiCC" target="_blank" rel="noopener">代码</a>
   <div>双边上下文条件化与奖励置信度校正，改进 GRPO 训练效果。</div>
   <div class="chips">
     <span class="chip">GRPO</span><span class="chip">RLHF</span><span class="chip">后训练</span>
