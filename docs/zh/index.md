@@ -45,7 +45,7 @@
   <div class="authors">
     <b>Yu Li</b>, Rui Miao, Zhengling Qi, Tian Lan
   </div>
-  <span class="meta">在投</span> · <a href="https://github.com/Skylanding/ARISE" target="_blank" rel="noopener">代码</a>
+  <span class="meta">在投</span> · <a href="https://arxiv.org/abs/2603.16060" target="_blank" rel="noopener">论文</a> · <a href="https://github.com/Skylanding/ARISE" target="_blank" rel="noopener">代码</a>
   <div>基于内在技能进化的层次化强化学习框架，提升智能体推理能力。</div>
   <div class="chips">
     <span class="chip">层次化 RL</span><span class="chip">智能体</span><span class="chip">技能学习</span>
@@ -57,7 +57,7 @@
   <div class="authors">
     <b>Yu Li</b>, Tian Lan, Zhengling Qi
   </div>
-  <span class="meta">投稿至 ICML 2026</span> · <a href="https://github.com/Skylanding/BiCC" target="_blank" rel="noopener">代码</a>
+  <span class="meta">投稿至 ICML 2026</span> · <a href="https://arxiv.org/abs/2603.13134" target="_blank" rel="noopener">论文</a> · <a href="https://github.com/Skylanding/BiCC" target="_blank" rel="noopener">代码</a>
   <div>双边上下文条件化与奖励置信度校正，改进 GRPO 训练效果。</div>
   <div class="chips">
     <span class="chip">GRPO</span><span class="chip">RLHF</span><span class="chip">后训练</span>
@@ -111,7 +111,7 @@
   <div class="authors">
     <b>Yu Li</b>, Yujun Cai, Chi Zhang
   </div>
-  <span class="meta"><span class="text-blue"><i>CVPR 2026</i></span></span> · <a href="https://arxiv.org/abs/2602.18936" target="_blank" rel="noopener">论文</a> 
+  <span class="meta"><span class="text-blue"><i>CVPR 2026</i></span></span> · <a href="https://arxiv.org/abs/2602.18936" target="_blank" rel="noopener">论文</a> · <a href="https://github.com/Skylanding/CraftLoRA" target="_blank" rel="noopener">代码</a> 
   <div>秩约束 LoRA 适配，实现内容-风格解耦与个性化图像生成。</div>
   <div class="chips">
     <span class="chip">生成式AI</span><span class="chip">个性化生图</span><span class="chip">LoRA</span>
