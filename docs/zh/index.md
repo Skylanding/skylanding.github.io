@@ -26,7 +26,7 @@
 ---
 
 ## 近期动态 (News)
-- **[03/2026]** InsPO 被 AI with Recursive Self-Improvement@ICLR 2026 接收 🎉. 4月里约见！
+- **[03/2026]** InsPO 被 AI with Recursive Self-Improvement@ICLR 2026 接收 🎉.
 - **[02/2026]** CRAFT-LORA 被 CVPR 2026 接收 🎉. 6月丹佛见！
 - **[02/2026]** ACDZero 被 ICCN@INFOCOM 2026 接收 🎉. 5月东京见!
 - **[01/2026]** 我在第一学期就通过了博士资格考试！现在已成为博士候选人（PhD Candidate）🎓.
@@ -45,7 +45,7 @@
   <div class="authors">
     <b>Yu Li</b>, Rui Miao, Zhengling Qi, Tian Lan
   </div>
-  <span class="meta">在投</span> · <a href="https://arxiv.org/abs/2603.16060" target="_blank" rel="noopener">论文</a> · <a href="https://github.com/Skylanding/ARISE" target="_blank" rel="noopener">代码</a>
+  <span class="meta">投稿至 CoLM 2026</span> · <a href="https://arxiv.org/abs/2603.16060" target="_blank" rel="noopener">论文</a> · <a href="https://github.com/Skylanding/ARISE" target="_blank" rel="noopener">代码</a>
   <div>基于内在技能进化的层次化强化学习框架，提升智能体推理能力。</div>
   <div class="chips">
     <span class="chip">层次化 RL</span><span class="chip">智能体</span><span class="chip">技能学习</span>

@@ -45,7 +45,7 @@ I am currently a first year Ph.D. candidate at GWU supervised by <a href="https:
   <div class="authors">
     <b>Yu Li</b>, Rui Miao, Zhengling Qi, Tian Lan
   </div>
-  <span class="meta">Under review at COLM 2026</span> · <a href="https://arxiv.org/abs/2603.16060" target="_blank" rel="noopener">Paper</a> · <a href="https://github.com/Skylanding/ARISE" target="_blank" rel="noopener">Code</a>
+  <span class="meta">Under review at CoLM 2026</span> · <a href="https://arxiv.org/abs/2603.16060" target="_blank" rel="noopener">Paper</a> · <a href="https://github.com/Skylanding/ARISE" target="_blank" rel="noopener">Code</a>
   <div>Hierarchical RL framework with intrinsic skill evolution for scalable agent reasoning.</div>
   <div class="chips">
     <span class="chip">Hierarchical RL</span><span class="chip">Agent</span><span class="chip">Skill Learning</span>
