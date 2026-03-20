@@ -138,7 +138,7 @@
   <div class="authors">
     <b>Yu Li</b>, Chang Da, Xi Xiao
   </div>
-  <span class="meta"><span class="text-blue"><i>ICASSP 2026</i></span> · <span class="text-orange"><b>Oral</b></span> · <a href="https://arxiv.org/abs/2509.21750" target="_blank" rel="noopener">论文</a> · <a href="" target="_blank" rel="noopener">代码</a></span>
+  <span class="meta"><span class="text-blue"><i>ICASSP 2026</i></span> · <span class="text-orange"><b>Oral</b></span> · <a href="https://arxiv.org/abs/2509.21750" target="_blank" rel="noopener">论文</a>
   <div>融合知识图谱解剖先验与 CRF 边界优化的知识引导 SAM 医学分割框架。</div>
   <div class="chips">
     <span class="chip">医学分割</span><span class="chip">SAM</span><span class="chip">知识图谱</span><span class="chip">CRF</span>

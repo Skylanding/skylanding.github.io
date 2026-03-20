@@ -138,7 +138,7 @@ I am currently a first year Ph.D. candidate at GWU supervised by <a href="https:
   <div class="authors">
     <b>Yu Li</b>, Chang Da, Xi Xiao
   </div>
-  <span class="meta"><span class="text-blue"><i>ICASSP 2026</i></span> · <span class="text-orange"><b>Oral</b></span> · <a href="https://arxiv.org/abs/2509.21750" target="_blank" rel="noopener">Paper</a> · <a href="" target="_blank" rel="noopener">Code</a></span>
+  <span class="meta"><span class="text-blue"><i>ICASSP 2026</i></span> · <span class="text-orange"><b>Oral</b></span> · <a href="https://arxiv.org/abs/2509.21750" target="_blank" rel="noopener">Paper</a> 
   <div>Knowledge-guided SAM with anatomical priors and CRF refinement for robust medical image segmentation.</div>
   <div class="chips">
     <span class="chip">Medical Segmentation</span><span class="chip">SAM</span><span class="chip">Knowledge Graph</span><span class="chip">CRF</span>
