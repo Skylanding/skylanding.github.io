@@ -101,6 +101,13 @@
   margin: -.5rem 0 1rem;
 }
 
+/* 教育背景详情（缩小字体） */
+.edu-detail {
+  font-size: .85em;
+  opacity: .75;
+  margin-top: 2px;
+}
+
 /* 自动阅读时间标签 */
 .reading-time {
   font-size: .85em;

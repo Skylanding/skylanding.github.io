@@ -1,12 +1,12 @@
 # Yu Li
 
   <strong>George Washington University</strong>, Washington, D.C. *2025.9–2029.5(expected)*
-  <div class="authors">
-    Ph.D. in Electrical and Computer Engineering (GPA:4.0/4.0)
+  <div class="edu-detail">
+    Ph.D. in Electrical and Computer Engineering (GPA: 4.0/4.0)
   </div>
 
   <strong>Wuhan University</strong>, Hongyi Honor College, China *2021.9-2025.5*
-  <div class="authors">
+  <div class="edu-detail">
     B.Eng. in Microelectronics Science and Technology (GPA: 3.87/4.0)
   </div>
 

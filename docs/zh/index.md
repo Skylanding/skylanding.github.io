@@ -2,12 +2,12 @@
 
  
   <strong>乔治·华盛顿大学 (George Washington University)</strong>, 华盛顿特区. *2025.9-2029.5(预计)*
-  <div class="authors">
+  <div class="edu-detail">
     电子与计算机工程系 (ECE) 博士
   </div>
 
   <strong>武汉大学(Wuhan University)</strong> *弘毅学堂2021级*
-  <div class="authors">
+  <div class="edu-detail">
     微电子科学与技术 工学学士 (GPA: 3.87/4.0)
   </div>
 
