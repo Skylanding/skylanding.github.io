@@ -26,6 +26,7 @@ I am currently a first year Ph.D. candidate at GWU supervised by <a href="https:
 ---
 
 ## News
+- **[04/2026]** T-STAR is accepted to ACL Findings 2026 🎉. See you in San Diego!
 - **[03/2026]** InsPO is accepted to AI with Recursive Self-Improvement@ICLR 2026 🎉.
 - **[02/2026]** CRAFT-LORA is accepted to CVPR 2026 🎉. See you in Denver.
 - **[02/2026]** ACDZero is accepted to ICCN@INFOCOM2026 🎉. See you in Tokyo.
@@ -77,18 +78,6 @@ I am currently a first year Ph.D. candidate at GWU supervised by <a href="https:
 </div>
 
 <div class="pub-item">
-  <strong>Reason in Chains, Learn in Trees: Self-Rectification and Grafting for Multi-turn Agent Policy Optimization</strong><br/>
-  <div class="authors">
-    <b>Yu Li</b>, Sizhe Tang, Tian Lan
-  </div>
-  <span class="meta">Under review at ACL 2026</span>
-  <div>Self-rectification and tree-based grafting for multi-turn agent policy optimization.</div>
-  <div class="chips">
-    <span class="chip">Agent</span><span class="chip">Multi-turn</span><span class="chip">Policy Optimization</span>
-  </div>
-</div>
-
-<div class="pub-item">
   <strong>MultiRefine-V: Multi-Turn Reinforcement Learning for Enhancing Verilog Code Synthesis</strong><br/>
   <div class="authors">
     Qiufeng Li, <b>Yu Li</b>, Shu Hong, Tian Lan, Weidong Cao
@@ -105,6 +94,18 @@ I am currently a first year Ph.D. candidate at GWU supervised by <a href="https:
 ### Conferences
 
 <div class="pub-list">
+
+<div class="pub-item">
+  <strong>Reason in Chains, Learn in Trees: Self-Rectification and Grafting for Multi-turn Agent Policy Optimization</strong><br/>
+  <div class="authors">
+    <b>Yu Li</b>, Sizhe Tang, Tian Lan
+  </div>
+  <span class="meta"><span class="text-blue"><i>ACL Findings 2026</i></span></span>
+  <div>Self-rectification and tree-based grafting for multi-turn agent policy optimization.</div>
+  <div class="chips">
+    <span class="chip">Agent</span><span class="chip">Multi-turn</span><span class="chip">Policy Optimization</span>
+  </div>
+</div>
 
 <div class="pub-item">
   <strong>CRAFT-LoRA: Content-Style Personalization via Rank-Constrained Adaptation and Training-Free Fusion</strong><br/>

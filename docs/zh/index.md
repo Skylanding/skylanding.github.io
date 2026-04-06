@@ -26,6 +26,7 @@
 ---
 
 ## 近期动态 (News)
+- **[04/2026]** T-STAR 被 ACL Findings 2026 接收 🎉. 圣地亚哥见！
 - **[03/2026]** InsPO 被 AI with Recursive Self-Improvement@ICLR 2026 接收 🎉.
 - **[02/2026]** CRAFT-LORA 被 CVPR 2026 接收 🎉. 6月丹佛见！
 - **[02/2026]** ACDZero 被 ICCN@INFOCOM 2026 接收 🎉. 5月东京见!
@@ -77,18 +78,6 @@
 </div>
 
 <div class="pub-item">
-  <strong>Reason in Chains, Learn in Trees: Self-Rectification and Grafting for Multi-turn Agent Policy Optimization</strong><br/>
-  <div class="authors">
-    <b>Yu Li</b>, Sizhe Tang, Tian Lan
-  </div>
-  <span class="meta">投稿至 ACL 2026</span>
-  <div>自我纠正与树状嫁接方法，用于多轮智能体策略优化。</div>
-  <div class="chips">
-    <span class="chip">智能体</span><span class="chip">多轮对话</span><span class="chip">策略优化</span>
-  </div>
-</div>
-
-<div class="pub-item">
   <strong>MultiRefine-V: Multi-Turn Reinforcement Learning for Enhancing Verilog Code Synthesis</strong><br/>
   <div class="authors">
     Qiufeng Li, <b>Yu Li</b>, Shu Hong, Tian Lan, Weidong Cao
@@ -105,6 +94,18 @@
 ### 会议论文 (Conferences)
 
 <div class="pub-list">
+
+<div class="pub-item">
+  <strong>Reason in Chains, Learn in Trees: Self-Rectification and Grafting for Multi-turn Agent Policy Optimization</strong><br/>
+  <div class="authors">
+    <b>Yu Li</b>, Sizhe Tang, Tian Lan
+  </div>
+  <span class="meta"><span class="text-blue"><i>ACL Findings 2026</i></span></span>
+  <div>自我纠正与树状嫁接方法，用于多轮智能体策略优化。</div>
+  <div class="chips">
+    <span class="chip">智能体</span><span class="chip">多轮对话</span><span class="chip">策略优化</span>
+  </div>
+</div>
 
 <div class="pub-item">
   <strong>CRAFT-LoRA: Content-Style Personalization via Rank-Constrained Adaptation and Training-Free Fusion</strong><br/>
