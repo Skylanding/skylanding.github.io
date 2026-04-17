@@ -26,6 +26,7 @@
 ---
 
 ## 近期动态 (News)
+- **[04/2026]** 这个暑假我将加入 TikTok 担任研究科学家实习生，坐标圣何塞 🚀.
 - **[04/2026]** T-STAR 被 ACL Findings 2026 接收 🎉. 圣地亚哥见！
 - **[03/2026]** InsPO 被 AI with Recursive Self-Improvement@ICLR 2026 接收 🎉.
 - **[02/2026]** CRAFT-LORA 被 CVPR 2026 接收 🎉. 6月丹佛见！

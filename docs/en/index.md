@@ -26,7 +26,8 @@ I am currently a first year Ph.D. candidate at GWU supervised by <a href="https:
 ---
 
 ## News
-- **[04/2026]** T-STAR is accepted to ACL Findings 2026 🎉. See you in San Diego!
+- **[04/2026]** I will join TikTok as a Research Scientist Intern in San Jose this summer 🚀.
+- **[04/2026]** T-STAR is accepted to ACL Findings 2026 🎉. See you in San Diego.
 - **[03/2026]** InsPO is accepted to AI with Recursive Self-Improvement@ICLR 2026 🎉.
 - **[02/2026]** CRAFT-LORA is accepted to CVPR 2026 🎉. See you in Denver.
 - **[02/2026]** ACDZero is accepted to ICCN@INFOCOM2026 🎉. See you in Tokyo.
