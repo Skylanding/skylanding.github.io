@@ -42,6 +42,18 @@ I am currently a first year Ph.D. candidate at GWU supervised by <a href="https:
 <div class="pub-list">
 
 <div class="pub-item">
+  <strong>OPPO: Bayesian Value Recursion for Token-Level Credit Assignment in LLM Reasoning</strong><br/>
+  <div class="authors">
+    <b>Yu Li</b>, Rui Miao, Tian Lan, Zhengling Qi
+  </div>
+  <span class="meta">Under review</span>
+  <div>Bayesian value recursion for fine-grained, token-level credit assignment in LLM reasoning.</div>
+  <div class="chips">
+    <span class="chip">RL</span><span class="chip">Credit Assignment</span><span class="chip">Reasoning</span>
+  </div>
+</div>
+
+<div class="pub-item">
   <strong>ARISE: Agent Reasoning with Intrinsic Skill Evolution in Hierarchical Reinforcement Learning</strong><br/>
   <div class="authors">
     <b>Yu Li</b>, Rui Miao, Zhengling Qi, Tian Lan
@@ -50,6 +62,18 @@ I am currently a first year Ph.D. candidate at GWU supervised by <a href="https:
   <div>Hierarchical RL framework with intrinsic skill evolution for scalable agent reasoning.</div>
   <div class="chips">
     <span class="chip">Hierarchical RL</span><span class="chip">Agent</span><span class="chip">Skill Learning</span>
+  </div>
+</div>
+
+<div class="pub-item">
+  <strong>MomentKV: Closing the Directional Gap in KV Cache Eviction for Long-Context Inference</strong><br/>
+  <div class="authors">
+    <b>Yu Li</b>, Binxu Li, Tian Lan
+  </div>
+  <span class="meta">Under review</span>
+  <div>Direction-aware KV cache eviction that closes the directional gap for efficient long-context inference.</div>
+  <div class="chips">
+    <span class="chip">KV Cache</span><span class="chip">Long-Context</span><span class="chip">Efficient Inference</span>
   </div>
 </div>
 
@@ -241,6 +265,7 @@ I am currently a first year Ph.D. candidate at GWU supervised by <a href="https:
 
 ## Honors and Awards
 
+- ICML 2026 Gold Reviewer (Top Reviewers Recognition), 2026
 - Innova International Exchange Scholarship, Wuhan University, 2024
 - Innova Excellence Scholarship (Top 3%), Wuhan University, 2023, 2024
 - Academic Excellence Scholarship (Top 5%), Hongyi Honor College, 2022, 2023, 2024

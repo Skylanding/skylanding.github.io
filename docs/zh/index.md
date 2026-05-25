@@ -43,6 +43,18 @@
 <div class="pub-list">
 
 <div class="pub-item">
+  <strong>OPPO: Bayesian Value Recursion for Token-Level Credit Assignment in LLM Reasoning</strong><br/>
+  <div class="authors">
+    <b>Yu Li</b>, Rui Miao, Tian Lan, Zhengling Qi
+  </div>
+  <span class="meta">在投</span>
+  <div>基于贝叶斯价值递归的细粒度 token 级信用分配方法，用于 LLM 推理。</div>
+  <div class="chips">
+    <span class="chip">强化学习</span><span class="chip">信用分配</span><span class="chip">推理</span>
+  </div>
+</div>
+
+<div class="pub-item">
   <strong>ARISE: Agent Reasoning with Intrinsic Skill Evolution in Hierarchical Reinforcement Learning</strong><br/>
   <div class="authors">
     <b>Yu Li</b>, Rui Miao, Zhengling Qi, Tian Lan
@@ -51,6 +63,18 @@
   <div>基于内在技能进化的层次化强化学习框架，提升智能体推理能力。</div>
   <div class="chips">
     <span class="chip">层次化 RL</span><span class="chip">智能体</span><span class="chip">技能学习</span>
+  </div>
+</div>
+
+<div class="pub-item">
+  <strong>MomentKV: Closing the Directional Gap in KV Cache Eviction for Long-Context Inference</strong><br/>
+  <div class="authors">
+    <b>Yu Li</b>, Binxu Li, Tian Lan
+  </div>
+  <span class="meta">在投</span>
+  <div>方向感知的 KV 缓存淘汰方法，弥合方向性偏差，实现高效长上下文推理。</div>
+  <div class="chips">
+    <span class="chip">KV 缓存</span><span class="chip">长上下文</span><span class="chip">高效推理</span>
   </div>
 </div>
 
@@ -242,6 +266,7 @@
 
 ## 荣誉奖项 (Honors and Awards)
 
+- ICML 2026 金牌审稿人 (Top Reviewers Recognition)，2026
 - 英诺国际交流奖学金，武汉大学，2024
 - 英诺卓越奖学金（Top 3%），武汉大学，2023，2024
 - 学术优秀奖学金（Top 5%），弘毅学堂，2022，2023，2024
