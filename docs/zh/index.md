@@ -26,14 +26,11 @@
 ---
 
 ## 近期动态 (News)
-- **[04/2026]** 这个暑假我将加入 TikTok 担任研究科学家实习生，坐标圣何塞 🚀.
+- **[05/2026]** 加入 ByteDance 担任研究科学家实习生（5–8月），坐标圣何塞 🚀.
 - **[04/2026]** T-STAR 被 ACL 2026 接收 🎉. 圣地亚哥见！
-- **[03/2026]** InsPO 被 AI with Recursive Self-Improvement@ICLR 2026 接收 🎉.
 - **[02/2026]** CRAFT-LORA 被 CVPR 2026 接收 🎉. 6月丹佛见！
-- **[02/2026]** ACDZero 被 ICCN@INFOCOM 2026 接收 🎉. 5月东京见!
 - **[01/2026]** 我在第一学期就通过了博士资格考试！现在已成为博士候选人（PhD Candidate）🎓.
 - **[01/2026]** KG-SAM 被 ICASSP 2026 接收为 Oral Paper 🎉.
-- **[11/2025]** SoRA 被 AAAI 2026 接收 🎉.
 ---
 
 ## 论文发表 (Publications)
