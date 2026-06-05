@@ -274,8 +274,8 @@
 
 ## 学术服务 (Academic Services)
 
-- **会议审稿人:** ICML'26, CVPR'26, ICLR'26, AAAI'26, ICASSP'26
-- **期刊审稿人:** Neurocomputing, Frontiers in Oncology, IEEE Transactions on Networking, Frontiers in Medicine
+- **会议审稿人:** NeurIPS’26, COLM’26, ACM MM’26, ICML’26, ICLR’26, AAAI’26, ICASSP’26
+- **期刊审稿人:** IEEE Transactions on Networking, Neurocomputing
 
 
 这个网站模版是从我<a href="https://maechd.github.io/">最好的朋友</a>那里偷来的。

@@ -274,8 +274,8 @@ I am currently a first year Ph.D. candidate at GWU supervised by <a href="https:
 
 ## Academic Services
 
-- **Conference Reviewer:** ICML’26, CVPR’26, ICLR’26, AAAI’26, ICASSP’26
-- **Journal Reviewer:** Neurocomputing, Frontiers in Oncology, IEEE Transactions on Networking, Frontiers in Medicine
+- **Conference Reviewer:** NeurIPS’26, COLM’26, ACM MM’26, ICML’26, ICLR’26, AAAI’26, ICASSP’26
+- **Journal Reviewer:** IEEE Transactions on Networking, Neurocomputing
 
 
 
