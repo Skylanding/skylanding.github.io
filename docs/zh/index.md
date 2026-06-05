@@ -47,7 +47,7 @@
   <div class="authors">
     <b>Yu Li</b>, Rui Miao, Tian Lan, Zhengling Qi
   </div>
-  <span class="meta">在投</span>
+  <span class="meta">投稿至 NeurIPS 2026</span> · <a href="https://arxiv.org/abs/2605.21851" target="_blank" rel="noopener">论文</a>
   <div>基于贝叶斯价值递归的细粒度 token 级信用分配方法，用于 LLM 推理。</div>
   <div class="chips">
     <span class="chip">强化学习</span><span class="chip">信用分配</span><span class="chip">推理</span>
@@ -59,7 +59,7 @@
   <div class="authors">
     <b>Yu Li</b>, Rui Miao, Zhengling Qi, Tian Lan
   </div>
-  <span class="meta">投稿至 CoLM 2026</span> · <a href="https://arxiv.org/abs/2603.16060" target="_blank" rel="noopener">论文</a> · <a href="https://github.com/Skylanding/ARISE" target="_blank" rel="noopener">代码</a>
+  <span class="meta">投稿至 NeurIPS 2026</span> · <a href="https://arxiv.org/abs/2603.16060" target="_blank" rel="noopener">论文</a> · <a href="https://github.com/Skylanding/ARISE" target="_blank" rel="noopener">代码</a>
   <div>基于内在技能进化的层次化强化学习框架，提升智能体推理能力。</div>
   <div class="chips">
     <span class="chip">层次化 RL</span><span class="chip">智能体</span><span class="chip">技能学习</span>
@@ -71,7 +71,7 @@
   <div class="authors">
     <b>Yu Li</b>, Binxu Li, Tian Lan
   </div>
-  <span class="meta">在投</span>
+  <span class="meta">投稿至 COLM 2026</span> · <a href="https://arxiv.org/abs/2606.01563" target="_blank" rel="noopener">论文</a>
   <div>方向感知的 KV 缓存淘汰方法，弥合方向性偏差，实现高效长上下文推理。</div>
   <div class="chips">
     <span class="chip">KV 缓存</span><span class="chip">长上下文</span><span class="chip">高效推理</span>
@@ -83,7 +83,7 @@
   <div class="authors">
     <b>Yu Li</b>, Tian Lan, Zhengling Qi
   </div>
-  <span class="meta">投稿至 ICML 2026</span> · <a href="https://arxiv.org/abs/2603.13134" target="_blank" rel="noopener">论文</a> · <a href="https://github.com/Skylanding/BiCC" target="_blank" rel="noopener">代码</a>
+  <span class="meta">投稿至 NeurIPS 2026</span> · <a href="https://arxiv.org/abs/2603.13134" target="_blank" rel="noopener">论文</a> · <a href="https://github.com/Skylanding/BiCC" target="_blank" rel="noopener">代码</a>
   <div>双边上下文条件化与奖励置信度校正，改进 GRPO 训练效果。</div>
   <div class="chips">
     <span class="chip">GRPO</span><span class="chip">RLHF</span><span class="chip">后训练</span>
@@ -95,7 +95,7 @@
   <div class="authors">
     <b>Yu Li</b>, Tian Lan, Zhengling Qi
   </div>
-  <span class="meta">投稿至 ICML 2026 · <span class="text-blue"><i>AI with Recursive Self-Improvement@ICLR 2026</i></span> (Poster)</span> · <a href="https://arxiv.org/abs/2512.23126" target="_blank" rel="noopener">论文</a> · <a href="https://github.com/Skylanding/InsPO" target="_blank" rel="noopener">代码</a></span>
+  <span class="meta">投稿至 NeurIPS 2026 · <span class="text-blue"><i>AI with Recursive Self-Improvement@ICLR 2026</i></span> (Poster)</span> · <a href="https://arxiv.org/abs/2512.23126" target="_blank" rel="noopener">论文</a> · <a href="https://github.com/Skylanding/InsPO" target="_blank" rel="noopener">代码</a></span>
   <div>从偏好对中挖掘内在"自我反思"信号，提升偏好优化与 LLM 对齐效果。</div>
   <div class="chips">
     <span class="chip">直接偏好优化</span><span class="chip">简单偏好优化</span><span class="chip">偏好学习</span>

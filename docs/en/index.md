@@ -46,7 +46,7 @@ I am currently a first year Ph.D. candidate at GWU supervised by <a href="https:
   <div class="authors">
     <b>Yu Li</b>, Rui Miao, Tian Lan, Zhengling Qi
   </div>
-  <span class="meta">Under review</span>
+  <span class="meta">Under review at NeurIPS 2026</span> · <a href="https://arxiv.org/abs/2605.21851" target="_blank" rel="noopener">Paper</a>
   <div>Bayesian value recursion for fine-grained, token-level credit assignment in LLM reasoning.</div>
   <div class="chips">
     <span class="chip">RL</span><span class="chip">Credit Assignment</span><span class="chip">Reasoning</span>
@@ -58,7 +58,7 @@ I am currently a first year Ph.D. candidate at GWU supervised by <a href="https:
   <div class="authors">
     <b>Yu Li</b>, Rui Miao, Zhengling Qi, Tian Lan
   </div>
-  <span class="meta">Under review at CoLM 2026</span> · <a href="https://arxiv.org/abs/2603.16060" target="_blank" rel="noopener">Paper</a> · <a href="https://github.com/Skylanding/ARISE" target="_blank" rel="noopener">Code</a>
+  <span class="meta">Under review at NeurIPS 2026</span> · <a href="https://arxiv.org/abs/2603.16060" target="_blank" rel="noopener">Paper</a> · <a href="https://github.com/Skylanding/ARISE" target="_blank" rel="noopener">Code</a>
   <div>Hierarchical RL framework with intrinsic skill evolution for scalable agent reasoning.</div>
   <div class="chips">
     <span class="chip">Hierarchical RL</span><span class="chip">Agent</span><span class="chip">Skill Learning</span>
@@ -70,7 +70,7 @@ I am currently a first year Ph.D. candidate at GWU supervised by <a href="https:
   <div class="authors">
     <b>Yu Li</b>, Binxu Li, Tian Lan
   </div>
-  <span class="meta">Under review</span>
+  <span class="meta">Under review at COLM 2026</span> · <a href="https://arxiv.org/abs/2606.01563" target="_blank" rel="noopener">Paper</a>
   <div>Direction-aware KV cache eviction that closes the directional gap for efficient long-context inference.</div>
   <div class="chips">
     <span class="chip">KV Cache</span><span class="chip">Long-Context</span><span class="chip">Efficient Inference</span>
@@ -82,7 +82,7 @@ I am currently a first year Ph.D. candidate at GWU supervised by <a href="https:
   <div class="authors">
     <b>Yu Li</b>, Tian Lan, Zhengling Qi
   </div>
-  <span class="meta">Under review at ICML 2026</span> · <a href="https://arxiv.org/abs/2603.13134" target="_blank" rel="noopener">Paper</a> · <a href="https://github.com/Skylanding/BiCC" target="_blank" rel="noopener">Code</a>
+  <span class="meta">Under review at NeurIPS 2026</span> · <a href="https://arxiv.org/abs/2603.13134" target="_blank" rel="noopener">Paper</a> · <a href="https://github.com/Skylanding/BiCC" target="_blank" rel="noopener">Code</a>
   <div>Bilateral context conditioning and reward-confidence correction to improve GRPO training.</div>
   <div class="chips">
     <span class="chip">GRPO</span><span class="chip">RLHF</span><span class="chip">Post-training</span>
@@ -94,7 +94,7 @@ I am currently a first year Ph.D. candidate at GWU supervised by <a href="https:
   <div class="authors">
     <b>Yu Li</b>, Tian Lan, Zhengling Qi
   </div>
-  <span class="meta">Under review at ICML 2026 · <span class="text-blue"><i>AI with Recursive Self-Improvement@ICLR 2026</i></span> (Poster)</span> · <a href="https://arxiv.org/abs/2512.23126" target="_blank" rel="noopener">Paper</a> · <a href="https://github.com/Skylanding/InsPO" target="_blank" rel="noopener">Code</a></span>
+  <span class="meta">Under review at NeurIPS 2026 · <span class="text-blue"><i>AI with Recursive Self-Improvement@ICLR 2026</i></span> (Poster)</span> · <a href="https://arxiv.org/abs/2512.23126" target="_blank" rel="noopener">Paper</a> · <a href="https://github.com/Skylanding/InsPO" target="_blank" rel="noopener">Code</a></span>
   <div>Preference optimization that leverages intrinsic self-reflection signals in pairwise data to improve LLM alignment.</div>
   <div class="chips">
     <span class="chip">DPO</span><span class="chip">SimPO</span><span class="chip">Preference Learning</span>
