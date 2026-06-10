@@ -26,6 +26,7 @@ I am currently a first year Ph.D. candidate at GWU supervised by <a href="https:
 ---
 
 ## News
+- **[06/2026]** I started serving as a reviewer for the TMLR.
 - **[05/2026]** I will join ByteDance as a Research Scientist Intern in San Jose from May to August 🚀.
 - **[04/2026]** T-STAR is accepted to ACL 2026 🎉. See you in San Diego.
 - **[02/2026]** CRAFT-LORA is accepted to CVPR 2026 🎉.
@@ -275,7 +276,7 @@ I am currently a first year Ph.D. candidate at GWU supervised by <a href="https:
 ## Academic Services
 
 - **Conference Reviewer:** NeurIPS’26, COLM’26, ACM MM’26, ICML’26, ICLR’26, AAAI’26, ICASSP’26
-- **Journal Reviewer:** IEEE Transactions on Networking, Neurocomputing
+- **Journal Reviewer:** TMLR, TPAMI, ToN, Neurocomputing
 
 
 

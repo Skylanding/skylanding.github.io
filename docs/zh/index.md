@@ -26,6 +26,7 @@
 ---
 
 ## 近期动态 (News)
+- **[06/2026]** 开始担任 TMLR 审稿人。
 - **[05/2026]** 加入 ByteDance 担任研究科学家实习生，坐标圣何塞，5月至8月 🚀.
 - **[04/2026]** T-STAR 被 ACL 2026 接收 🎉. 圣地亚哥见！
 - **[02/2026]** CRAFT-LORA 被 CVPR 2026 接收 🎉. 6月丹佛见！
@@ -275,7 +276,7 @@
 ## 学术服务 (Academic Services)
 
 - **会议审稿人:** NeurIPS’26, COLM’26, ACM MM’26, ICML’26, ICLR’26, AAAI’26, ICASSP’26
-- **期刊审稿人:** IEEE Transactions on Networking, Neurocomputing
+- **期刊审稿人:** TMLR, TPAMI, ToN, Neurocomputing
 
 
 这个网站模版是从我<a href="https://maechd.github.io/">最好的朋友</a>那里偷来的。
