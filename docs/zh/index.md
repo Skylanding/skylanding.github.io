@@ -275,6 +275,8 @@
 
 ## 学术服务 (Academic Services)
 
+审稿机制正在崩坏，但认真的审稿仍在继续：
+
 - **会议审稿人:** NeurIPS’26, COLM’26, ACM MM’26, ICML’26, ICLR’26, AAAI’26, ICASSP’26
 - **期刊审稿人:** TMLR, TPAMI, ToN, Neurocomputing
 
