@@ -26,12 +26,19 @@
 ---
 
 ## 近期动态 (News)
+
+<div class="news-scroll" markdown>
+
+- **[07/2026]** MomentKV 被 COLM 2026 录取 🎉. 旧金山见！
 - **[06/2026]** 开始担任 TMLR 审稿人。
 - **[05/2026]** 加入 ByteDance 担任研究科学家实习生，坐标圣何塞，5月至8月 🚀.
 - **[04/2026]** T-STAR 被 ACL 2026 接收 🎉. 圣地亚哥见！
 - **[02/2026]** CRAFT-LORA 被 CVPR 2026 接收 🎉. 6月丹佛见！
 - **[01/2026]** 我在第一学期就通过了博士资格考试！现在已成为博士候选人（PhD Candidate）🎓.
 - **[01/2026]** KG-SAM 被 ICASSP 2026 接收为 Oral Paper 🎉.
+
+</div>
+
 ---
 
 ## 论文发表 (Publications)
@@ -61,18 +68,6 @@
   <div>基于内在技能进化的层次化强化学习框架，提升智能体推理能力。</div>
   <div class="chips">
     <span class="chip">层次化 RL</span><span class="chip">智能体</span><span class="chip">技能学习</span>
-  </div>
-</div>
-
-<div class="pub-item">
-  <strong>MomentKV: Closing the Directional Gap in KV Cache Eviction for Long-Context Inference</strong><br/>
-  <div class="authors">
-    <b>Yu Li</b>, Binxu Li, Tian Lan
-  </div>
-  <span class="meta">投稿至 COLM 2026</span> · <a href="https://arxiv.org/abs/2606.01563" target="_blank" rel="noopener">论文</a>
-  <div>方向感知的 KV 缓存淘汰方法，弥合方向性偏差，实现高效长上下文推理。</div>
-  <div class="chips">
-    <span class="chip">KV 缓存</span><span class="chip">长上下文</span><span class="chip">高效推理</span>
   </div>
 </div>
 
@@ -117,6 +112,18 @@
 ### 会议论文 (Conferences)
 
 <div class="pub-list">
+
+<div class="pub-item">
+  <strong>MomentKV: Closing the Directional Gap in KV Cache Eviction for Long-Context Inference</strong><br/>
+  <div class="authors">
+    <b>Yu Li</b>, Binxu Li, Tian Lan
+  </div>
+  <span class="meta"><span class="text-blue"><i>COLM 2026</i></span></span> · <a href="https://arxiv.org/abs/2606.01563" target="_blank" rel="noopener">论文</a>
+  <div>方向感知的 KV 缓存淘汰方法，弥合方向性偏差，实现高效长上下文推理。</div>
+  <div class="chips">
+    <span class="chip">KV 缓存</span><span class="chip">长上下文</span><span class="chip">高效推理</span>
+  </div>
+</div>
 
 <div class="pub-item">
   <strong>Reason in Chains, Learn in Trees: Self-Rectification and Grafting for Multi-turn Agent Policy Optimization</strong><br/>

@@ -58,6 +58,7 @@
 .text-purple { color: #e611e6; }
 .text-green { color: #43a047; }
 .text-blue  { color: #1e88e5; }
+.text-orange { color: #ef6c00; }
 .bg-yellow  { background: #fff3cd; padding: 0 .25em; border-radius: .2em; }
 
 /* 地图容器 */
@@ -100,6 +101,13 @@
   margin: -.5rem 0 1rem;
 }
 
+/* 教育背景详情（缩小字体） */
+.edu-detail {
+  font-size: .75em;
+  opacity: .85;
+  margin-top: 2px;
+}
+
 /* 自动阅读时间标签 */
 .reading-time {
   font-size: .85em;
@@ -110,4 +118,24 @@
 /* 只显示创建时间，隐藏最后编辑时间 */
 .md-source-file__fact:not(.md-source-file__fact--created) {
   display: none;
+}
+
+/* News 滚动区域 */
+.news-scroll {
+  max-height: 220px;
+  overflow-y: auto;
+  border: 1px solid var(--md-default-fg-color--lighter, #ddd);
+  border-radius: 8px;
+  padding: 8px 12px;
+  margin-bottom: 1rem;
+}
+.news-scroll ul {
+  margin: 0;
+  padding-left: 1.2em;
+}
+.news-scroll li {
+  margin-bottom: 0.35em;
+}
+.news-scroll li:last-child {
+  margin-bottom: 0;
 }

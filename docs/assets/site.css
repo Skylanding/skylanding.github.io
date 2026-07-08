@@ -119,3 +119,23 @@
 .md-source-file__fact:not(.md-source-file__fact--created) {
   display: none;
 }
+
+/* News 滚动区域 */
+.news-scroll {
+  max-height: 220px;
+  overflow-y: auto;
+  border: 1px solid var(--md-default-fg-color--lighter, #ddd);
+  border-radius: 8px;
+  padding: 8px 12px;
+  margin-bottom: 1rem;
+}
+.news-scroll ul {
+  margin: 0;
+  padding-left: 1.2em;
+}
+.news-scroll li {
+  margin-bottom: 0.35em;
+}
+.news-scroll li:last-child {
+  margin-bottom: 0;
+}

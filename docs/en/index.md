@@ -26,12 +26,19 @@ I am currently a first year Ph.D. candidate at GWU supervised by <a href="https:
 ---
 
 ## News
+
+<div class="news-scroll" markdown>
+
+- **[07/2026]** MomentKV is accepted to COLM 2026 🎉. See you in San Francisco!
 - **[06/2026]** I started serving as a reviewer for the TMLR.
 - **[05/2026]** I will join ByteDance as a Research Scientist Intern in San Jose from May to August 🚀.
 - **[04/2026]** T-STAR is accepted to ACL 2026 🎉. See you in San Diego.
 - **[02/2026]** CRAFT-LORA is accepted to CVPR 2026 🎉.
 - **[01/2026]** I passed my PhD qualifying exam in my first semester and am now a PhD candidate 🎓.
 - **[01/2026]** KG-SAM is accepted to ICASSP 2026 as an Oral Paper 🎉.
+
+</div>
+
 ---
 
 ## Publications
@@ -61,18 +68,6 @@ I am currently a first year Ph.D. candidate at GWU supervised by <a href="https:
   <div>Hierarchical RL framework with intrinsic skill evolution for scalable agent reasoning.</div>
   <div class="chips">
     <span class="chip">Hierarchical RL</span><span class="chip">Agent</span><span class="chip">Skill Learning</span>
-  </div>
-</div>
-
-<div class="pub-item">
-  <strong>MomentKV: Closing the Directional Gap in KV Cache Eviction for Long-Context Inference</strong><br/>
-  <div class="authors">
-    <b>Yu Li</b>, Binxu Li, Tian Lan
-  </div>
-  <span class="meta">Under review at COLM 2026</span> · <a href="https://arxiv.org/abs/2606.01563" target="_blank" rel="noopener">Paper</a>
-  <div>Direction-aware KV cache eviction that closes the directional gap for efficient long-context inference.</div>
-  <div class="chips">
-    <span class="chip">KV Cache</span><span class="chip">Long-Context</span><span class="chip">Efficient Inference</span>
   </div>
 </div>
 
@@ -117,6 +112,18 @@ I am currently a first year Ph.D. candidate at GWU supervised by <a href="https:
 ### Conferences
 
 <div class="pub-list">
+
+<div class="pub-item">
+  <strong>MomentKV: Closing the Directional Gap in KV Cache Eviction for Long-Context Inference</strong><br/>
+  <div class="authors">
+    <b>Yu Li</b>, Binxu Li, Tian Lan
+  </div>
+  <span class="meta"><span class="text-blue"><i>COLM 2026</i></span></span> · <a href="https://arxiv.org/abs/2606.01563" target="_blank" rel="noopener">Paper</a>
+  <div>Direction-aware KV cache eviction that closes the directional gap for efficient long-context inference.</div>
+  <div class="chips">
+    <span class="chip">KV Cache</span><span class="chip">Long-Context</span><span class="chip">Efficient Inference</span>
+  </div>
+</div>
 
 <div class="pub-item">
   <strong>Reason in Chains, Learn in Trees: Self-Rectification and Grafting for Multi-turn Agent Policy Optimization</strong><br/>
