@@ -29,7 +29,7 @@ I am currently a first year Ph.D. candidate at GWU supervised by <a href="https:
 
 <div class="news-scroll" markdown>
 
-- **[07/2026]** MomentKV is accepted to COLM 2026 🎉. See you in San Francisco!
+- **[07/2026]** MomentKV is accepted to COLM 2026 🎉. See you in San Francisco.
 - **[06/2026]** I started serving as a reviewer for the TMLR.
 - **[05/2026]** I will join ByteDance as a Research Scientist Intern in San Jose from May to August 🚀.
 - **[04/2026]** T-STAR is accepted to ACL 2026 🎉. See you in San Diego.
@@ -112,6 +112,18 @@ I am currently a first year Ph.D. candidate at GWU supervised by <a href="https:
 ### Conferences
 
 <div class="pub-list">
+
+<div class="pub-item">
+  <strong>Prompted Information Bottlenecks: Rethinking Layer-Wise Information Allocation in Frozen Vision Transformers</strong><br/>
+  <div class="authors">
+    Yuqi Li, Xi Xiao, Yunbei Zhang, Lin Zhao, <b>Yu Li</b>, Aiden Zhao, Tianyang Wang, Hao Xu, Yingli Tian
+  </div>
+  <span class="meta"><span class="text-blue"><i>ACM MM 2026</i></span></span>
+  <div>Prompted information bottlenecks for layer-wise information allocation in frozen Vision Transformers.</div>
+  <div class="chips">
+    <span class="chip">Vision Transformer</span><span class="chip">Information Bottleneck</span><span class="chip">Prompt Learning</span>
+  </div>
+</div>
 
 <div class="pub-item">
   <strong>MomentKV: Closing the Directional Gap in KV Cache Eviction for Long-Context Inference</strong><br/>

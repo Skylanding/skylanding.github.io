@@ -114,6 +114,18 @@
 <div class="pub-list">
 
 <div class="pub-item">
+  <strong>Prompted Information Bottlenecks: Rethinking Layer-Wise Information Allocation in Frozen Vision Transformers</strong><br/>
+  <div class="authors">
+    Yuqi Li, Xi Xiao, Yunbei Zhang, Lin Zhao, <b>Yu Li</b>, Aiden Zhao, Tianyang Wang, Hao Xu, Yingli Tian
+  </div>
+  <span class="meta"><span class="text-blue"><i>ACM MM 2026</i></span></span>
+  <div>基于提示的信息瓶颈，重新思考冻结 Vision Transformer 中的逐层信息分配策略。</div>
+  <div class="chips">
+    <span class="chip">Vision Transformer</span><span class="chip">信息瓶颈</span><span class="chip">提示学习</span>
+  </div>
+</div>
+
+<div class="pub-item">
   <strong>MomentKV: Closing the Directional Gap in KV Cache Eviction for Long-Context Inference</strong><br/>
   <div class="authors">
     <b>Yu Li</b>, Binxu Li, Tian Lan
