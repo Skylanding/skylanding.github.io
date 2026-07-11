@@ -95,18 +95,6 @@ I am currently a first year Ph.D. candidate at GWU supervised by <a href="https:
   </div>
 </div>
 
-<div class="pub-item">
-  <strong>MultiRefine-V: Multi-Turn Reinforcement Learning for Enhancing Verilog Code Synthesis</strong><br/>
-  <div class="authors">
-    Qiufeng Li, <b>Yu Li</b>, Shu Hong, Tian Lan, Weidong Cao
-  </div>
-  <span class="meta">Under review</span>
-  <div>Multi-turn RL for enhancing Verilog code synthesis quality.</div>
-  <div class="chips">
-    <span class="chip">RLVR</span><span class="chip">Code Generation</span><span class="chip">Verilog</span>
-  </div>
-</div>
-
 </div>
 
 ### Conferences

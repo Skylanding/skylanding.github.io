@@ -95,18 +95,6 @@
   </div>
 </div>
 
-<div class="pub-item">
-  <strong>MultiRefine-V: Multi-Turn Reinforcement Learning for Enhancing Verilog Code Synthesis</strong><br/>
-  <div class="authors">
-    Qiufeng Li, <b>Yu Li</b>, Shu Hong, Tian Lan, Weidong Cao
-  </div>
-  <span class="meta">在投</span>
-  <div>多轮强化学习提升 Verilog 代码合成质量。</div>
-  <div class="chips">
-    <span class="chip">RLVR</span><span class="chip">代码生成</span><span class="chip">Verilog</span>
-  </div>
-</div>
-
 </div>
 
 ### 会议论文 (Conferences)
