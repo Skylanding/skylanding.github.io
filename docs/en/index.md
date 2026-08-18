@@ -13,7 +13,7 @@
 
 ![Yu Li](../img/YuLi_mid.jpg){ .avatar-left }
 
-I am currently a first year Ph.D. candidate at GWU supervised by <a href="https://www2.seas.gwu.edu/~tlan/">Prof. Tian Lan</a> and work with <a href="https://sites.google.com/view/statsqizl/">Prof.Zhengling Qi</a>. 
+I am currently a second-year Ph.D. candidate at GWU supervised by <a href="https://www2.seas.gwu.edu/~tlan/">Prof. Tian Lan</a> and work with <a href="https://sites.google.com/view/statsqizl/">Prof.Zhengling Qi</a>. 
 
 
 **Research Topics: LLM Post-Training • Agent Policy Learning • Generative AI**
