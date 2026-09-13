@@ -1,43 +1,92 @@
-/* ===== Compact homepage: less chrome, less scrolling ===== */
-.md-grid { max-width: 1200px; }
+/* ===== Layout: keep Home/Blog, drop the right TOC gutter ===== */
+.md-grid { max-width: 72rem; }
 
-@media screen and (min-width: 76.25em) {
-  .md-sidebar--primary { display: none; }
-  .md-content { margin-left: 0; }
+.md-sidebar--secondary,
+.md-sidebar--secondary:not([hidden]) {
+  display: none !important;
+  width: 0 !important;
+  min-width: 0 !important;
+  padding: 0 !important;
+  overflow: hidden !important;
+}
+
+.md-content {
+  margin-right: 0 !important;
+  margin-inline-end: 0 !important;
+}
+
+@media screen and (min-width: 60em) {
+  /* Keep Home/Blog in view when the window is compressed below Material's 1220px breakpoint. */
+  .md-sidebar--primary {
+    display: block !important;
+    position: sticky !important;
+    left: auto !important;
+    right: auto !important;
+    top: 2.4rem !important;
+    height: 0;
+    width: 8.6rem !important;
+    transform: none !important;
+    background: transparent !important;
+    z-index: 0 !important;
+    padding-top: 0.4rem;
+  }
+
+  .md-nav--primary .md-nav__title {
+    display: none;
+  }
+
+  /* Keep left nav to Home/Blog only; the in-nav TOC was crowding Blog out. */
+  .md-sidebar--primary .md-nav--secondary,
+  .md-sidebar--primary label.md-nav__link[for="__toc"] {
+    display: none !important;
+  }
+
+  .md-header__button[for="__drawer"] {
+    display: none;
+  }
+
+  [dir="ltr"] .md-content > .md-content__inner {
+    margin-right: 0.4rem;
+  }
+}
+
+.md-main__inner {
+  margin-top: 0.1rem;
+}
+
+.md-content__inner {
+  padding-top: 0.3rem;
+  padding-bottom: 0.8rem;
 }
 
 .md-typeset {
   font-size: 0.76rem;
-  line-height: 1.45;
+  line-height: 1.4;
 }
 
 .md-typeset h1 {
   font-weight: 700;
   letter-spacing: -0.03em;
-  margin: 0 0 0.45rem;
+  margin: 0 0 0.35rem;
 }
 
 .md-typeset h2 {
   clear: both;
-  font-size: 1.05em;
+  font-size: 1.02em;
   font-weight: 700;
   letter-spacing: -0.02em;
-  margin: 1.15rem 0 0.35rem;
-  padding-bottom: 0.22rem;
+  margin: 0.55rem 0 0.12rem;
+  padding-bottom: 0.1rem;
   border-bottom: 1px solid var(--md-default-fg-color--lightest, #ececec);
 }
 
 .md-typeset .pub-columns h3 {
-  font-size: 0.78em;
+  font-size: 0.76em;
   font-weight: 650;
   color: var(--md-default-fg-color--light, #666);
-  margin: 0.7rem 0 0.1rem;
+  margin: 0.45rem 0 0.05rem;
   text-transform: uppercase;
   letter-spacing: 0.05em;
-}
-
-.md-typeset .pub-journals h3 {
-  margin-top: 0.55rem;
 }
 
 .md-typeset h3 {
@@ -47,29 +96,29 @@
 /* ===== Hero ===== */
 .hero {
   display: grid;
-  grid-template-columns: 118px minmax(0, 1fr);
-  gap: 0.15rem 1.25rem;
+  grid-template-columns: 96px minmax(0, 1fr);
+  gap: 0.05rem 0.95rem;
   align-items: start;
   margin: 0 0 0.15rem;
 }
 
 .md-typeset .hero h1 {
-  margin: 0 0 0.35rem;
-  font-size: 1.7em;
+  margin: 0 0 0.22rem;
+  font-size: 1.55em;
 }
 
 .md-typeset img.hero-avatar {
   float: none;
-  width: 118px;
-  height: 118px;
+  width: 96px;
+  height: 96px;
   max-width: none;
   border-radius: 50%;
   object-fit: cover;
-  margin: 0.15rem 0 0;
+  margin: 0.1rem 0 0;
   border: 1px solid var(--md-default-fg-color--lightest, #e6e6e6);
 }
 
-.edu-list { display: grid; gap: 0.28rem; }
+.edu-list { display: grid; gap: 0.18rem; }
 
 .edu-row {
   display: grid;
@@ -91,8 +140,8 @@
   margin-top: 0.02rem;
 }
 
-.hero-bio { margin: 0.45rem 0 0.08rem !important; }
-.topics { margin: 0.05rem 0 0.4rem !important; font-size: 0.92em; opacity: 0.75; }
+.hero-bio { margin: 0.32rem 0 0.04rem !important; }
+.topics { margin: 0.02rem 0 0.28rem !important; font-size: 0.92em; opacity: 0.75; }
 
 .md-typeset .profile-links {
   display: flex;
@@ -133,9 +182,9 @@
 /* ===== News ===== */
 .news-item {
   display: grid;
-  grid-template-columns: 4.4rem minmax(0, 1fr);
-  gap: 0.7rem;
-  padding: 0.18rem 0;
+  grid-template-columns: 4.2rem minmax(0, 1fr);
+  gap: 0.55rem;
+  padding: 0.04rem 0;
   border-bottom: 1px solid var(--md-default-fg-color--lightest, #f2f2f2);
 }
 .news-item:last-child { border-bottom: none; }
@@ -155,9 +204,16 @@
 }
 
 @media (min-width: 960px) {
-  .pub-columns { grid-template-columns: 1fr 1fr; }
-  .pub-columns > div > h3:first-child { margin-top: 0.15rem; }
-  .pub-journals { grid-column: 1 / -1; }
+  .pub-columns { grid-template-columns: 1.08fr 0.92fr; }
+}
+
+.md-typeset .pub-columns > div > h3:first-child,
+.md-typeset .pub-side > div > h3:first-child {
+  margin-top: 0.15rem;
+}
+
+.md-typeset .pub-journals h3 {
+  margin-top: 0.55rem;
 }
 
 .pub-list { display: grid; gap: 0; }
@@ -165,7 +221,7 @@
 .pub-item {
   border: none;
   border-radius: 0;
-  padding: 0.38rem 0 0.42rem;
+  padding: 0.12rem 0 0.14rem;
   border-bottom: 1px solid var(--md-default-fg-color--lightest, #f0f0f0);
 }
 
@@ -197,9 +253,9 @@
 /* ===== Experiences ===== */
 .exp-item {
   display: grid;
-  grid-template-columns: 8.6rem minmax(0, 1fr);
-  gap: 0.7rem;
-  padding: 0.32rem 0;
+  grid-template-columns: 8.4rem minmax(0, 1fr);
+  gap: 0.6rem;
+  padding: 0.1rem 0;
   border-bottom: 1px solid var(--md-default-fg-color--lightest, #f0f0f0);
   align-items: baseline;
 }
@@ -234,14 +290,14 @@
 
 @media (min-width: 800px) {
   .split { grid-template-columns: 1fr 1fr; }
-  .split > div > h2:first-child { margin-top: 1.15rem; }
+  .split > div > h2:first-child { margin-top: 0.55rem; }
 }
 
-.md-typeset .compact-list ul { margin: 0.15rem 0 0; }
-.md-typeset .compact-list li { margin: 0 0 0.18rem; }
+.md-typeset .compact-list ul { margin: 0.08rem 0 0; }
+.md-typeset .compact-list li { margin: 0 0 0.1rem; }
 
 .site-note {
-  margin-top: 1.4rem;
+  margin-top: 0.9rem;
   font-size: 0.84em;
   opacity: 0.45;
 }

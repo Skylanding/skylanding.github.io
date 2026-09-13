@@ -1,3 +1,8 @@
+---
+hide:
+  - toc
+---
+
 <div class="hero">
 <img class="hero-avatar" src="../img/YuLi_mid.jpg" alt="Yu Li" />
 <div class="hero-copy">
@@ -44,37 +49,6 @@
 ## 论文发表
 
 <div class="pub-columns">
-<div>
-<h3 id="preprint-under-review">预印本 / 在投</h3>
-<div class="pub-list">
-
-<div class="pub-item">
-  <strong>OPPO: Bayesian Value Recursion for Token-Level Credit Assignment in LLM Reasoning</strong>
-  <div class="authors"><b>Yu Li</b>, Rui Miao, Tian Lan, Zhengling Qi</div>
-  <span class="meta">投稿至 NeurIPS 2026 · <a href="https://arxiv.org/abs/2605.21851" target="_blank" rel="noopener">论文</a></span>
-</div>
-
-<div class="pub-item">
-  <strong>ARISE: Agent Reasoning with Intrinsic Skill Evolution in Hierarchical Reinforcement Learning</strong>
-  <div class="authors"><b>Yu Li</b>, Rui Miao, Zhengling Qi, Tian Lan</div>
-  <span class="meta">投稿至 NeurIPS 2026 · <a href="https://arxiv.org/abs/2603.16060" target="_blank" rel="noopener">论文</a> · <a href="https://github.com/Skylanding/ARISE" target="_blank" rel="noopener">代码</a></span>
-</div>
-
-<div class="pub-item">
-  <strong>Right Meets Wrong: Bilateral Context Conditioning with Reward-Confidence Correction for GRPO</strong>
-  <div class="authors"><b>Yu Li</b>, Tian Lan, Zhengling Qi</div>
-  <span class="meta">投稿至 NeurIPS 2026 · <a href="https://arxiv.org/abs/2603.13134" target="_blank" rel="noopener">论文</a> · <a href="https://github.com/Skylanding/BiCC" target="_blank" rel="noopener">代码</a></span>
-</div>
-
-<div class="pub-item">
-  <strong>InsPO: Unlocking Intrinsic Self-Reflection for LLM Preference Optimization</strong>
-  <div class="authors"><b>Yu Li</b>, Tian Lan, Zhengling Qi</div>
-  <span class="meta">投稿至 NeurIPS 2026 · <span class="text-blue"><i>RSI@ICLR 2026</i></span> (Poster) · <a href="https://arxiv.org/abs/2512.23126" target="_blank" rel="noopener">论文</a> · <a href="https://github.com/Skylanding/InsPO" target="_blank" rel="noopener">代码</a></span>
-</div>
-
-</div>
-</div>
-
 <div>
 <h3 id="conferences">会议论文</h3>
 <div class="pub-list">
@@ -130,6 +104,38 @@
 </div>
 </div>
 
+<div class="pub-side">
+<div>
+<h3 id="preprint-under-review">预印本 / 在投</h3>
+<div class="pub-list">
+
+<div class="pub-item">
+  <strong>OPPO: Bayesian Value Recursion for Token-Level Credit Assignment in LLM Reasoning</strong>
+  <div class="authors"><b>Yu Li</b>, Rui Miao, Tian Lan, Zhengling Qi</div>
+  <span class="meta">投稿至 NeurIPS 2026 · <a href="https://arxiv.org/abs/2605.21851" target="_blank" rel="noopener">论文</a></span>
+</div>
+
+<div class="pub-item">
+  <strong>ARISE: Agent Reasoning with Intrinsic Skill Evolution in Hierarchical Reinforcement Learning</strong>
+  <div class="authors"><b>Yu Li</b>, Rui Miao, Zhengling Qi, Tian Lan</div>
+  <span class="meta">投稿至 NeurIPS 2026 · <a href="https://arxiv.org/abs/2603.16060" target="_blank" rel="noopener">论文</a> · <a href="https://github.com/Skylanding/ARISE" target="_blank" rel="noopener">代码</a></span>
+</div>
+
+<div class="pub-item">
+  <strong>Right Meets Wrong: Bilateral Context Conditioning with Reward-Confidence Correction for GRPO</strong>
+  <div class="authors"><b>Yu Li</b>, Tian Lan, Zhengling Qi</div>
+  <span class="meta">投稿至 NeurIPS 2026 · <a href="https://arxiv.org/abs/2603.13134" target="_blank" rel="noopener">论文</a> · <a href="https://github.com/Skylanding/BiCC" target="_blank" rel="noopener">代码</a></span>
+</div>
+
+<div class="pub-item">
+  <strong>InsPO: Unlocking Intrinsic Self-Reflection for LLM Preference Optimization</strong>
+  <div class="authors"><b>Yu Li</b>, Tian Lan, Zhengling Qi</div>
+  <span class="meta">投稿至 NeurIPS 2026 · <span class="text-blue"><i>RSI@ICLR 2026</i></span> (Poster) · <a href="https://arxiv.org/abs/2512.23126" target="_blank" rel="noopener">论文</a> · <a href="https://github.com/Skylanding/InsPO" target="_blank" rel="noopener">代码</a></span>
+</div>
+
+</div>
+</div>
+
 <div class="pub-journals">
 <h3 id="journals">期刊论文</h3>
 <div class="pub-list">
@@ -146,6 +152,7 @@
   <span class="meta"><span class="text-blue"><i>IJCARS</i></span>, JCR Q2, 2025 · <a href="https://link.springer.com/article/10.1007/s11548-025-03333-0" target="_blank" rel="noopener">论文</a> · <a href="https://github.com/Skylanding/SfM-Diffusion" target="_blank" rel="noopener">代码</a></span>
 </div>
 
+</div>
 </div>
 </div>
 </div>
