@@ -1,8 +1,3 @@
----
-hide:
-  - toc
----
-
 # Blog
 
 Some essays, some thoughts, and some insights.

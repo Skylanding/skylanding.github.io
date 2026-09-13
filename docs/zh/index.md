@@ -1,208 +1,213 @@
----
-hide:
-  - toc
----
+# 李煜 (Yu Li)
 
-<div class="hero">
-<img class="hero-avatar" src="../img/YuLi_mid.jpg" alt="Yu Li" />
-<div class="hero-copy">
-<h1 id="yu-li">李煜 (Yu Li)</h1>
-<div class="edu-list">
-  <div class="edu-row">
-    <div>
-      <strong>乔治·华盛顿大学</strong>，华盛顿特区
-      <div class="edu-detail">电子与计算机工程系 (ECE) 博士</div>
-    </div>
-    <div class="edu-dates">2025.9 – 2029.5</div>
+ 
+  <strong>乔治·华盛顿大学 (George Washington University)</strong>, 华盛顿特区. *2025.9-2029.5(预计)*
+  <div class="edu-detail">
+    电子与计算机工程系 (ECE) 博士
   </div>
-  <div class="edu-row">
-    <div>
-      <strong>武汉大学</strong> 弘毅学堂
-      <div class="edu-detail">微电子科学与技术 工学学士 (GPA: 3.87/4.0)</div>
-    </div>
-    <div class="edu-dates">2021.9 – 2025.5</div>
+
+  <strong>武汉大学(Wuhan University)</strong> *弘毅学堂2021级*
+  <div class="edu-detail">
+    微电子科学与技术 工学学士 (GPA: 3.87/4.0)
   </div>
-</div>
-<p class="hero-bio">我目前是<a href="https://www.ece.gwu.edu/">乔治·华盛顿大学</a>二年级博士候选人，导师是 <a href="https://www2.seas.gwu.edu/~tlan/">Tian Lan</a> 教授，并与 <a href="https://sites.google.com/view/statsqizl/">Zhengling Qi</a> 教授合作。</p>
-<p class="topics">LLM 后训练 · 智能体策略学习 · 生成式 AI</p>
-<div class="profile-links">
-  <a href="../file/CV_Yu_Li.pdf">📄 简历</a>
-  <a href="https://github.com/skylanding">GitHub</a>
-  <a href="https://scholar.google.com/citations?user=EjGk0dwAAAAJ&hl=en">谷歌学术</a>
-  <a href="https://www.linkedin.com/in/yu-li-a089a6282/">领英</a>
-</div>
-</div>
+
+
+![Yu Li](../img/YuLi_mid.jpg){ .avatar-left }
+
+我目前是<a href="https://www.ece.gwu.edu/">乔治·华盛顿大学</a> 二年级博士候选人，导师是 <a href="https://www2.seas.gwu.edu/~tlan/">Tian Lan</a> 教授，并与 <a href="https://sites.google.com/view/statsqizl/">Zhengling Qi</a> 教授合作。
+
+**研究方向: LLM 后训练 • 智能体策略学习 • 生成式AI**
+
+- 📄 **[简历](../file/CV_Yu_Li.pdf)**
+- 🧪 **[GitHub](https://github.com/skylanding)**
+- 🎓 **[谷歌学术](https://scholar.google.com/citations?user=EjGk0dwAAAAJ&hl=en)**
+- 💼 **[领英](https://www.linkedin.com/in/yu-li-a089a6282/)**
+
+---
+
+## 近期动态 (News)
+
+<div class="news-scroll" markdown>
+
+- **[07/2026]** MomentKV 被 COLM 2026 录取 🎉. 旧金山见！
+- **[06/2026]** 开始担任 TMLR 审稿人。
+- **[05/2026]** 加入 ByteDance 担任研究科学家实习生，坐标圣何塞，5月至8月 🚀.
+- **[04/2026]** T-STAR 被 ACL 2026 接收 🎉. 圣地亚哥见！
+- **[02/2026]** CRAFT-LORA 被 CVPR 2026 接收 🎉. 6月丹佛见！
+- **[01/2026]** 我在第一学期就通过了博士资格考试！现在已成为博士候选人（PhD Candidate）🎓.
+- **[01/2026]** KG-SAM 被 ICASSP 2026 接收为 Oral Paper 🎉.
+
 </div>
 
-## 近期动态
+---
 
-<div class="news-list">
-  <div class="news-item"><span class="news-date">07/2026</span><span>MomentKV 被 COLM 2026 接收 🎉。旧金山见。</span></div>
-  <div class="news-item"><span class="news-date">06/2026</span><span>开始担任 TMLR 审稿人。</span></div>
-  <div class="news-item"><span class="news-date">05/2026</span><span>加入 ByteDance 担任研究科学家实习生，圣何塞，5–8 月 🚀。</span></div>
-  <div class="news-item"><span class="news-date">04/2026</span><span>T-STAR 被 ACL 2026 接收 🎉。圣地亚哥见。</span></div>
-  <div class="news-item"><span class="news-date">02/2026</span><span>CRAFT-LoRA 被 CVPR 2026 接收 🎉。</span></div>
-  <div class="news-item"><span class="news-date">01/2026</span><span>第一学期通过博士资格考试，成为 Ph.D. Candidate 🎓。</span></div>
-  <div class="news-item"><span class="news-date">01/2026</span><span>KG-SAM 被 ICASSP 2026 接收为 Oral Paper 🎉。</span></div>
-</div>
+## 论文发表 (Publications)
 
-## 论文发表
+### 预印本 / 在投 (Preprint / Under Review)
 
-<div class="pub-columns">
-<div>
-<h3 id="conferences">会议论文</h3>
 <div class="pub-list">
 
 <div class="pub-item">
-  <strong>Prompted Information Bottlenecks: Rethinking Layer-Wise Information Allocation in Frozen Vision Transformers</strong>
-  <div class="authors">Yuqi Li, Xi Xiao, Yunbei Zhang, Lin Zhao, <b>Yu Li</b>, Aiden Zhao, Tianyang Wang, Hao Xu, Yingli Tian</div>
+  <strong>OPPO: Bayesian Value Recursion for Token-Level Credit Assignment in LLM Reasoning</strong><br/>
+  <div class="authors">
+    <b>Yu Li</b>, Rui Miao, Tian Lan, Zhengling Qi
+  </div>
+  <span class="meta">投稿至 NeurIPS 2026</span> · <a href="https://arxiv.org/abs/2605.21851" target="_blank" rel="noopener">论文</a>
+</div>
+
+<div class="pub-item">
+  <strong>ARISE: Agent Reasoning with Intrinsic Skill Evolution in Hierarchical Reinforcement Learning</strong><br/>
+  <div class="authors">
+    <b>Yu Li</b>, Rui Miao, Zhengling Qi, Tian Lan
+  </div>
+  <span class="meta">投稿至 NeurIPS 2026</span> · <a href="https://arxiv.org/abs/2603.16060" target="_blank" rel="noopener">论文</a> · <a href="https://github.com/Skylanding/ARISE" target="_blank" rel="noopener">代码</a>
+</div>
+
+<div class="pub-item">
+  <strong>Right Meets Wrong: Bilateral Context Conditioning with Reward-Confidence Correction for GRPO</strong><br/>
+  <div class="authors">
+    <b>Yu Li</b>, Tian Lan, Zhengling Qi
+  </div>
+  <span class="meta">投稿至 NeurIPS 2026</span> · <a href="https://arxiv.org/abs/2603.13134" target="_blank" rel="noopener">论文</a> · <a href="https://github.com/Skylanding/BiCC" target="_blank" rel="noopener">代码</a>
+</div>
+
+<div class="pub-item">
+  <strong>InsPO: Unlocking Intrinsic Self-Reflection for LLM Preference Optimization</strong><br/>
+  <div class="authors">
+    <b>Yu Li</b>, Tian Lan, Zhengling Qi
+  </div>
+  <span class="meta">投稿至 NeurIPS 2026 · <span class="text-blue"><i>AI with Recursive Self-Improvement@ICLR 2026</i></span> (Poster)</span> · <a href="https://arxiv.org/abs/2512.23126" target="_blank" rel="noopener">论文</a> · <a href="https://github.com/Skylanding/InsPO" target="_blank" rel="noopener">代码</a></span>
+</div>
+
+</div>
+
+### 会议论文 (Conferences)
+
+<div class="pub-list">
+
+<div class="pub-item">
+  <strong>Prompted Information Bottlenecks: Rethinking Layer-Wise Information Allocation in Frozen Vision Transformers</strong><br/>
+  <div class="authors">
+    Yuqi Li, Xi Xiao, Yunbei Zhang, Lin Zhao, <b>Yu Li</b>, Aiden Zhao, Tianyang Wang, Hao Xu, Yingli Tian
+  </div>
   <span class="meta"><span class="text-blue"><i>ACM MM 2026</i></span></span>
 </div>
 
 <div class="pub-item">
-  <strong>MomentKV: Closing the Directional Gap in KV Cache Eviction for Long-Context Inference</strong>
-  <div class="authors"><b>Yu Li</b>, Binxu Li, Tian Lan</div>
-  <span class="meta"><span class="text-blue"><i>COLM 2026</i></span> · <a href="https://arxiv.org/abs/2606.01563" target="_blank" rel="noopener">论文</a></span>
+  <strong>MomentKV: Closing the Directional Gap in KV Cache Eviction for Long-Context Inference</strong><br/>
+  <div class="authors">
+    <b>Yu Li</b>, Binxu Li, Tian Lan
+  </div>
+  <span class="meta"><span class="text-blue"><i>COLM 2026</i></span></span> · <a href="https://arxiv.org/abs/2606.01563" target="_blank" rel="noopener">论文</a>
 </div>
 
 <div class="pub-item">
-  <strong>Reason in Chains, Learn in Trees: Self-Rectification and Grafting for Multi-turn Agent Policy Optimization</strong>
-  <div class="authors"><b>Yu Li</b>, Sizhe Tang, Tian Lan</div>
+  <strong>Reason in Chains, Learn in Trees: Self-Rectification and Grafting for Multi-turn Agent Policy Optimization</strong><br/>
+  <div class="authors">
+    <b>Yu Li</b>, Sizhe Tang, Tian Lan
+  </div>
   <span class="meta"><span class="text-blue"><i>ACL Findings 2026</i></span></span>
 </div>
 
 <div class="pub-item">
-  <strong>CRAFT-LoRA: Content-Style Personalization via Rank-Constrained Adaptation and Training-Free Fusion</strong>
-  <div class="authors"><b>Yu Li</b>, Yujun Cai, Chi Zhang</div>
-  <span class="meta"><span class="text-blue"><i>CVPR 2026</i></span> · <a href="https://arxiv.org/abs/2602.18936" target="_blank" rel="noopener">论文</a> · <a href="https://github.com/Skylanding/CraftLoRA" target="_blank" rel="noopener">代码</a></span>
+  <strong>CRAFT-LoRA: Content-Style Personalization via Rank-Constrained Adaptation and Training-Free Fusion</strong><br/>
+  <div class="authors">
+    <b>Yu Li</b>, Yujun Cai, Chi Zhang
+  </div>
+  <span class="meta"><span class="text-blue"><i>CVPR 2026</i></span></span> · <a href="https://arxiv.org/abs/2602.18936" target="_blank" rel="noopener">论文</a> · <a href="https://github.com/Skylanding/CraftLoRA" target="_blank" rel="noopener">代码</a> 
 </div>
 
 <div class="pub-item">
-  <strong>ACDZero: MCTS Agent for Mastering Automated Cyber Defense</strong>
-  <div class="authors"><b>Yu Li*</b>, Sizhe Tang*, Rongqian Chen, Fei Xu Yu, Guangyu Jiang, Mahdi Imani, Nathaniel D. Bastian, Tian Lan</div>
-  <span class="meta"><span class="text-blue"><i>ICCN@INFOCOM 2026</i></span> · *共同一作 · <a href="https://arxiv.org/abs/2601.02196" target="_blank" rel="noopener">论文</a> · <a href="https://github.com/Skylanding/ACDZero" target="_blank" rel="noopener">代码</a></span>
+  <strong>ACDZero: MCTS Agent for Mastering Automated Cyber Defense</strong><br/>
+  <div class="authors">
+    <b>Yu Li*</b>, Sizhe Tang*, Rongqian Chen, Fei Xu Yu, Guangyu Jiang, Mahdi Imani, Nathaniel D. Bastian, Tian Lan
+  </div>
+  <div>
+  <span class="meta">(*:Equal contribution)</span>
+  </div>
+  <span class="meta"><span class="text-blue"><i>ICCN@INFOCOM 2026</i></span> · <a href="https://arxiv.org/abs/2601.02196" target="_blank" rel="noopener">论文</a> · <a href="https://github.com/Skylanding/ACDZero" target="_blank" rel="noopener">代码</a></span>
 </div>
 
 <div class="pub-item">
-  <strong>KG-SAM: Injecting Anatomical Knowledge into Segment Anything Models via Conditional Random Fields</strong>
-  <div class="authors"><b>Yu Li</b>, Chang Da, Xi Xiao</div>
-  <span class="meta"><span class="text-blue"><i>ICASSP 2026</i></span> · <span class="text-orange"><b>Oral</b></span> · <a href="https://arxiv.org/abs/2509.21750" target="_blank" rel="noopener">论文</a></span>
+  <strong>KG-SAM: Injecting Anatomical Knowledge into Segment Anything Models via Conditional Random Fields</strong><br/>
+  <div class="authors">
+    <b>Yu Li</b>, Chang Da, Xi Xiao
+  </div>
+  <span class="meta"><span class="text-blue"><i>ICASSP 2026</i></span> · <span class="text-orange"><b>Oral</b></span> · <a href="https://arxiv.org/abs/2509.21750" target="_blank" rel="noopener">论文</a>
 </div>
 
 <div class="pub-item">
-  <strong>Calibrating and Rotating: A Unified Framework for Weight Conditioning in PEFT</strong>
-  <div class="authors">Chang Da, Peng Xue, <b>Yu Li</b>, Yongxiang Liu, Pengxiang Xu, Shixun Zhang</div>
+  <strong>Calibrating and Rotating: A Unified Framework for Weight Conditioning in PEFT</strong><br/>
+  <div class="authors">
+    Chang Da, Peng Xue, <b>Yu Li</b>, Yongxiang Liu, Pengxiang Xu, Shixun Zhang
+  </div>
   <span class="meta"><span class="text-blue"><i>AAAI 2026</i></span> · <a href="https://arxiv.org/abs/2511.00051" target="_blank" rel="noopener">论文</a> · <a href="https://github.com/MaeChd/SORA" target="_blank" rel="noopener">代码</a></span>
 </div>
 
 <div class="pub-item">
-  <strong>Mixed Text Recognition with Efficient Parameter Fine-Tuning and Transformer</strong>
-  <div class="authors"><b>Yu Li*</b>, Chang Da*</div>
-  <span class="meta"><span class="text-blue"><i>ICONIP 2024</i></span> · *共同一作 · <a href="https://arxiv.org/abs/2404.12734" target="_blank" rel="noopener">论文</a> · <a href="https://github.com/MaeChd/DLoRA-TrOCR" target="_blank" rel="noopener">代码</a></span>
+  <strong>Mixed Text Recognition with Efficient Parameter Fine-Tuning and Transformer</strong><br/>
+  <div class="authors">
+    <b>Yu Li*</b>, Chang Da*
+  </div>
+  <div>
+  <span class="meta">(*:Equal contribution)</span>
+  </div>
+  <span class="meta"><span class="text-blue"><i>ICONIP 2024</i></span></span> · <a href="https://arxiv.org/abs/2404.12734" target="_blank" rel="noopener">论文</a> · <a href="https://github.com/MaeChd/DLoRA-TrOCR" target="_blank" rel="noopener">代码</a></span>
 </div>
 
 </div>
-</div>
 
-<div class="pub-side">
-<div>
-<h3 id="preprint-under-review">预印本 / 在投</h3>
+---
+
+## 科研经历 (Experiences)
+
 <div class="pub-list">
 
 <div class="pub-item">
-  <strong>OPPO: Bayesian Value Recursion for Token-Level Credit Assignment in LLM Reasoning</strong>
-  <div class="authors"><b>Yu Li</b>, Rui Miao, Tian Lan, Zhengling Qi</div>
-  <span class="meta">投稿至 NeurIPS 2026 · <a href="https://arxiv.org/abs/2605.21851" target="_blank" rel="noopener">论文</a></span>
-</div>
-
-<div class="pub-item">
-  <strong>ARISE: Agent Reasoning with Intrinsic Skill Evolution in Hierarchical Reinforcement Learning</strong>
-  <div class="authors"><b>Yu Li</b>, Rui Miao, Zhengling Qi, Tian Lan</div>
-  <span class="meta">投稿至 NeurIPS 2026 · <a href="https://arxiv.org/abs/2603.16060" target="_blank" rel="noopener">论文</a> · <a href="https://github.com/Skylanding/ARISE" target="_blank" rel="noopener">代码</a></span>
-</div>
-
-<div class="pub-item">
-  <strong>Right Meets Wrong: Bilateral Context Conditioning with Reward-Confidence Correction for GRPO</strong>
-  <div class="authors"><b>Yu Li</b>, Tian Lan, Zhengling Qi</div>
-  <span class="meta">投稿至 NeurIPS 2026 · <a href="https://arxiv.org/abs/2603.13134" target="_blank" rel="noopener">论文</a> · <a href="https://github.com/Skylanding/BiCC" target="_blank" rel="noopener">代码</a></span>
-</div>
-
-<div class="pub-item">
-  <strong>InsPO: Unlocking Intrinsic Self-Reflection for LLM Preference Optimization</strong>
-  <div class="authors"><b>Yu Li</b>, Tian Lan, Zhengling Qi</div>
-  <span class="meta">投稿至 NeurIPS 2026 · <span class="text-blue"><i>RSI@ICLR 2026</i></span> (Poster) · <a href="https://arxiv.org/abs/2512.23126" target="_blank" rel="noopener">论文</a> · <a href="https://github.com/Skylanding/InsPO" target="_blank" rel="noopener">代码</a></span>
-</div>
-
-</div>
-</div>
-
-<div class="pub-journals">
-<h3 id="journals">期刊论文</h3>
-<div class="pub-list">
-
-<div class="pub-item">
-  <strong>Dual branch SAM-Transformer Fusion Network for Accurate Breast Ultrasound Image Segmentation</strong>
-  <div class="authors"><b>Y. Li</b>, J. Huang et al.</div>
-  <span class="meta"><span class="text-blue"><i>Medical Physics</i></span>, JCR Q1, 2025 · <a href="https://aapm.onlinelibrary.wiley.com/doi/10.1002/mp.17751" target="_blank" rel="noopener">论文</a> · <a href="https://github.com/Skylanding/DSATNet" target="_blank" rel="noopener">代码</a></span>
-</div>
-
-<div class="pub-item">
-  <strong>SfMDiffusion: Self-supervised Monocular Depth Estimation in Endoscopy Based on Diffusion Models</strong>
-  <div class="authors"><b>Y. Li</b>, D. Chang et al.</div>
-  <span class="meta"><span class="text-blue"><i>IJCARS</i></span>, JCR Q2, 2025 · <a href="https://link.springer.com/article/10.1007/s11548-025-03333-0" target="_blank" rel="noopener">论文</a> · <a href="https://github.com/Skylanding/SfM-Diffusion" target="_blank" rel="noopener">代码</a></span>
-</div>
-
-</div>
-</div>
-</div>
-</div>
-
-## 科研经历
-
-<div class="exp-list">
-  <div class="exp-item">
-    <div class="exp-dates">2025.8 – 至今</div>
-    <div>
-      <strong>乔治·华盛顿大学，移动智能实验室</strong>
-      <span class="authors">训练后优化、强化学习、推理 · Prof. Tian Lan</span>
-    </div>
+  <strong>乔治·华盛顿大学, 移动智能实验室</strong>
+  <div class="authors">
+    研究课题: 训练后优化, 强化学习, 推理
   </div>
-  <div class="exp-item">
-    <div class="exp-dates">2025.3 – 2025.7</div>
-    <div>
-      <strong>西湖大学，人工通用智能实验室</strong>
-      <span class="authors">生成式 AI · Prof. Chi Zhang</span>
-    </div>
-  </div>
-  <div class="exp-item">
-    <div class="exp-dates">2024.6 – 2024.10</div>
-    <div>
-      <strong>加州大学尔湾分校，信息物理系统实验室</strong>
-      <span class="authors">多模态不确定性融合 · Prof. Mohammad Al Faruque</span>
-    </div>
-  </div>
+  <span class="meta">导师: Prof. Tian Lan · 2025年8月 – 至今</span>
 </div>
 
-<div class="split">
-<div class="compact-list">
-<h2 id="honors-and-awards">荣誉奖项</h2>
-<ul>
-  <li>ICML 2026 金牌审稿人 (Top Reviewers Recognition)</li>
-  <li>英诺国际交流奖学金，武汉大学，2024</li>
-  <li>英诺卓越奖学金（Top 3%），武汉大学，2023，2024</li>
-  <li>学术优秀奖学金（Top 5%），弘毅学堂，2022–2024</li>
-  <li>甲等奖学金（Top 5%），武汉大学，2022–2024</li>
-  <li>专利：一种节能计算方法，<a href="https://patents.google.com/patent/CN116085952B/en">CN116085952</a></li>
-</ul>
-</div>
-<div class="compact-list">
-<h2 id="academic-services">学术服务</h2>
-<p>审稿机制正在崩坏，但认真的审稿仍在继续。</p>
-<ul>
-  <li><strong>会议：</strong> NeurIPS’26, COLM’26, ACM MM’26, ICML’26, ICLR’26, AAAI’26, ICASSP’26</li>
-  <li><strong>期刊：</strong> TMLR, TPAMI, ToN, Neurocomputing</li>
-</ul>
-</div>
+<div class="pub-item">
+  <strong>西湖大学, 人工通用智能实验室</strong>
+  <div class="authors">
+    研究课题: 生成式AI
+  </div>
+  <span class="meta">导师: Prof. Chi Zhang · 2025年3月 – 2025年7月</span>
 </div>
 
-<p class="site-note">这个网站模版是从我<a href="https://maechd.github.io/">最好的朋友</a>那里偷来的。</p>
+<div class="pub-item">
+  <strong>加州大学尔湾分校, 信息物理系统实验室</strong>
+  <div class="authors">
+    研究课题: 多模态不确定性融合
+  </div>
+  <span class="meta">导师: Prof. Mohammad Al Faruque · 2024年6月 – 2024年10月</span>
+</div>
+
+</div>
+
+---
+
+## 荣誉奖项 (Honors and Awards)
+
+- ICML 2026 金牌审稿人 (Top Reviewers Recognition)，2026
+- 英诺国际交流奖学金，武汉大学，2024
+- 英诺卓越奖学金（Top 3%），武汉大学，2023，2024
+- 学术优秀奖学金（Top 5%），弘毅学堂，2022，2023，2024
+- 甲等奖学金（Top 5%），武汉大学，2022，2023，2024
+- 专利: 一种节能计算方法, <a href="https://patents.google.com/patent/CN116085952B/en">CN116085952</a>.
+
+---
+
+## 学术服务 (Academic Services)
+
+审稿机制正在崩坏，但认真的审稿仍在继续：
+
+- **会议审稿人:** NeurIPS’26, COLM’26, ACM MM’26, ICML’26, ICLR’26, AAAI’26, ICASSP’26
+- **期刊审稿人:** TMLR, TPAMI, ToN, Neurocomputing
+
+
+这个网站模版是从我<a href="https://maechd.github.io/">最好的朋友</a>那里偷来的。
