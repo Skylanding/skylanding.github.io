@@ -27,6 +27,7 @@ plugins:
 markdown_extensions:
   - attr_list
   - md_in_html
+  - tables
   - pymdownx.mark       # ← 新增，可用 ==text== 语法
 
 

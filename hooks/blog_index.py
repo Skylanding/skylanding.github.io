@@ -2,16 +2,18 @@ import os
 import re
 
 CATEGORIES_EN = {
+    "technical": "Technical",
     "thoughts": "Thoughts",
     "essay": "Essays",
 }
 
 CATEGORIES_ZH = {
+    "technical": "技术",
     "thoughts": "思考",
     "essay": "随笔",
 }
 
-CATEGORY_ORDER = ["thoughts", "essay"]
+CATEGORY_ORDER = ["technical", "thoughts", "essay"]
 
 
 def _parse_post(filepath):
@@ -52,7 +54,20 @@ def on_page_markdown(markdown, page, config, files, **kwargs):
         return markdown
 
     blog_dir = os.path.dirname(page.file.abs_src_path)
-    is_zh = "/zh/" in page.file.src_path
+    loc = getattr(page.file, "locale", None)
+    theme_lang = None
+    if config is not None:
+        theme = config.get("theme") if hasattr(config, "get") else getattr(config, "theme", None)
+        theme_lang = getattr(theme, "language", None) if theme is not None else None
+    path = (page.file.abs_src_path or page.file.src_path or "").replace("\\", "/")
+    is_zh = (
+        loc == "zh"
+        or (isinstance(theme_lang, str) and theme_lang.startswith("zh"))
+        or os.path.basename(os.path.dirname(blog_dir)) == "zh"
+        or "/docs/zh/" in path
+        or "/zh/" in path
+        or (page.file.src_path or "").startswith("zh/")
+    )
     cat_labels = CATEGORIES_ZH if is_zh else CATEGORIES_EN
 
     categorized = {}

@@ -1,5 +1,5 @@
 ---
-category: essay
+category: essay   # technical | thoughts | essay
 ---
 
 # Title
