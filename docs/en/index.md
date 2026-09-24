@@ -29,7 +29,7 @@ I am currently a second-year Ph.D. candidate at GWU supervised by <a href="https
 
 <div class="news-scroll" markdown>
 
-- **[09/2026]** OPPO and InsPO are accepted to NeurIPS 2026 🎉.
+- **[09/2026]** OPPO and InsPO are accepted to NeurIPS 2026 🎉. See you in Sydney.
 - **[07/2026]** MomentKV is accepted to COLM 2026 🎉. See you in San Francisco.
 - **[06/2026]** I started serving as a reviewer for the TMLR.
 - **[05/2026]** I will join ByteDance as a Research Scientist Intern in San Jose from May to August 🚀.

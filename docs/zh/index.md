@@ -29,7 +29,7 @@
 
 <div class="news-scroll" markdown>
 
-- **[09/2026]** OPPO 和 InsPO 被 NeurIPS 2026 接收 🎉.
+- **[09/2026]** OPPO 和 InsPO 被 NeurIPS 2026 接收 🎉. 悉尼见！
 - **[07/2026]** MomentKV 被 COLM 2026 录取 🎉. 旧金山见！
 - **[06/2026]** 开始担任 TMLR 审稿人。
 - **[05/2026]** 加入 ByteDance 担任研究科学家实习生，坐标圣何塞，5月至8月 🚀.
