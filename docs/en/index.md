@@ -29,6 +29,7 @@ I am currently a second-year Ph.D. candidate at GWU supervised by <a href="https
 
 <div class="news-scroll" markdown>
 
+- **[09/2026]** OPPO and InsPO are accepted to NeurIPS 2026 🎉.
 - **[07/2026]** MomentKV is accepted to COLM 2026 🎉. See you in San Francisco.
 - **[06/2026]** I started serving as a reviewer for the TMLR.
 - **[05/2026]** I will join ByteDance as a Research Scientist Intern in San Jose from May to August 🚀.
@@ -48,19 +49,11 @@ I am currently a second-year Ph.D. candidate at GWU supervised by <a href="https
 <div class="pub-list">
 
 <div class="pub-item">
-  <strong>OPPO: Bayesian Value Recursion for Token-Level Credit Assignment in LLM Reasoning</strong><br/>
-  <div class="authors">
-    <b>Yu Li</b>, Rui Miao, Tian Lan, Zhengling Qi
-  </div>
-  <span class="meta">Under review at NeurIPS 2026</span> · <a href="https://arxiv.org/abs/2605.21851" target="_blank" rel="noopener">Paper</a>
-</div>
-
-<div class="pub-item">
   <strong>ARISE: Agent Reasoning with Intrinsic Skill Evolution in Hierarchical Reinforcement Learning</strong><br/>
   <div class="authors">
     <b>Yu Li</b>, Rui Miao, Zhengling Qi, Tian Lan
   </div>
-  <span class="meta">Under review at NeurIPS 2026</span> · <a href="https://arxiv.org/abs/2603.16060" target="_blank" rel="noopener">Paper</a> · <a href="https://github.com/Skylanding/ARISE" target="_blank" rel="noopener">Code</a>
+  <span class="meta">Under review</span> · <a href="https://arxiv.org/abs/2603.16060" target="_blank" rel="noopener">Paper</a> · <a href="https://github.com/Skylanding/ARISE" target="_blank" rel="noopener">Code</a>
 </div>
 
 <div class="pub-item">
@@ -68,15 +61,7 @@ I am currently a second-year Ph.D. candidate at GWU supervised by <a href="https
   <div class="authors">
     <b>Yu Li</b>, Tian Lan, Zhengling Qi
   </div>
-  <span class="meta">Under review at NeurIPS 2026</span> · <a href="https://arxiv.org/abs/2603.13134" target="_blank" rel="noopener">Paper</a> · <a href="https://github.com/Skylanding/BiCC" target="_blank" rel="noopener">Code</a>
-</div>
-
-<div class="pub-item">
-  <strong>InsPO: Unlocking Intrinsic Self-Reflection for LLM Preference Optimization</strong><br/>
-  <div class="authors">
-    <b>Yu Li</b>, Tian Lan, Zhengling Qi
-  </div>
-  <span class="meta">Under review at NeurIPS 2026 · <span class="text-blue"><i>AI with Recursive Self-Improvement@ICLR 2026</i></span> (Poster)</span> · <a href="https://arxiv.org/abs/2512.23126" target="_blank" rel="noopener">Paper</a> · <a href="https://github.com/Skylanding/InsPO" target="_blank" rel="noopener">Code</a></span>
+  <span class="meta">Under review</span> · <a href="https://arxiv.org/abs/2603.13134" target="_blank" rel="noopener">Paper</a> · <a href="https://github.com/Skylanding/BiCC" target="_blank" rel="noopener">Code</a>
 </div>
 
 </div>
@@ -84,6 +69,22 @@ I am currently a second-year Ph.D. candidate at GWU supervised by <a href="https
 ### Conferences
 
 <div class="pub-list">
+
+<div class="pub-item">
+  <strong>OPPO: Bayesian Value Recursion for Token-Level Credit Assignment in LLM Reasoning</strong><br/>
+  <div class="authors">
+    <b>Yu Li</b>, Rui Miao, Tian Lan, Zhengling Qi
+  </div>
+  <span class="meta"><span class="text-blue"><i>NeurIPS 2026</i></span></span> · <a href="https://arxiv.org/abs/2605.21851" target="_blank" rel="noopener">Paper</a>
+</div>
+
+<div class="pub-item">
+  <strong>InsPO: Unlocking Intrinsic Self-Reflection for LLM Preference Optimization</strong><br/>
+  <div class="authors">
+    <b>Yu Li</b>, Tian Lan, Zhengling Qi
+  </div>
+  <span class="meta"><span class="text-blue"><i>NeurIPS 2026</i></span> · <span class="text-blue"><i>AI with Recursive Self-Improvement@ICLR 2026</i></span> (Poster)</span> · <a href="https://arxiv.org/abs/2512.23126" target="_blank" rel="noopener">Paper</a> · <a href="https://github.com/Skylanding/InsPO" target="_blank" rel="noopener">Code</a></span>
+</div>
 
 <div class="pub-item">
   <strong>Prompted Information Bottlenecks: Rethinking Layer-Wise Information Allocation in Frozen Vision Transformers</strong><br/>
