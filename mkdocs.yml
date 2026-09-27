@@ -3,6 +3,8 @@ site_name: Yu's Website
 theme:
   name: material
   language: en
+  logo: img/logo/metagross.gif
+  favicon: img/logo/favicon.png
 
 # 用默认 docs_dir（就是 ./docs），不需要写 docs_dir: .
 # docs_dir: docs   #（可省略，默认就是 docs）
