@@ -1,5 +1,5 @@
 ---
-category: essay   # technical | thoughts | essay
+category: essay   # technical | thoughts | notes | essay
 ---
 
 # 标题

@@ -4,16 +4,21 @@ import re
 CATEGORIES_EN = {
     "technical": "Technical",
     "thoughts": "Thoughts",
+    "notes": "Notes",
     "essay": "Essays",
 }
 
 CATEGORIES_ZH = {
     "technical": "技术",
     "thoughts": "思考",
+    "notes": "笔记",
     "essay": "随笔",
 }
 
-CATEGORY_ORDER = ["technical", "thoughts", "essay"]
+CATEGORY_ORDER = ["technical", "thoughts", "notes", "essay"]
+
+# Categories listed even before they contain a post.
+ALWAYS_SHOW = {"notes"}
 
 
 def _parse_post(filepath):
@@ -76,17 +81,17 @@ def on_page_markdown(markdown, page, config, files, **kwargs):
             title, cat = _parse_post(os.path.join(blog_dir, f))
             categorized.setdefault(cat, []).append(f"- [{title}]({f})")
 
+    placeholder = "- 敬请期待。" if is_zh else "- Coming soon."
     if not categorized:
-        placeholder = "- 敬请期待。" if is_zh else "- Coming soon."
         return markdown.replace("<!-- blog-posts -->", placeholder)
 
     sections = []
     seen = set()
     for cat in CATEGORY_ORDER:
-        if cat in categorized:
+        if cat in categorized or cat in ALWAYS_SHOW:
             label = cat_labels.get(cat, cat)
             sections.append(f"### {label}\n")
-            sections.append("\n".join(categorized[cat]))
+            sections.append("\n".join(categorized.get(cat, [placeholder])))
             sections.append("")
             seen.add(cat)
 

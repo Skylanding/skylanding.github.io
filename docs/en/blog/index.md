@@ -1,6 +1,6 @@
 # Blog
 
-Some essays, some thoughts, and some insights.
+Essays and thoughts, along with course notes and paper close readings.
 
 ## Posts
 
