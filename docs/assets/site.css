@@ -42,11 +42,11 @@
   .md-grid { max-width: 1400px; }
 }
 
-/* 纯 Markdown 头像方案：左浮动 + 圆角 + 间距 */
+/* 纯 Markdown 头像方案：左浮动 + 方形小圆角 + 间距 */
 .md-typeset img.avatar-left {
   float: left;
   width: 120px; height: 120px;
-  border-radius: 50%;
+  border-radius: 6px;
   object-fit: cover;
   margin: 0 16px 8px 0;
   border: 2px solid var(--md-default-fg-color--lightest, #e0e0e0);
