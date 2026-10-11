@@ -11,7 +11,7 @@
   </div>
 
 
-![Yu Li](../img/YuLi_mid.jpg){ .avatar-left }
+![Yu Li](../img/YuLi_bridge.jpg){ .avatar-left }
 
 I am currently a second-year Ph.D. candidate at GWU supervised by <a href="https://www2.seas.gwu.edu/~tlan/">Prof. Tian Lan</a> and work with <a href="https://sites.google.com/view/statsqizl/">Prof.Zhengling Qi</a>. 
 
