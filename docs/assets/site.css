@@ -150,13 +150,13 @@
 /* 主页顶部：头像 + 名字、读音、身份、简介、方向、链接 */
 .md-typeset .hero {
   display: grid;
-  grid-template-columns: 150px minmax(0, 1fr);
-  gap: 24px;
+  grid-template-columns: 112px minmax(0, 1fr);
+  gap: 20px;
   align-items: start;
   margin-bottom: 1.5rem;
 }
 .md-typeset .hero-avatar {
-  width: 150px; height: 150px;
+  width: 112px; height: 112px;
   object-fit: cover;
   border-radius: 6px;
   border: 2px solid var(--md-default-fg-color--lightest, #e0e0e0);
@@ -183,8 +183,8 @@
 }
 .md-typeset .hero-links a:hover { border-color: var(--md-accent-fg-color); }
 @media (max-width: 600px) {
-  .md-typeset .hero { grid-template-columns: minmax(0, 1fr); justify-items: center; text-align: center; }
-  .md-typeset .hero-links { justify-content: center; }
+  .md-typeset .hero { grid-template-columns: 80px minmax(0, 1fr); gap: 14px; }
+  .md-typeset .hero-avatar { width: 80px; height: 80px; }
 }
 
 /* 教育经历：每校一行，日期右对齐 */
