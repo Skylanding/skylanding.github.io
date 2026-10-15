@@ -4,11 +4,9 @@
 
 <div class="hero-text" markdown>
 
-# Yuu Li
+# Yuu Li <span class="name-pron">/juː liː/ · ユウ・リー · 유 이</span>
 
-<div class="name-pron"><b>/ˈjuː ˈliː/</b> &nbsp;·&nbsp; <b lang="ja">ユウ・リー</b> &nbsp;·&nbsp; <b lang="ko">유 이</b></div>
-
-<p class="hero-role">Ph.D. Candidate in Electrical and Computer Engineering, George Washington University</p>
+<p class="hero-role">Ph.D. Candidate in ECE at GW</p>
 
 <p>I am a second-year Ph.D. candidate supervised by <a href="https://www2.seas.gwu.edu/~tlan/">Prof. Tian Lan</a> and work with <a href="https://sites.google.com/view/statsqizl/">Prof. Zhengling Qi</a>.</p>
 

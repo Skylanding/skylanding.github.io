@@ -161,10 +161,16 @@
   border-radius: 6px;
   border: 2px solid var(--md-default-fg-color--lightest, #e0e0e0);
 }
-.md-typeset .hero-text h1 { margin: 0 0 .15em; }
+.md-typeset .hero-text h1 { margin: 0 0 .3em; }
 .md-typeset .hero-text p { margin: .35em 0; }
-.md-typeset .name-pron { font-size: .8rem; color: var(--md-default-fg-color--light); margin-bottom: .6em; }
-.md-typeset .name-pron b { font-weight: 600; color: var(--md-default-fg-color); }
+.md-typeset .hero-text h1 .name-pron {
+  font-size: .8rem;
+  font-weight: 400;
+  letter-spacing: 0;
+  color: var(--md-default-fg-color--light);
+  margin-left: .6em;
+  white-space: nowrap;
+}
 .md-typeset .hero-role { font-weight: 600; }
 .md-typeset .hero-label {
   font-size: .7em;

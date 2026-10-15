@@ -4,11 +4,9 @@
 
 <div class="hero-text" markdown>
 
-# 李煜 (Yuu Li)
+# 李煜 (Yuu Li) <span class="name-pron">/juː liː/ · ユウ・リー · 유 이</span>
 
-<div class="name-pron"><b>/ˈjuː ˈliː/</b> &nbsp;·&nbsp; <b lang="ja">ユウ・リー</b> &nbsp;·&nbsp; <b lang="ko">유 이</b></div>
-
-<p class="hero-role">乔治·华盛顿大学 电子与计算机工程系 博士候选人</p>
+<p class="hero-role">乔治·华盛顿大学 ECE 博士候选人</p>
 
 <p>我目前是二年级博士候选人，导师是 <a href="https://www2.seas.gwu.edu/~tlan/">Tian Lan</a> 教授，并与 <a href="https://sites.google.com/view/statsqizl/">Zhengling Qi</a> 教授合作。</p>
 
