@@ -4,7 +4,7 @@
 
 <div class="hero-text" markdown>
 
-# Yuu Li <span class="name-pron">/juː liː/ · ユウ・リー · 유 이</span>
+# Yuu Li <span class="name-pron">ユウ・リー · <span lang="ru">Юу Ли</span> · 유 이</span>
 
 <p class="hero-role">Ph.D. Candidate in ECE at GW</p>
 

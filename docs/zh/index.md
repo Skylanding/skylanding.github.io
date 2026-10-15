@@ -4,7 +4,7 @@
 
 <div class="hero-text" markdown>
 
-# 李煜 (Yuu Li) <span class="name-pron">/juː liː/ · ユウ・リー · 유 이</span>
+# 李煜 (Yuu Li) <span class="name-pron">ユウ・リー · <span lang="ru">Юу Ли</span> · 유 이</span>
 
 <p class="hero-role">乔治·华盛顿大学 ECE 博士候选人</p>
 
