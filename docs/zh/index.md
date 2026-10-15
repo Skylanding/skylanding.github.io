@@ -1,4 +1,6 @@
-# 李煜 (Yu Li)
+# 李煜 (Yuu Li)
+
+<div class="name-pron">英语: <b>/ˈjuː ˈliː/</b> (YOO-lee) &nbsp;·&nbsp; 日语: <b lang="ja">ユウ・リー</b> (Yū Rī)</div>
 
  
   <strong>乔治·华盛顿大学 (George Washington University)</strong>, 华盛顿特区. *2025.9-2029.5(预计)*
@@ -12,7 +14,7 @@
   </div>
 
 
-![Yu Li](../img/YuLi_bridge.jpg){ .avatar-left }
+![Yuu Li](../img/YuLi_bridge.jpg){ .avatar-left }
 
 我目前是<a href="https://www.ece.gwu.edu/">乔治·华盛顿大学</a> 二年级博士候选人，导师是 <a href="https://www2.seas.gwu.edu/~tlan/">Tian Lan</a> 教授，并与 <a href="https://sites.google.com/view/statsqizl/">Zhengling Qi</a> 教授合作。
 

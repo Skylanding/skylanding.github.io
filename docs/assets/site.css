@@ -146,3 +146,8 @@
   width: auto;
   image-rendering: pixelated;
 }
+
+/* name pronunciation under the page title */
+.md-typeset h1 + .name-pron { margin-top: -1.2em; margin-bottom: 1.2em; }
+.md-typeset .name-pron { font-size: 0.8rem; color: var(--md-default-fg-color--light); }
+.md-typeset .name-pron b { font-weight: 600; color: var(--md-default-fg-color); }

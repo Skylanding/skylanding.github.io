@@ -1,4 +1,6 @@
-# Yu Li
+# Yuu Li
+
+<div class="name-pron">English: <b>/ˈjuː ˈliː/</b> (YOO-lee) &nbsp;·&nbsp; 日本語: <b lang="ja">ユウ・リー</b> (Yū Rī)</div>
 
   <strong>George Washington University</strong>, Washington, D.C. *2025.9–2029.5(expected)*
   <div class="edu-detail">
@@ -11,7 +13,7 @@
   </div>
 
 
-![Yu Li](../img/YuLi_bridge.jpg){ .avatar-left }
+![Yuu Li](../img/YuLi_bridge.jpg){ .avatar-left }
 
 I am currently a second-year Ph.D. candidate at GWU supervised by <a href="https://www2.seas.gwu.edu/~tlan/">Prof. Tian Lan</a> and work with <a href="https://sites.google.com/view/statsqizl/">Prof.Zhengling Qi</a>. 
 
