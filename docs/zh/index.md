@@ -194,8 +194,8 @@
 
 ## 趣事 (Fun Facts)
 
-- 我是一个宝可梦爱好者 <img class="inline-icon" src="../img/pokeball.svg" alt="精灵球">
+- 我是一个宝可梦爱好者。<img class="inline-icon" src="../img/pokeball.svg" alt="精灵球">
 - 我非常喜欢散步和徒步旅行。
-- 我最爱的动物是我们家的猫 dd，她喜欢我摸她的头。
+- 我最爱的动物是我们家的猫 dd，她喜欢我摸她的头。<img class="inline-icon" src="../img/whitecat.svg" alt="白猫">
 
 这个网站模版是从我<a href="https://maechd.github.io/">最好的朋友</a>那里偷来的。

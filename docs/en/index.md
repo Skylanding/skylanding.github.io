@@ -194,8 +194,8 @@ The peer review mechanism is breaking down, but conscientious peer review endure
 
 ## Fun Facts
 
-- I am a Pokémon fan <img class="inline-icon" src="../img/pokeball.svg" alt="Poké Ball">
+- I am a Pokémon fan. <img class="inline-icon" src="../img/pokeball.svg" alt="Poké Ball">
 - I love walking and hiking.
-- My favorite animal is our family cat, dd. She likes it when I pat her head.
+- My favorite animal is our family cat, dd. She likes it when I pat her head. <img class="inline-icon" src="../img/whitecat.svg" alt="White cat">
 
 This website was stolen from my <a href="https://maechd.github.io/">best friend CD.</a>
