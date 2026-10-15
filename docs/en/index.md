@@ -1,6 +1,6 @@
 # Yuu Li
 
-<div class="name-pron">English: <b>/ˈjuː ˈliː/</b> (YOO-lee) &nbsp;·&nbsp; 日本語: <b lang="ja">ユウ・リー</b> (Yū Rī)</div>
+<div class="name-pron"><b>/ˈjuː ˈliː/</b> &nbsp;·&nbsp; <b lang="ja">ユウ・リー</b> &nbsp;·&nbsp; <b lang="ko">유 리</b></div>
 
   <strong>George Washington University</strong>, Washington, D.C. *2025.9–2029.5(expected)*
   <div class="edu-detail">

@@ -1,6 +1,6 @@
 # 李煜 (Yuu Li)
 
-<div class="name-pron">英语: <b>/ˈjuː ˈliː/</b> (YOO-lee) &nbsp;·&nbsp; 日语: <b lang="ja">ユウ・リー</b> (Yū Rī)</div>
+<div class="name-pron"><b>/ˈjuː ˈliː/</b> &nbsp;·&nbsp; <b lang="ja">ユウ・リー</b> &nbsp;·&nbsp; <b lang="ko">유 리</b></div>
 
  
   <strong>乔治·华盛顿大学 (George Washington University)</strong>, 华盛顿特区. *2025.9-2029.5(预计)*
