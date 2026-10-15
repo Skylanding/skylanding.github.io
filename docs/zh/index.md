@@ -4,7 +4,7 @@
 
 <div class="hero-text" markdown>
 
-# 李煜 (Yuu Li) <span class="name-pron">ユウ・リー · 유 이</span>
+# 李煜 (Yuu Li) <span class="name-pron">[ユウ・リー] [유 이]</span>
 
 <p class="hero-role">乔治·华盛顿大学 ECE 博士候选人</p>
 
@@ -194,7 +194,7 @@
 
 ## 趣事 (Fun Facts)
 
-- 我是一个宝可梦爱好者。
+- 我是一个宝可梦爱好者 <img class="inline-icon" src="../img/pokeball.svg" alt="精灵球">
 - 我非常喜欢散步和徒步旅行。
 - 我最爱的动物是我们家的猫 dd，她喜欢我摸她的头。
 
