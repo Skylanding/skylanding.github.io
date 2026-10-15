@@ -4,7 +4,7 @@
 
 <div class="hero-text" markdown>
 
-# 李煜 (Yuu Li) <span class="name-pron">ユウ・リー · <span lang="ru">Юу Ли</span> · 유 이</span>
+# 李煜 (Yuu Li) <span class="name-pron">ユウ・リー · 유 이</span>
 
 <p class="hero-role">乔治·华盛顿大学 ECE 博士候选人</p>
 
@@ -190,5 +190,12 @@
 - **会议审稿人:** NeurIPS’26, COLM’26, ACM MM’26, ICML’26, ICLR’26, AAAI’26, ICASSP’26
 - **期刊审稿人:** TMLR, TPAMI, ToN, Neurocomputing
 
+---
+
+## 趣事 (Fun Facts)
+
+- 我是一个宝可梦爱好者。
+- 我非常喜欢散步和徒步旅行。
+- 我最爱的动物是我们家的猫 dd，她喜欢我摸她的头。
 
 这个网站模版是从我<a href="https://maechd.github.io/">最好的朋友</a>那里偷来的。

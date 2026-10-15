@@ -4,7 +4,7 @@
 
 <div class="hero-text" markdown>
 
-# Yuu Li <span class="name-pron">ユウ・リー · <span lang="ru">Юу Ли</span> · 유 이</span>
+# Yuu Li <span class="name-pron">ユウ・リー · 유 이</span>
 
 <p class="hero-role">Ph.D. Candidate in ECE at GW</p>
 
@@ -190,6 +190,12 @@ The peer review mechanism is breaking down, but conscientious peer review endure
 - **Conference Reviewer:** NeurIPS’26, COLM’26, ACM MM’26, ICML’26, ICLR’26, AAAI’26, ICASSP’26
 - **Journal Reviewer:** TMLR, TPAMI, ToN, Neurocomputing
 
+---
 
+## Fun Facts
+
+- I am a Pokémon fan.
+- I love walking and hiking.
+- My favorite animal is our family cat, dd. She likes it when I pat her head.
 
 This website was stolen from my <a href="https://maechd.github.io/">best friend CD.</a>
