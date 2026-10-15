@@ -1,29 +1,42 @@
+<div class="hero" markdown>
+
+<img class="hero-avatar" src="../img/YuLi_bridge.jpg" alt="Yuu Li">
+
+<div class="hero-text" markdown>
+
 # Yuu Li
 
 <div class="name-pron"><b>/ˈjuː ˈliː/</b> &nbsp;·&nbsp; <b lang="ja">ユウ・リー</b> &nbsp;·&nbsp; <b lang="ko">유 이</b></div>
 
-  <strong>George Washington University</strong>, Washington, D.C. *2025.9–2029.5(expected)*
-  <div class="edu-detail">
-    Ph.D. in Electrical and Computer Engineering (GPA: 4.0/4.0)
-  </div>
+<p class="hero-role">Ph.D. Candidate in Electrical and Computer Engineering, George Washington University</p>
 
-  <strong>Wuhan University</strong>, Hongyi Honor College, China *2021.9-2025.5*
-  <div class="edu-detail">
-    B.Eng. in Microelectronics Science and Technology (GPA: 3.87/4.0)
-  </div>
+<p>I am a second-year Ph.D. candidate supervised by <a href="https://www2.seas.gwu.edu/~tlan/">Prof. Tian Lan</a> and work with <a href="https://sites.google.com/view/statsqizl/">Prof. Zhengling Qi</a>.</p>
 
+<p class="hero-topics"><span class="hero-label">Research</span>LLM Post-Training · Agent Policy Learning · Generative AI</p>
 
-![Yuu Li](../img/YuLi_bridge.jpg){ .avatar-left }
+<div class="hero-links">
+  <a href="../file/CV_Yu_Li.pdf">CV</a>
+  <a href="https://github.com/skylanding" target="_blank" rel="noopener">GitHub</a>
+  <a href="https://scholar.google.com/citations?user=EjGk0dwAAAAJ&hl=en" target="_blank" rel="noopener">Google Scholar</a>
+  <a href="https://www.linkedin.com/in/yu-li-a089a6282/" target="_blank" rel="noopener">LinkedIn</a>
+</div>
 
-I am currently a second-year Ph.D. candidate at GWU supervised by <a href="https://www2.seas.gwu.edu/~tlan/">Prof. Tian Lan</a> and work with <a href="https://sites.google.com/view/statsqizl/">Prof.Zhengling Qi</a>. 
+</div>
 
+</div>
 
-**Research Topics: LLM Post-Training • Agent Policy Learning • Generative AI**
+## Education
 
-- 📄 **[CV](../file/CV_Yu_Li.pdf)**
-- 🧪 **[GitHub](https://github.com/skylanding)**
-- 🎓 **[Google Scholar](https://scholar.google.com/citations?user=EjGk0dwAAAAJ&hl=en)**
-- 💼 **[LinkedIn](https://www.linkedin.com/in/yu-li-a089a6282/)**
+<div class="edu-list">
+<div class="edu-row">
+  <div><strong>George Washington University</strong>, Washington, D.C.<div class="edu-detail">Ph.D. in Electrical and Computer Engineering · GPA 4.0/4.0</div></div>
+  <span class="edu-date">2025.9 – 2029.5 (expected)</span>
+</div>
+<div class="edu-row">
+  <div><strong>Wuhan University</strong>, Hongyi Honor College, China<div class="edu-detail">B.Eng. in Microelectronics Science and Technology · GPA 3.87/4.0</div></div>
+  <span class="edu-date">2021.9 – 2025.5</span>
+</div>
+</div>
 
 ---
 
@@ -41,7 +54,7 @@ I am currently a second-year Ph.D. candidate at GWU supervised by <a href="https
 
 ---
 
-## Publications
+## Selected Publications
 
 ### Preprint / Under Review
 
@@ -82,15 +95,7 @@ I am currently a second-year Ph.D. candidate at GWU supervised by <a href="https
   <div class="authors">
     <b>Yu Li</b>, Tian Lan, Zhengling Qi
   </div>
-  <span class="meta"><span class="text-blue"><i>NeurIPS 2026</i></span> · <span class="text-blue"><i>AI with Recursive Self-Improvement@ICLR 2026</i></span> (Poster)</span> · <a href="https://arxiv.org/abs/2512.23126" target="_blank" rel="noopener">Paper</a> · <a href="https://github.com/Skylanding/InsPO" target="_blank" rel="noopener">Code</a></span>
-</div>
-
-<div class="pub-item">
-  <strong>Prompted Information Bottlenecks: Rethinking Layer-Wise Information Allocation in Frozen Vision Transformers</strong><br/>
-  <div class="authors">
-    Yuqi Li, Xi Xiao, Yunbei Zhang, Lin Zhao, <b>Yu Li</b>, Aiden Zhao, Tianyang Wang, Hao Xu, Yingli Tian
-  </div>
-  <span class="meta"><span class="text-blue"><i>ACM MM 2026</i></span></span>
+  <span class="meta"><span class="text-blue"><i>NeurIPS 2026</i></span></span> · <a href="https://arxiv.org/abs/2512.23126" target="_blank" rel="noopener">Paper</a> · <a href="https://github.com/Skylanding/InsPO" target="_blank" rel="noopener">Code</a></span>
 </div>
 
 <div class="pub-item">
@@ -118,17 +123,6 @@ I am currently a second-year Ph.D. candidate at GWU supervised by <a href="https
 </div>
 
 <div class="pub-item">
-  <strong>ACDZero: MCTS Agent for Mastering Automated Cyber Defense</strong><br/>
-  <div class="authors">
-    <b>Yu Li*</b>, Sizhe Tang*, Rongqian Chen, Fei Xu Yu, Guangyu Jiang, Mahdi Imani, Nathaniel D. Bastian, Tian Lan
-  </div>
-  <div>
-  <span class="meta">(*:Equal contribution)</span>
-  </div>
-  <span class="meta"><span class="text-blue"><i>ICCN@INFOCOM 2026</i></span> · <a href="https://arxiv.org/abs/2601.02196" target="_blank" rel="noopener">Paper</a> · <a href="https://github.com/Skylanding/ACDZero" target="_blank" rel="noopener">Code</a></span>
-</div>
-
-<div class="pub-item">
   <strong>KG-SAM: Injecting Anatomical Knowledge into Segment Anything Models via Conditional Random Fields</strong><br/>
   <div class="authors">
     <b>Yu Li</b>, Chang Da, Xi Xiao
@@ -142,17 +136,6 @@ I am currently a second-year Ph.D. candidate at GWU supervised by <a href="https
     Chang Da, Peng Xue, <b>Yu Li</b>, Yongxiang Liu, Pengxiang Xu, Shixun Zhang
   </div>
   <span class="meta"><span class="text-blue"><i>AAAI 2026</i></span> · <a href="https://arxiv.org/abs/2511.00051" target="_blank" rel="noopener">Paper</a> · <a href="https://github.com/MaeChd/SORA" target="_blank" rel="noopener">Code</a></span>
-</div>
-
-<div class="pub-item">
-  <strong>Mixed Text Recognition with Efficient Parameter Fine-Tuning and Transformer</strong><br/>
-  <div class="authors">
-    <b>Yu Li*</b>, Chang Da*
-  </div>
-  <div>
-  <span class="meta">(*:Equal contribution)</span>
-  </div>
-  <span class="meta"><span class="text-blue"><i>ICONIP 2024</i></span></span> · <a href="https://arxiv.org/abs/2404.12734" target="_blank" rel="noopener">Paper</a> · <a href="https://github.com/MaeChd/DLoRA-TrOCR" target="_blank" rel="noopener">Code</a></span>
 </div>
 
 </div>

@@ -147,7 +147,53 @@
   image-rendering: pixelated;
 }
 
-/* name pronunciation under the page title */
-.md-typeset h1 + .name-pron { margin-top: -1.2em; margin-bottom: 1.2em; }
-.md-typeset .name-pron { font-size: 0.8rem; color: var(--md-default-fg-color--light); }
+/* 主页顶部：头像 + 名字、读音、身份、简介、方向、链接 */
+.md-typeset .hero {
+  display: grid;
+  grid-template-columns: 150px minmax(0, 1fr);
+  gap: 24px;
+  align-items: start;
+  margin-bottom: 1.5rem;
+}
+.md-typeset .hero-avatar {
+  width: 150px; height: 150px;
+  object-fit: cover;
+  border-radius: 6px;
+  border: 2px solid var(--md-default-fg-color--lightest, #e0e0e0);
+}
+.md-typeset .hero-text h1 { margin: 0 0 .15em; }
+.md-typeset .hero-text p { margin: .35em 0; }
+.md-typeset .name-pron { font-size: .8rem; color: var(--md-default-fg-color--light); margin-bottom: .6em; }
 .md-typeset .name-pron b { font-weight: 600; color: var(--md-default-fg-color); }
+.md-typeset .hero-role { font-weight: 600; }
+.md-typeset .hero-label {
+  font-size: .7em;
+  text-transform: uppercase;
+  letter-spacing: .06em;
+  color: var(--md-default-fg-color--light);
+  margin-right: .6em;
+}
+.md-typeset .hero-links { display: flex; flex-wrap: wrap; gap: 8px; margin-top: .8em; }
+.md-typeset .hero-links a {
+  border: 1px solid var(--md-default-fg-color--lighter, #ddd);
+  border-radius: 9999px;
+  padding: 2px 12px;
+  font-size: .8em;
+  text-decoration: none;
+}
+.md-typeset .hero-links a:hover { border-color: var(--md-accent-fg-color); }
+@media (max-width: 600px) {
+  .md-typeset .hero { grid-template-columns: minmax(0, 1fr); justify-items: center; text-align: center; }
+  .md-typeset .hero-links { justify-content: center; }
+}
+
+/* 教育经历：每校一行，日期右对齐 */
+.md-typeset .edu-list { display: grid; gap: 10px; margin-bottom: 1rem; }
+.md-typeset .edu-row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 2px 16px;
+}
+.md-typeset .edu-date { font-size: .8em; color: var(--md-default-fg-color--light); white-space: nowrap; }

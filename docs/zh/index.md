@@ -1,29 +1,42 @@
+<div class="hero" markdown>
+
+<img class="hero-avatar" src="../img/YuLi_bridge.jpg" alt="Yuu Li">
+
+<div class="hero-text" markdown>
+
 # 李煜 (Yuu Li)
 
 <div class="name-pron"><b>/ˈjuː ˈliː/</b> &nbsp;·&nbsp; <b lang="ja">ユウ・リー</b> &nbsp;·&nbsp; <b lang="ko">유 이</b></div>
 
- 
-  <strong>乔治·华盛顿大学 (George Washington University)</strong>, 华盛顿特区. *2025.9-2029.5(预计)*
-  <div class="edu-detail">
-    电子与计算机工程系 (ECE) 博士
-  </div>
+<p class="hero-role">乔治·华盛顿大学 电子与计算机工程系 博士候选人</p>
 
-  <strong>武汉大学(Wuhan University)</strong> *弘毅学堂2021级*
-  <div class="edu-detail">
-    微电子科学与技术 工学学士 (GPA: 3.87/4.0)
-  </div>
+<p>我目前是二年级博士候选人，导师是 <a href="https://www2.seas.gwu.edu/~tlan/">Tian Lan</a> 教授，并与 <a href="https://sites.google.com/view/statsqizl/">Zhengling Qi</a> 教授合作。</p>
 
+<p class="hero-topics"><span class="hero-label">研究方向</span>LLM 后训练 · 智能体策略学习 · 生成式 AI</p>
 
-![Yuu Li](../img/YuLi_bridge.jpg){ .avatar-left }
+<div class="hero-links">
+  <a href="../file/CV_Yu_Li.pdf">简历</a>
+  <a href="https://github.com/skylanding" target="_blank" rel="noopener">GitHub</a>
+  <a href="https://scholar.google.com/citations?user=EjGk0dwAAAAJ&hl=en" target="_blank" rel="noopener">谷歌学术</a>
+  <a href="https://www.linkedin.com/in/yu-li-a089a6282/" target="_blank" rel="noopener">领英</a>
+</div>
 
-我目前是<a href="https://www.ece.gwu.edu/">乔治·华盛顿大学</a> 二年级博士候选人，导师是 <a href="https://www2.seas.gwu.edu/~tlan/">Tian Lan</a> 教授，并与 <a href="https://sites.google.com/view/statsqizl/">Zhengling Qi</a> 教授合作。
+</div>
 
-**研究方向: LLM 后训练 • 智能体策略学习 • 生成式AI**
+</div>
 
-- 📄 **[简历](../file/CV_Yu_Li.pdf)**
-- 🧪 **[GitHub](https://github.com/skylanding)**
-- 🎓 **[谷歌学术](https://scholar.google.com/citations?user=EjGk0dwAAAAJ&hl=en)**
-- 💼 **[领英](https://www.linkedin.com/in/yu-li-a089a6282/)**
+## 教育经历 (Education)
+
+<div class="edu-list">
+<div class="edu-row">
+  <div><strong>乔治·华盛顿大学 (George Washington University)</strong>，华盛顿特区<div class="edu-detail">电子与计算机工程系 (ECE) 博士 · GPA 4.0/4.0</div></div>
+  <span class="edu-date">2025.9 – 2029.5（预计）</span>
+</div>
+<div class="edu-row">
+  <div><strong>武汉大学 (Wuhan University)</strong>，弘毅学堂，中国武汉<div class="edu-detail">微电子科学与技术 工学学士 · GPA 3.87/4.0</div></div>
+  <span class="edu-date">2021.9 – 2025.5</span>
+</div>
+</div>
 
 ---
 
@@ -41,7 +54,7 @@
 
 ---
 
-## 论文发表 (Publications)
+## 代表性论文 (Selected Publications)
 
 ### 预印本 / 在投 (Preprint / Under Review)
 
@@ -82,15 +95,7 @@
   <div class="authors">
     <b>Yu Li</b>, Tian Lan, Zhengling Qi
   </div>
-  <span class="meta"><span class="text-blue"><i>NeurIPS 2026</i></span> · <span class="text-blue"><i>AI with Recursive Self-Improvement@ICLR 2026</i></span> (Poster)</span> · <a href="https://arxiv.org/abs/2512.23126" target="_blank" rel="noopener">论文</a> · <a href="https://github.com/Skylanding/InsPO" target="_blank" rel="noopener">代码</a></span>
-</div>
-
-<div class="pub-item">
-  <strong>Prompted Information Bottlenecks: Rethinking Layer-Wise Information Allocation in Frozen Vision Transformers</strong><br/>
-  <div class="authors">
-    Yuqi Li, Xi Xiao, Yunbei Zhang, Lin Zhao, <b>Yu Li</b>, Aiden Zhao, Tianyang Wang, Hao Xu, Yingli Tian
-  </div>
-  <span class="meta"><span class="text-blue"><i>ACM MM 2026</i></span></span>
+  <span class="meta"><span class="text-blue"><i>NeurIPS 2026</i></span></span> · <a href="https://arxiv.org/abs/2512.23126" target="_blank" rel="noopener">论文</a> · <a href="https://github.com/Skylanding/InsPO" target="_blank" rel="noopener">代码</a></span>
 </div>
 
 <div class="pub-item">
@@ -118,17 +123,6 @@
 </div>
 
 <div class="pub-item">
-  <strong>ACDZero: MCTS Agent for Mastering Automated Cyber Defense</strong><br/>
-  <div class="authors">
-    <b>Yu Li*</b>, Sizhe Tang*, Rongqian Chen, Fei Xu Yu, Guangyu Jiang, Mahdi Imani, Nathaniel D. Bastian, Tian Lan
-  </div>
-  <div>
-  <span class="meta">(*:Equal contribution)</span>
-  </div>
-  <span class="meta"><span class="text-blue"><i>ICCN@INFOCOM 2026</i></span> · <a href="https://arxiv.org/abs/2601.02196" target="_blank" rel="noopener">论文</a> · <a href="https://github.com/Skylanding/ACDZero" target="_blank" rel="noopener">代码</a></span>
-</div>
-
-<div class="pub-item">
   <strong>KG-SAM: Injecting Anatomical Knowledge into Segment Anything Models via Conditional Random Fields</strong><br/>
   <div class="authors">
     <b>Yu Li</b>, Chang Da, Xi Xiao
@@ -142,17 +136,6 @@
     Chang Da, Peng Xue, <b>Yu Li</b>, Yongxiang Liu, Pengxiang Xu, Shixun Zhang
   </div>
   <span class="meta"><span class="text-blue"><i>AAAI 2026</i></span> · <a href="https://arxiv.org/abs/2511.00051" target="_blank" rel="noopener">论文</a> · <a href="https://github.com/MaeChd/SORA" target="_blank" rel="noopener">代码</a></span>
-</div>
-
-<div class="pub-item">
-  <strong>Mixed Text Recognition with Efficient Parameter Fine-Tuning and Transformer</strong><br/>
-  <div class="authors">
-    <b>Yu Li*</b>, Chang Da*
-  </div>
-  <div>
-  <span class="meta">(*:Equal contribution)</span>
-  </div>
-  <span class="meta"><span class="text-blue"><i>ICONIP 2024</i></span></span> · <a href="https://arxiv.org/abs/2404.12734" target="_blank" rel="noopener">论文</a> · <a href="https://github.com/MaeChd/DLoRA-TrOCR" target="_blank" rel="noopener">代码</a></span>
 </div>
 
 </div>
