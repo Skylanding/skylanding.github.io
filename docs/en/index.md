@@ -10,7 +10,7 @@
 
 <p>I am a second-year Ph.D. candidate supervised by <a href="https://www2.seas.gwu.edu/~tlan/">Prof. Tian Lan</a> and work with <a href="https://sites.google.com/view/statsqizl/">Prof. Zhengling Qi</a>.</p>
 
-<p class="hero-topics"><span class="hero-label">Research</span>LLM Post-Training · Agent Policy Learning · Generative AI</p>
+<p class="hero-topics"><span class="hero-label">Research</span>LLM Reasoning · Agentic Systems · Vision and Control</p>
 
 <div class="hero-links">
   <a href="../file/CV_Yu_Li.pdf">CV</a>

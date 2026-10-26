@@ -10,7 +10,7 @@
 
 <p>我目前是二年级博士候选人，导师是 <a href="https://www2.seas.gwu.edu/~tlan/">Tian Lan</a> 教授，并与 <a href="https://sites.google.com/view/statsqizl/">Zhengling Qi</a> 教授合作。</p>
 
-<p class="hero-topics"><span class="hero-label">研究方向</span>LLM 后训练 · 智能体策略学习 · 生成式 AI</p>
+<p class="hero-topics"><span class="hero-label">研究方向</span>LLM 推理 · 智能体系统 · 视觉与控制</p>
 
 <div class="hero-links">
   <a href="../file/CV_Yu_Li.pdf">简历</a>
