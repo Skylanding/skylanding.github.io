@@ -54,6 +54,30 @@
 
 ## 代表性论文 (Selected Publications)
 
+### 近期研究 (Recent Research)
+
+<div class="pub-list">
+
+<div class="pub-item">
+  <strong>ARISE: Agent Reasoning with Intrinsic Skill Evolution in Hierarchical Reinforcement Learning</strong><br/>
+  <div class="authors">
+    <b>Yu Li</b>, Rui Miao, Zhengling Qi, Tian Lan
+  </div>
+  <span class="meta">在投</span> · <a href="https://arxiv.org/abs/2603.16060" target="_blank" rel="noopener">论文</a> · <a href="https://github.com/Skylanding/ARISE" target="_blank" rel="noopener">代码</a>
+</div>
+
+<div class="pub-item">
+  <strong>Right Meets Wrong: Bilateral Context Conditioning with Reward-Confidence Correction for GRPO</strong><br/>
+  <div class="authors">
+    <b>Yu Li</b>, Tian Lan, Zhengling Qi
+  </div>
+  <span class="meta">在投</span> · <a href="https://arxiv.org/abs/2603.13134" target="_blank" rel="noopener">论文</a> · <a href="https://github.com/Skylanding/BiCC" target="_blank" rel="noopener">代码</a>
+</div>
+
+</div>
+
+### 会议论文 (Conferences)
+
 <div class="pub-list">
 
 <div class="pub-item">
@@ -78,6 +102,14 @@
     <b>Yu Li</b>, Binxu Li, Tian Lan
   </div>
   <span class="meta"><span class="text-blue"><i>COLM 2026</i></span></span> · <a href="https://arxiv.org/abs/2606.01563" target="_blank" rel="noopener">论文</a>
+</div>
+
+<div class="pub-item">
+  <strong>Reason in Chains, Learn in Trees: Self-Rectification and Grafting for Multi-turn Agent Policy Optimization</strong><br/>
+  <div class="authors">
+    <b>Yu Li</b>, Sizhe Tang, Tian Lan
+  </div>
+  <span class="meta"><span class="text-blue"><i>ACL Findings 2026</i></span></span>
 </div>
 
 <div class="pub-item">
