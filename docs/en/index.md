@@ -1,6 +1,6 @@
 <div class="hero" markdown>
 
-<img class="hero-avatar" src="../img/YuLi_bridge.jpg" alt="Yuu Li">
+<figure class="hero-figure"><img class="hero-avatar" src="../img/YuLi_kemper.jpg" alt="Yuu Li"><figcaption>Happy times at Kemper Hall, UC Davis, 2024</figcaption></figure>
 
 <div class="hero-text" markdown>
 

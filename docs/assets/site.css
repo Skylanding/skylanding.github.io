@@ -161,6 +161,14 @@
   border-radius: 6px;
   border: 2px solid var(--md-default-fg-color--lightest, #e0e0e0);
 }
+.md-typeset .hero-figure { margin: 0; }
+.md-typeset .hero-figure figcaption {
+  margin-top: 6px;
+  font-size: .62rem;
+  line-height: 1.35;
+  text-align: center;
+  color: var(--md-default-fg-color--light);
+}
 .md-typeset .hero-text h1 { margin: 0 0 .3em; }
 .md-typeset .hero-text p { margin: .35em 0; }
 .md-typeset .hero-text h1 .name-pron {
