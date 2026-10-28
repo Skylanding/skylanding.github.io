@@ -28,7 +28,7 @@
 <div class="edu-list">
 <div class="edu-row">
   <div><strong>乔治·华盛顿大学 (George Washington University)</strong>，华盛顿特区<div class="edu-detail">电子与计算机工程系 (ECE) 博士 · GPA 4.0/4.0</div></div>
-  <span class="edu-date">2025.9 – 2029.5（预计）</span>
+  <span class="edu-date">2025.9 – 2028.12（预计）</span>
 </div>
 <div class="edu-row">
   <div><strong>武汉大学 (Wuhan University)</strong>，弘毅学堂，中国武汉<div class="edu-detail">微电子科学与技术 工学学士 · GPA 3.87/4.0</div></div>
@@ -85,7 +85,7 @@
 <div class="pub-item">
   <strong>VideoGen-Agent: Reinforcing Video Generation Agents</strong><br/>
   <div class="authors">
-    Binxu Li, Haoyi Duan, Yuhui Zhang, Yaohui Zhang, Zihao Lin, Kaituo Feng, Suozhi Huang, Xiangyi Li, <b>Yu Li</b>, Chunyuan Li, Shilong Liu, Mengdi Wang
+    Binxu Li, Haoyi Duan, Yuhui Zhang, ..., <b>Yu Li</b>, et al.
   </div>
   <span class="meta">arXiv 2026</span> · <a href="https://arxiv.org/abs/2609.24997" target="_blank" rel="noopener">Paper</a>
 </div>
