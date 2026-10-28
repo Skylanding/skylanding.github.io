@@ -74,6 +74,22 @@
   <span class="meta">在投</span> · <a href="https://arxiv.org/abs/2603.13134" target="_blank" rel="noopener">论文</a> · <a href="https://github.com/Skylanding/BiCC" target="_blank" rel="noopener">代码</a>
 </div>
 
+<div class="pub-item">
+  <strong>Hindsight Self-Distillation: Demonstrating to the Teacher for On-Policy LLM Reasoning</strong><br/>
+  <div class="authors">
+    <b>Yu Li</b>, Shu Hong, Tian Lan
+  </div>
+  <span class="meta">Under review</span> · <a href="https://arxiv.org/abs/2606.15576" target="_blank" rel="noopener">Paper</a>
+</div>
+
+<div class="pub-item">
+  <strong>VideoGen-Agent: Reinforcing Video Generation Agents</strong><br/>
+  <div class="authors">
+    Binxu Li, Haoyi Duan, Yuhui Zhang, Yaohui Zhang, Zihao Lin, Kaituo Feng, Suozhi Huang, Xiangyi Li, <b>Yu Li</b>, Chunyuan Li, Shilong Liu, Mengdi Wang
+  </div>
+  <span class="meta">arXiv 2026</span> · <a href="https://arxiv.org/abs/2609.24997" target="_blank" rel="noopener">Paper</a>
+</div>
+
 </div>
 
 ### 会议论文 (Conferences)
