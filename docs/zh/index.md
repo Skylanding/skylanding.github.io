@@ -54,30 +54,6 @@
 
 ## 代表性论文 (Selected Publications)
 
-### 预印本 / 在投 (Preprint / Under Review)
-
-<div class="pub-list">
-
-<div class="pub-item">
-  <strong>ARISE: Agent Reasoning with Intrinsic Skill Evolution in Hierarchical Reinforcement Learning</strong><br/>
-  <div class="authors">
-    <b>Yu Li</b>, Rui Miao, Zhengling Qi, Tian Lan
-  </div>
-  <span class="meta">在投</span> · <a href="https://arxiv.org/abs/2603.16060" target="_blank" rel="noopener">论文</a> · <a href="https://github.com/Skylanding/ARISE" target="_blank" rel="noopener">代码</a>
-</div>
-
-<div class="pub-item">
-  <strong>Right Meets Wrong: Bilateral Context Conditioning with Reward-Confidence Correction for GRPO</strong><br/>
-  <div class="authors">
-    <b>Yu Li</b>, Tian Lan, Zhengling Qi
-  </div>
-  <span class="meta">在投</span> · <a href="https://arxiv.org/abs/2603.13134" target="_blank" rel="noopener">论文</a> · <a href="https://github.com/Skylanding/BiCC" target="_blank" rel="noopener">代码</a>
-</div>
-
-</div>
-
-### 会议论文 (Conferences)
-
 <div class="pub-list">
 
 <div class="pub-item">
@@ -105,27 +81,11 @@
 </div>
 
 <div class="pub-item">
-  <strong>Reason in Chains, Learn in Trees: Self-Rectification and Grafting for Multi-turn Agent Policy Optimization</strong><br/>
-  <div class="authors">
-    <b>Yu Li</b>, Sizhe Tang, Tian Lan
-  </div>
-  <span class="meta"><span class="text-blue"><i>ACL Findings 2026</i></span></span>
-</div>
-
-<div class="pub-item">
   <strong>CRAFT-LoRA: Content-Style Personalization via Rank-Constrained Adaptation and Training-Free Fusion</strong><br/>
   <div class="authors">
     <b>Yu Li</b>, Yujun Cai, Chi Zhang
   </div>
   <span class="meta"><span class="text-blue"><i>CVPR 2026</i></span></span> · <a href="https://arxiv.org/abs/2602.18936" target="_blank" rel="noopener">论文</a> · <a href="https://github.com/Skylanding/CraftLoRA" target="_blank" rel="noopener">代码</a> 
-</div>
-
-<div class="pub-item">
-  <strong>KG-SAM: Injecting Anatomical Knowledge into Segment Anything Models via Conditional Random Fields</strong><br/>
-  <div class="authors">
-    <b>Yu Li</b>, Chang Da, Xi Xiao
-  </div>
-  <span class="meta"><span class="text-blue"><i>ICASSP 2026</i></span> · <span class="text-orange"><b>Oral</b></span> · <a href="https://arxiv.org/abs/2509.21750" target="_blank" rel="noopener">论文</a>
 </div>
 
 <div class="pub-item">
@@ -137,6 +97,8 @@
 </div>
 
 </div>
+
+<p>完整论文列表请见我的<a href="https://scholar.google.com/citations?user=EjGk0dwAAAAJ&hl=en" target="_blank" rel="noopener">谷歌学术</a>主页。</p>
 
 ---
 
