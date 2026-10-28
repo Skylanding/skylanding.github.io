@@ -1,6 +1,6 @@
 <div class="hero" markdown>
 
-<figure class="hero-figure"><img class="hero-avatar" src="../img/YuLi_kemper.jpg" alt="Yuu Li"><figcaption>Happy times at Kemper Hall, UC Davis, 2024</figcaption></figure>
+<figure class="hero-figure"><img class="hero-avatar" src="../img/YuLi_kemper2023.jpg" alt="Yuu Li"><figcaption>Happy times at Kemper Hall, UC Davis, 2023</figcaption></figure>
 
 <div class="hero-text" markdown>
 
@@ -161,19 +161,19 @@
 </div>
 
 <div class="pub-item">
-  <strong>GREAT Summer Research Program, UC Davis</strong>
-  <div class="authors">
-    Research Topic: Deep Learning for Biomedical Imaging in Healthcare
-  </div>
-  <span class="meta">Advisor: Prof. Weijian Yang · Jul. 2024 – Sep. 2024</span>
-</div>
-
-<div class="pub-item">
   <strong>Cyber-Physical Systems Lab, UC Irvine</strong>
   <div class="authors">
     Research Topic: Multimodal Uncertainty Fusion
   </div>
   <span class="meta">Advisor: Prof. Mohammad Al Faruque · Jun. 2024 – Oct. 2024</span>
+</div>
+
+<div class="pub-item">
+  <strong>GREAT Summer Research Program, UC Davis</strong>
+  <div class="authors">
+    Research Topic: Deep Learning for Biomedical Imaging in Healthcare
+  </div>
+  <span class="meta">Advisor: Prof. Weijian Yang · Jul. 2023 – Oct. 2023</span>
 </div>
 
 </div>
