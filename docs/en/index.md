@@ -8,7 +8,7 @@
 
 <p class="hero-role">Ph.D. Candidate in ECE at GW</p>
 
-<p>I am a second-year Ph.D. candidate supervised by <a href="https://www2.seas.gwu.edu/~tlan/">Prof. Tian Lan</a> and work with <a href="https://sites.google.com/view/statsqizl/">Prof. Zhengling Qi</a>.</p>
+<p>I am a second-year Ph.D. candidate supervised by <a href="https://www2.seas.gwu.edu/~tlan/">Prof. Tian Lan</a> and work with <a href="https://sites.google.com/view/statsqizl/">Prof. Zhengling Qi</a>. I do tiny research on LLMs, mainly on attributing and optimizing the internal mechanisms of LLM training and inference.</p>
 
 <p class="hero-topics"><span class="hero-label">Research</span>LLM Reasoning · Agentic Systems · Vision and Control</p>
 

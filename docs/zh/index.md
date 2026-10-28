@@ -8,7 +8,7 @@
 
 <p class="hero-role">乔治·华盛顿大学 ECE 博士候选人</p>
 
-<p>我目前是二年级博士候选人，导师是 <a href="https://www2.seas.gwu.edu/~tlan/">Tian Lan</a> 教授，并与 <a href="https://sites.google.com/view/statsqizl/">Zhengling Qi</a> 教授合作。</p>
+<p>我目前是二年级博士候选人，导师是 <a href="https://www2.seas.gwu.edu/~tlan/">Tian Lan</a> 教授，并与 <a href="https://sites.google.com/view/statsqizl/">Zhengling Qi</a> 教授合作。我在做一些关于 LLM 的 tiny research，主要关注 LLM 训练与推理内部机理的归因与优化。</p>
 
 <p class="hero-topics"><span class="hero-label">研究方向</span>LLM 推理 · 智能体系统 · 视觉与控制</p>
 
