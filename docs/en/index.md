@@ -161,6 +161,14 @@
 </div>
 
 <div class="pub-item">
+  <strong>GREAT Summer Research Program, UC Davis</strong>
+  <div class="authors">
+    Research Topic: Deep Learning for Biomedical Imaging in Healthcare
+  </div>
+  <span class="meta">Advisor: Prof. Weijian Yang · Jul. 2024 – Sep. 2024</span>
+</div>
+
+<div class="pub-item">
   <strong>Cyber-Physical Systems Lab, UC Irvine</strong>
   <div class="authors">
     Research Topic: Multimodal Uncertainty Fusion

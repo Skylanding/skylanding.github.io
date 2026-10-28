@@ -161,6 +161,14 @@
 </div>
 
 <div class="pub-item">
+  <strong>加州大学戴维斯分校, GREAT 暑期科研项目</strong>
+  <div class="authors">
+    研究课题: 面向医疗健康的深度学习生物医学成像
+  </div>
+  <span class="meta">导师: Prof. Weijian Yang · 2024年7月 – 2024年9月</span>
+</div>
+
+<div class="pub-item">
   <strong>加州大学尔湾分校, 信息物理系统实验室</strong>
   <div class="authors">
     研究课题: 多模态不确定性融合
