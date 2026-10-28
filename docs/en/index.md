@@ -171,7 +171,7 @@
 <div class="pub-item">
   <strong>GREAT Summer Research Program, UC Davis</strong>
   <div class="authors">
-    Research Topic: Deep Learning for Biomedical Imaging in Healthcare
+    Research Topic: Deep Learning for Healthcare
   </div>
   <span class="meta">Advisor: Prof. Weijian Yang · Jul. 2023 – Oct. 2023</span>
 </div>
