@@ -28,7 +28,7 @@
 <div class="edu-list">
 <div class="edu-row">
   <div><strong>乔治·华盛顿大学 (George Washington University)</strong>，华盛顿特区<div class="edu-detail">电子与计算机工程系 (ECE) 博士 · GPA 4.0/4.0</div></div>
-  <span class="edu-date">2025.9 – 2028.12（预计）</span>
+  <span class="edu-date">2025.8 – 2028.12（预计）</span>
 </div>
 <div class="edu-row">
   <div><strong>武汉大学 (Wuhan University)</strong>，弘毅学堂，中国武汉<div class="edu-detail">微电子科学与技术 工学学士 · GPA 3.87/4.0</div></div>

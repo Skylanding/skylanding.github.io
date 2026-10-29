@@ -28,7 +28,7 @@
 <div class="edu-list">
 <div class="edu-row">
   <div><strong>George Washington University</strong>, Washington, D.C.<div class="edu-detail">Ph.D. in Electrical and Computer Engineering · GPA 4.0/4.0</div></div>
-  <span class="edu-date">2025.9 – 2028.12 (expected)</span>
+  <span class="edu-date">2025.8 – 2028.12 (expected)</span>
 </div>
 <div class="edu-row">
   <div><strong>Wuhan University</strong>, Hongyi Honor College, China<div class="edu-detail">B.Eng. in Microelectronics Science and Technology · GPA 3.87/4.0</div></div>
