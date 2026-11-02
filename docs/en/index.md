@@ -45,10 +45,10 @@
 
 - **[09/2026]** OPPO and InsPO are accepted to NeurIPS 2026 🎉. See you in Sydney.
 - **[07/2026]** MomentKV is accepted to COLM 2026 🎉.
+- **[06/2026]** I started serving as a reviewer for TMLR.
 - **[05/2026]** I joined ByteDance/TikTok as a Research Scientist Intern in San Jose 🚀.
 - **[04/2026]** T-STAR is accepted to ACL 2026 Findings 🎉.
 - **[02/2026]** CRAFT-LoRA is accepted to CVPR 2026 🎉.
-- **[12/2025]** I passed my PhD qualifying exam and became a PhD candidate 🎓.
 
 </div>
 

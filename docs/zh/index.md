@@ -45,10 +45,10 @@
 
 - **[09/2026]** OPPO 和 InsPO 被 NeurIPS 2026 接收 🎉. 悉尼见！
 - **[07/2026]** MomentKV 被 COLM 2026 接收 🎉.
+- **[06/2026]** 开始担任 TMLR 审稿人。
 - **[05/2026]** 加入 ByteDance/TikTok 担任研究科学家实习生，坐标圣何塞 🚀.
 - **[04/2026]** T-STAR 被 ACL 2026 Findings 接收 🎉.
 - **[02/2026]** CRAFT-LoRA 被 CVPR 2026 接收 🎉.
-- **[12/2025]** 通过博士资格考试，成为 PhD candidate 🎓.
 
 </div>
 
