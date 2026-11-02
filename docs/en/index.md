@@ -17,6 +17,7 @@
   <a href="https://github.com/skylanding" target="_blank" rel="noopener">GitHub</a>
   <a href="https://scholar.google.com/citations?user=EjGk0dwAAAAJ&hl=en" target="_blank" rel="noopener">Google Scholar</a>
   <a href="https://www.linkedin.com/in/yu-li-a089a6282/" target="_blank" rel="noopener">LinkedIn</a>
+  <a href="https://x.com/Yuurij5kh" target="_blank" rel="noopener">X</a>
 </div>
 
 </div>
