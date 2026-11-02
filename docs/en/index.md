@@ -44,7 +44,7 @@
 <div class="news-scroll" markdown>
 
 - **[09/2026]** OPPO and InsPO are accepted to NeurIPS 2026 🎉. See you in Sydney.
-- **[07/2026]** MomentKV is accepted to COLM 2026 🎉. See you in San Francisco.
+- **[07/2026]** MomentKV is accepted to COLM 2026 🎉.
 - **[06/2026]** I started serving as a reviewer for the TMLR.
 - **[05/2026]** I will join ByteDance as a Research Scientist Intern in San Jose from May to August 🚀.
 - **[02/2026]** CRAFT-LORA is accepted to CVPR 2026 🎉.
