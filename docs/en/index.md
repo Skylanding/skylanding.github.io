@@ -65,7 +65,7 @@
   <div class="authors">
     <b>Yu Li</b>, Yufa Zhou, Tian Lan
   </div>
-  <span class="meta">arXiv 2026</span> · <a href="https://arxiv.org/abs/2610.40945" target="_blank" rel="noopener">Paper</a>
+  <span class="meta">arXiv 2026</span> · <a href="https://arxiv.org/abs/2610.40945" target="_blank" rel="noopener">Paper</a> · <a href="https://github.com/Skylanding/Training-Inference-Mismatch" target="_blank" rel="noopener">Code</a>
 </div>
 
 <div class="pub-item">
