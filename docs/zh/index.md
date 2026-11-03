@@ -61,6 +61,14 @@
 <div class="pub-list">
 
 <div class="pub-item">
+  <strong>On the Origin and Evolution of Training-Inference Mismatch in LLM Reinforcement Learning</strong><br/>
+  <div class="authors">
+    <b>Yu Li</b>, Yufa Zhou, Tian Lan
+  </div>
+  <span class="meta">arXiv 2026</span> · <a href="https://arxiv.org/abs/2610.40945" target="_blank" rel="noopener">论文</a>
+</div>
+
+<div class="pub-item">
   <strong>ARISE: Agent Reasoning with Intrinsic Skill Evolution in Hierarchical Reinforcement Learning</strong><br/>
   <div class="authors">
     <b>Yu Li</b>, Rui Miao, Zhengling Qi, Tian Lan
