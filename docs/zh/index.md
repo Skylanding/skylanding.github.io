@@ -1,6 +1,6 @@
 <div class="hero" markdown>
 
-<figure class="hero-figure"><img class="hero-avatar" src="../img/YuLi_kemper2023.jpg" alt="Yuu Li"><figcaption>2023年 UC Davis Kemper Hall 的快乐时光</figcaption></figure>
+<figure class="hero-figure"><img class="hero-avatar" src="../img/YuLi_asmundson2023.jpg" alt="Yuu Li"><figcaption>2023年 UC Davis Asmundson Hall 的快乐时光</figcaption></figure>
 
 <div class="hero-text" markdown>
 

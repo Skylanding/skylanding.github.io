@@ -1,6 +1,6 @@
 <div class="hero" markdown>
 
-<figure class="hero-figure"><img class="hero-avatar" src="../img/YuLi_kemper2023.jpg" alt="Yuu Li"><figcaption>Happy times at Kemper Hall, UC Davis, 2023</figcaption></figure>
+<figure class="hero-figure"><img class="hero-avatar" src="../img/YuLi_asmundson2023.jpg" alt="Yuu Li"><figcaption>Happy times at Asmundson Hall, UC Davis, 2023</figcaption></figure>
 
 <div class="hero-text" markdown>
 
